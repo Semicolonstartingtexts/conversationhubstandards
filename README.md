@@ -1,2 +1,2 @@
-# conversationserverprovisions
-Provisions for endpoints and servers for conversations through it
+# conversationserverstandards
+Standards for provisions for endpoints and servers for conversations through it
