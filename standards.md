@@ -88,7 +88,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Contact…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
