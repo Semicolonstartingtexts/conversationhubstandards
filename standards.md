@@ -1,7 +1,5 @@
 Conversation Server Standards
 
-By about 22,539 people as of Jan 22, 2023 2:12pm
-
 Outline
 
 System Priorities
@@ -88,7 +86,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Contact…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
@@ -108,9 +106,9 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 System Talk
 
-Charges, the conversation that has been stacked or applied by a user with a representation of the user intentions for the conversation
+Charges, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
-Comments, the conversation that has been stacked or applied by or on or to the user with a representation of the intention of another user which had the conversation
+Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of another user which had the conversation
 
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
@@ -136,9 +134,9 @@ Administrator, initially the owner of the endpoint, administrators may pass on t
 
 Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the server may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
 
-Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server
+Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through system talk but wouldn’t be without system talk isn’t an endpoint
 
-Server, a set of mappings, which is be linked to an endpoint stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings
+Server, a set of mappings, which is be linked to an endpoint stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings, roles of the server aren’t permitted to change the definition or provisions of the endpoint, only the servers which the user holds a permitting role on to change and do what the role permits changed and done
 
 Definition, the sole phrase that has been stacked on the server to define the server’s provisions for setup and use or endpoint to define the endpoint’s servers setup and top-level server provisions for setup and use, scoped as necessary for the interactive experience, and to restrict or allow a user to stay connected to the server, or restrict or allow a user to be connected to or from the server by a user connected to the server, and the definition of the server may only be stacked, changed and unstacked by administrators of the server
 
@@ -150,7 +148,7 @@ Shelving, shelved system talk in libraries doesn’t have effects applied in int
 
 Stacking, storing system talk with a representation of the intention of the user’s self for the system talk, so in a mapping, the system talk may be interacting with the user and be interacting with other users in interactions with the user while in the mapping if the mapping’s provisions and consent status from and system talk provisions relevant for the interacting users permit, system talk can be stacked through the system commands which do so, a user is always stacked on the most recent confirmed phrase by the user for the user unless explicitly or generally unstacked, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
 
-Tracking, the application of effects applying at the current moment in the interactions of a user with the user or/and other users in a mapping with the user, the system talk may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
+Tracking, the application of effects applying at the current moment in the interactions of a user with the user or/and other users in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise permitted to be applying application of effects applicable in interactions with users interacting with a user in a mapping, may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
 
 Mappings, networks of users with preferences and/or rules able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned system commands which the server provisions allow
 
@@ -286,7 +284,7 @@ A user notices when has requested to talk to them by noticing the requesting use
 
 Incoming Connection Requests
 
-Moderators and administrators receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to a random connected to the server moderator, or server administrator if there are none of the server moderators connected, or owner of the endpoint if none of the server administrators are connected, also an option is thinking of a specific connected to the server administrator or moderator and intending to connect to the server to send a connection request to a specific moderator or administrator, if a request is denied, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given
+Moderators and administrators receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to a random connected to the server moderator, or server administrator if there are none of the server moderators connected, or owner of the endpoint if none of the server administrators are connected, also an option is thinking of a specific connected to the server administrator or moderator and intending to connect to the server to send a connection request to a specific moderator or administrator, if a request is denied, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given, incoming connection requests go to the most contextually, socially, or professionally relevant server depending on the intention of the requesting user at the time with a matching description and permitting definition
 
 Semicolon Starting SMS Texts
 
@@ -296,4 +294,4 @@ If the intended user for the effects applicable of the semicolon starting SMS te
 
 Imbued Objects Note
 
-It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset
+It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset, denying connections which are over the limit of 400 connections for the headset, with priority going to the newest connections

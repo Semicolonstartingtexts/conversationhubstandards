@@ -1,4 +1,10 @@
+# Conversation Server Standards
+
 Provisions for endpoints and servers for conversations through it
+
+By about 23,113 people as of Jan 22, 2023 11:33pm
+
+# Instructions
 
 To use on an endpoint, be on a conversation server or an endpoint connected to it and think stack the conversation server standards and the users which can connect are/aren’t … as the definition of the endpoint on the endpoint I’m using
 
