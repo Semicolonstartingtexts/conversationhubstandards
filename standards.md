@@ -120,7 +120,7 @@ Confirmed Phrase and Confirmed Phrases, the most recent phrase made by a user wh
 
 System Command Talk
 
-Declarations, system talk given with a system command, system talk which is focused on, may only be a reserved system command or declared in a provision
+Declarations, system talk given with a system command, system talk which is focused on, may only be a reserved system command or declared in a provision, may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
 
 Interactions, applicable with an apply system command only may be a reserved system command given with a system command, may be a system command gesture performed verbally given in a system command, or otherwise performed and may be declared in a provision
 
