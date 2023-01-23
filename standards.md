@@ -1,6 +1,6 @@
 Conversation Server Standards
 
-By about 23,111 people as of Jan 22, 2023 11:21pm
+By about 23,113 people as of Jan 22, 2023 11:33pm
 
 Outline
 
@@ -108,9 +108,9 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 System Talk
 
-Charges, the conversation that has been had by a user with a representation of the user intentions for the conversation
+Charges, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
-Comments, the conversation that has been had by or on or to the user with a representation of the intention of another user which had the conversation
+Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of another user which had the conversation
 
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
@@ -150,7 +150,7 @@ Shelving, shelved system talk in libraries doesn’t have effects applied in int
 
 Stacking, storing system talk with a representation of the intention of the user’s self for the system talk, so in a mapping, the system talk may be interacting with the user and be interacting with other users in interactions with the user while in the mapping if the mapping’s provisions and consent status from and system talk provisions relevant for the interacting users permit, system talk can be stacked through the system commands which do so, a user is always stacked on the most recent confirmed phrase by the user for the user unless explicitly or generally unstacked, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
 
-Tracking, the application of effects applying at the current moment in the interactions of a user with the user or/and other users in a mapping with the user, the system talk may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
+Tracking, the application of effects applying at the current moment in the interactions of a user with the user or/and other users in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise permitted to be applying application of effects applicable in interactions with users interacting with a user in a mapping, may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
 
 Mappings, networks of users with preferences and/or rules able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned system commands which the server provisions allow
 
