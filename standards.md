@@ -1,7 +1,5 @@
 Conversation Server Standards
 
-By about 23,113 people as of Jan 22, 2023 11:33pm
-
 Outline
 
 System Priorities
