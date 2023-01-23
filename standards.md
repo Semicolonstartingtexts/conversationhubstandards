@@ -294,4 +294,4 @@ If the intended user for the effects applicable of the semicolon starting SMS te
 
 Imbued Objects Note
 
-It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset, denying connections which are over the limit of 400 connections for the headset, with priority going to the newest connections
+It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset, denying connections which are over the limit of 400 connections for the headset, with priority going to the newest connections and limiting connections per imbued object to 12 with an imbuing timespan of 12 hours at most
