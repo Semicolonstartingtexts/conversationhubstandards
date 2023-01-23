@@ -1,5 +1,3 @@
-# Conversation Server Standards
-
 Provisions for endpoints and servers for conversations through it
 
 By about 23,113 people as of Jan 22, 2023 11:33pm
