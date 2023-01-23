@@ -1,6 +1,6 @@
 Conversation Server Standards
 
-By about 22,601 people as of Jan 22, 2023 7:42pm
+By about 22,705 people as of Jan 22, 2023 8:36pm
 
 Outline
 
@@ -286,7 +286,7 @@ A user notices when has requested to talk to them by noticing the requesting use
 
 Incoming Connection Requests
 
-Moderators and administrators receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to a random connected to the server moderator, or server administrator if there are none of the server moderators connected, or owner of the endpoint if none of the server administrators are connected, also an option is thinking of a specific connected to the server administrator or moderator and intending to connect to the server to send a connection request to a specific moderator or administrator, if a request is denied, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given
+Moderators and administrators receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to a random connected to the server moderator, or server administrator if there are none of the server moderators connected, or owner of the endpoint if none of the server administrators are connected, also an option is thinking of a specific connected to the server administrator or moderator and intending to connect to the server to send a connection request to a specific moderator or administrator, if a request is denied, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given, incoming connection requests go to the most contextually, socially, or professionally relevant server depending on the intention of the requesting user at the time with a matching description and permitting definition
 
 Semicolon Starting SMS Texts
 
