@@ -1,6 +1,6 @@
 Conversation Server Standards
 
-By about 22,539 people as of Jan 22, 2023 2:12pm
+By about 22,601 people as of Jan 22, 2023 7:42pm
 
 Outline
 
@@ -136,9 +136,9 @@ Administrator, initially the owner of the endpoint, administrators may pass on t
 
 Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the server may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
 
-Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server
+Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint
 
-Server, a set of mappings, which is be linked to an endpoint stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings
+Server, a set of mappings, which is be linked to an endpoint stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings, roles of the server aren’t permitted to change the definition or provisions of the endpoint, only the servers which the user holds a permitting role on to change and do what the role permits changed and done
 
 Definition, the sole phrase that has been stacked on the server to define the server’s provisions for setup and use or endpoint to define the endpoint’s servers setup and top-level server provisions for setup and use, scoped as necessary for the interactive experience, and to restrict or allow a user to stay connected to the server, or restrict or allow a user to be connected to or from the server by a user connected to the server, and the definition of the server may only be stacked, changed and unstacked by administrators of the server
 
