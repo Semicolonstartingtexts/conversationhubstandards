@@ -108,7 +108,7 @@ System Talk
 
 Intentioned Phrases, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
-Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self which had the conversation
+Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
