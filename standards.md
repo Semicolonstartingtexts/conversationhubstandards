@@ -14,7 +14,7 @@ Rules
 
 Confirmed Phrase and Confirmed Phrases
 
-Charges
+Intentioned Phrases
 
 Semicolon Starting SMS Texts
 
@@ -32,7 +32,7 @@ User
 
 System Talk
 
-Charges, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
+Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
 
 System Command Talk
 
@@ -106,9 +106,9 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 System Talk
 
-Charges, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
+Intentioned Phrases, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
-Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of another user which had the conversation
+Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
@@ -174,9 +174,9 @@ While Gesture: Placing the thumb on the farthest knuckle of the forefinger from 
 
 Stack Gesture: Either the gesturing user, mentioned user, mentioned mapping, or mapping the user is in, or all mappings on the server if a provision is mentioned in or implied by the focused phrase of the most recent gesture, stacks on the focused phrase of the most recent focus gesture, apply gesture, either, within the past couple of seconds by touching the forefinger tip to the thumb tip
 
-Unstack Gesture:  Hold for a couple of seconds the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as a charge which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
+Unstack Gesture:  Hold for a couple of seconds the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
 
-Info Unstack Gesture: Hold for a couple of seconds the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as a charge on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
+Info Unstack Gesture: Hold for a couple of seconds the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
 
 Utility System Command Gestures
 
@@ -290,7 +290,7 @@ Semicolon Starting SMS Texts
 
 Set my app preference for semicolon starting SMS texts… followed by an app will designate where the server should look for the user’s semicolon starting SMS texts on the user’s phone and set a preference for the app to be where the system should look for semicolon starting SMS texts for and by the users by stacking the user on the preference, the server won’t send empty messages and the user notices a message is required if an attempt to do so is initiated
 
-If the intended user for the effects applicable of the semicolon starting SMS text as well as the sending user and the intended recipient users or users of the semicolon starting SMS text have set an app preference for semicolon starting SMS texts with the set my app preference for semicolon starting SMS texts system command, the system will make their semicolon starting SMS texts in the app on their phone charges, and if the semicolon starting SMS text has applications of the effects applicable intended for more users than the user, the semicolon starting SMS text must be kept on the user’s involved in the applicable effects’ own phone in the app which the user involved in the effects applicable has set as their preference for semicolon starting SMS texts, have been read in entirety by a user which is involved in the effects applicable in the user’s interactions with the user and with other users in the mapping while the user is in the mapping to have effects applicable in the user’s interactions with the user’s own self and with the other users in the mapping, if the mapping provisions permit, however, the application of the effects applicable must stay within the limits of restrictions of the consent criteria of charge system talk for the user’s involved in the applicable effects to have effects applied for the user which would be involved in the the application of the effects applicable, the semicolon starting SMS text relevant must have been kept on the phone after reading in entirety by the user which is the intended recipient of the semicolon starting SMS text for at least 60,000 milliseconds to apply to the users involved with the semicolon starting SMS text’s effects applicable individually and respectively, but also limited to the set of users matching the consent criteria of stacking, and in interactions with other system talk, semicolon starting SMS texts hold a lower priority to system talk
+If the intended user for the effects applicable of the semicolon starting SMS text as well as the sending user and the intended recipient users or users of the semicolon starting SMS text have set an app preference for semicolon starting SMS texts with the set my app preference for semicolon starting SMS texts system command, the system will make their semicolon starting SMS texts in the app on their phone’s intentioned phrases, and if the semicolon starting SMS text has applications of the effects applicable intended for more users than the user, the semicolon starting SMS text must be kept on the user’s involved in the applicable effects’ own phone in the app which the user involved in the effects applicable has set as their preference for semicolon starting SMS texts, have been read in entirety by a user which is involved in the effects applicable in the user’s interactions with the user and with other users in the mapping while the user is in the mapping to have effects applicable in the user’s interactions with the user’s own self and with the other users in the mapping, if the mapping provisions permit, however, the application of the effects applicable must stay within the limits of restrictions of the consent criteria of intentioned phrases for the user’s involved in the applicable effects to have effects applied for the user which would be involved in the the application of the effects applicable, the semicolon starting SMS text relevant must have been kept on the phone after reading in entirety by the user which is the intended recipient of the semicolon starting SMS text for at least 60,000 milliseconds to apply to the users involved with the semicolon starting SMS text’s effects applicable individually and respectively, but also limited to the set of users matching the consent criteria of stacking, and in interactions with other system talk, semicolon starting SMS texts hold a lower priority to system talk
 
 Imbued Objects Temporary Provisions
 
