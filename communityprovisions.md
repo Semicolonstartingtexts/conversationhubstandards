@@ -11,3 +11,6 @@ In interactions with the server, the server avoids healing wisdom teeth unless s
 
 # Preventing already healed wounds from healing
 In interactions with the server, the server avoids healing already healed wounds unless specified as criteria for a heal reserved system command when giving a system command to heal
+
+# When asking about the server provisions, server status information doesn’t count the Conversation Server Standards in the number and mentions if the Conversation Server Standard provisions aren’t stacked on the server
+In interactions with the server’s status information, the number of server provisions relayed is that of the server’s provisions minus the provisions of the Conversation Server Standards provisions, however if the Conversation Server Standards are included by the definition of the server and have been unstacked or removed somehow from the server, that is relayed in status information about the server’s provisions
