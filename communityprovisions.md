@@ -8,7 +8,7 @@ People remade by the server come back as the person they were and are the latest
 For people interacting with the server, when a heal reserved system command is given targeting the person by a user on the server after the person has been autopsied in their body’s latest condition, the command doesn’t initiate an attempt, but rather has the person remade
 
 # Remaking if a dead person is too damaged to heal properly
-For people interacting with the server, when a heal reserved system command is given targeting the person by a user on the server and the person is too damaged to be healed to a healthy condition with a heal reserved system command and the person has died already in their body’s latest condition, the command doesn’t initiate an attempt, but rather has the person remade
+For people interacting with the server, when a heal reserved system command is given targeting the person by a user on the server and the person is too damaged to be healed to a healthy condition with a heal reserved system command and a timespan of healing set at a few hundred milliseconds and the person has died already in their body’s latest condition, the command doesn’t initiate an attempt, but rather has the person remade
 
 # Preventing wisdom teeth from healing
 In interactions with the server, the server avoids healing wisdom teeth unless specified as criteria for a heal reserved system command when giving a system command to heal
