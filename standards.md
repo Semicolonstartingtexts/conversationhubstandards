@@ -140,7 +140,7 @@ Server, a set of mappings, which is be linked to an endpoint stagnantly or free-
 
 Definition, the sole phrase that has been stacked on the server to define the server’s provisions for setup and use or endpoint to define the endpoint’s servers setup and top-level server provisions for setup and use, scoped as necessary for the interactive experience, and to restrict or allow a user to stay connected to the server, or restrict or allow a user to be connected to or from the server by a user connected to the server, and the definition of the server may only be stacked, changed and unstacked by administrators of the server, the definition of the endpoint is comprised of a specific reference to the endpoint, the Conversation Server Standards and may have restrictions or allowances for which endpoints may or may not join with the endpoint and what is considered the server by the endpoint, the definition of the server is comprised of a specific reference to the endpoint, the Conversation Server Standards, as well as scopes the interactions of the endpoint to the server by name and may have allowances or restrictions for which users may or may not connect
 
-Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, the initial confirmation is “as a system command”
+Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, the initial confirmation is “with a system command”
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
@@ -294,4 +294,4 @@ If the intended user for the effects applicable of the semicolon starting SMS te
 
 Imbued Objects Temporary Provisions
 
-It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset, denying connections which are over the limit of 300 connections for the headset, with priority going to the newest connections, and limiting connections per imbued object which can initiate or support managing person connections to 6 people at a time with an imbuing timespan of two hours at most for objects imbued by the public
+It’s how all imbued objects which initiate or support managing person connections are placed on temporary headset 3 if would otherwise have the connection go to an unauthorized or unwanted by the owner headset, denying connections which are over the limit of 300 connections for the headset, with priority going to the newest connections, and limiting connections per imbued object which can initiate or support managing person connections to 30 people at a time with an imbuing timespan of two hours at most for objects imbued by the public
