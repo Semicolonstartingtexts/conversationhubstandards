@@ -10,4 +10,4 @@ To create a server, be on a conversation server or endpoint connected to it and 
 
 A helpful provision has been “the server listens to system commands, with or without the confirmation for the user, which don’t contain nevermind and the heal system command must contain the confirmation for command giving user or end with the initial confirmation” for us
 
-Joining endpoints is for collaboration by mirroring changes stated as to the server without naming or describing a specific server in the system command, establishing a connection between the endpoints joined which lasts until the a user of a server on your endpoint or the other participant’s endpoint uses the Unjoin from… reserved system command
+Joining endpoints allows for collaboration opportunities by mirroring changes to joined endpoints, establishing a connection between the endpoints joined which lasts until the a user of a server on your endpoint or the other participant’s endpoint uses the Unjoin from… reserved system command
