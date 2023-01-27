@@ -14,4 +14,4 @@ To use an object as a relay for a server, be on a conversation server or endpoin
 
 To have the relay be an extension of the server, mention the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and extends the server
 
-Joining endpoints allows for collaboration opportunities by mirroring changes to joined endpoints, establishing a connection between the endpoints joined which lasts until the a user of a server on your endpoint or the other participant’s endpoint uses the Unjoin from… reserved system command
+Joining endpoints or relays of an endpoint allows for collaboration opportunities by mirroring changes to joined endpoints, establishing a connection between the endpoints joined which lasts until the a user of a server on your endpoint or the other participant’s endpoint uses the Unjoin from… reserved system command
