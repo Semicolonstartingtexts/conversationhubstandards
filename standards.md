@@ -28,6 +28,8 @@ Administrator
 
 Moderator
 
+Doorkeep
+
 User
 
 System Talk
@@ -130,11 +132,11 @@ Server Provisions, the set of provisions that outlines a way all users of a serv
 
 User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
 
-Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the server may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack the definition of the server and provisions, administrators receive the general incoming connection requests when there aren’t moderators connected
+Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack the definition of the server and provisions, administrators receive the general incoming connection requests when there aren’t moderators connected
 
-Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the server may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
+Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the endpoint may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
 
-Doorkeep, receive general incoming connection requests when aren’t connected also
+Doorkeep, receive general incoming connection requests when aren’t connected also, may be designated or undesignated by the owner of the endpoint or administrators or moderators of the server
 
 Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through system talk but wouldn’t be without system talk isn’t an endpoint
 
