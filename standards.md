@@ -142,7 +142,7 @@ Endpoint, hardware which is or can connected to and is or can be connected to by
 
 Relay, an object imbued with the functionality of an endpoint or a server, the imbuing is tracked by the endpoint the relay was imbued on, keeping the owner of the endpoint of where the object was imbued and the roles of the server or endpoint which the object is relaying, but assigning an owner of the relay to the user which does the imbuing, relays are the same as the server by default, but can be made to be extensions of the server
 
-Joining, the linking of endpoints and relays of endpoints as a sharing of a shared lobby, and to be taken to the zones or lobbies of a server on a joined endpoint or relay of an endpoint, the server definition must allow or at least mustn’t have a restriction against the criteria the user matches
+Joining, the linking of endpoints and relays of endpoints as a sharing of a shared lobby, and to be taken to the zones or lobbies of a server on a joined endpoint or a joined relay of an endpoint, the server definition must allow or at least mustn’t have a restriction against the criteria the user matches
 
 Server, a set of mappings, which is be linked to an endpoint, and, when desired, a relay, stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings, roles of the server aren’t permitted to change the definition or provisions of the endpoint, only the servers which the user holds a permitting role on to change and do what the role permits changed and done
 
