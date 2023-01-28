@@ -258,7 +258,7 @@ Prepend… to… if given as a system command and a reference to a stacked syste
 
 Add… that/which… to/on… stacks a rule or preference or provision as described, if the description is a system command that is counter to another stacked rule, preference or provision, or if the target for the stacking isn’t an appropriate target for the stacking of the described rule or preference or provision, the command giving user notices the reason the system command wasn’t undertaken
 
-Change… to… changes the phrase part referenced as described and to the exact wording if given
+Change… to…/adjust… to… changes the phrase part referenced as described and to the exact wording if given
 
 Remove… from… and a reference to a, or to a part, of a stacked system talk, is made, what is described by what follows the word remove through to the word from is taken out of the stacked system talk or part of the stacked system talk referenced
 
@@ -310,7 +310,7 @@ I consent to the most recent revision… is the exact phrase that must be said t
 
 Consent System Commands
 
-I consent/Opt-in/Yes/Yeah/Okay/I’m down/I’m up for/Sure/I agree if in response to an offer for an application of effects applicable will have the server consider consent is given and the I consent system command has been given, without having to give a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
+I consent/Opt-in/Yes/Yeah/Okay/I’m down/I’m up for/Sure/I agree/I accept if in response to an offer for an application of effects applicable will have the server consider consent is given and the I consent system command has been given, without having to give a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
 
 Opt in to/opt back in to/I consent to/… followed by something you have revoked consent to or can consent to in regards to the application of a specific set of effects applicable, will have the server consider consent is given for the application of a specific set of effects applicable, consent can only be given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
 
