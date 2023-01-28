@@ -76,7 +76,7 @@ An initiation and confirmation, Focus and…, Change… to say…, Amend… With
 
 Communication System Commands
 
-Send a message to…, Reply with…
+Send a message to…, Replay the last message…, Reply with…
 
 Utility System Commands
 
@@ -248,9 +248,11 @@ Unstack… if starting a system command unstacks the system talk referred to by 
 
 Communication System Commands
 
-Thinking the phrases send a message to… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server
+Thinking the phrases send a message to…, replay the last message… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server
 
 Send a message to… and a description, name, either, of a user on or off the server which has consented before to the send a message provision, and a message to send which ends in send and a second or more of a pause lets the receiving user or other role’s self of the message’s self notice a message has been received sent by the sending user’s first name and last initial and the timestamp down to the minute of when the message was sent as soon as is safe and practical and acceptably private for the recipient by the recipient’s standards and expectations for the notification of the receipt of the message and the message sent, if the message doesn’t end in or contain nevermind, or the recipient isn’t a consented recipient and then the user notices that
+
+Replay the last message… when given as a system command, lets the user notice the most recent message received complete with first name and last initial of the sender and timestamp down to the the minute of when the message was sent
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent through the system but thinking of either an aspect of the message or the person, sends a message to the sending user of the message received’s own self in the same way as the send a message to system command but with an updated timestamp for the reply’s sent time, but doesn’t send a message if the message end in or contain nevermind
 
