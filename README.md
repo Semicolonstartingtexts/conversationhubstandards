@@ -16,4 +16,4 @@ To use an object as a relay for a server, be on a conversation server or endpoin
 
 To have the relay be an extension of the server, mention the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and extends the server, either independently of, though following the provisions of, or as part of
 
-Joining nodes grows a persistent shared lobby until a node unjoins then the participants get separated, currently nodes and relays and and extensions and relaypoints are limited to one year timespan maximum and with 15 participants maximum, the newest connections are preferred and will always get through
+Joining nodes grows a shared lobby until a node unjoins then the participants get separated, currently nodes and relays and and extensions and relaypoints are limited to one year timespan maximum and with 15 participants maximum, the newest connections are preferred and will always get through
