@@ -218,6 +218,7 @@ Info Gesture: Touch the thumb tip to the tip of the pinky to ask questions of th
 
 Home Gesture: Tap the thumbs together two times within a second to return, making if returning for the first time, to a zone with preferences of a comfortable applications of the effects applicable of system talk and semicolon starting SMS texts as well as the level and privacy for sharing of location and the rules of and the zone can’t be interacted with other than by the zone’s intended occupying user’s self, which the zone is created for and made by, all users which aren’t the user’s self can’t be in the zone, the user notices to look up the latest version of the system stuff at semicolonstartingtexts.tumblr.com and give I consent to use the most recent revision as a system command before going elsewhere than the lobby on the server, other rules aren’t stacked on home zones and are unstacked if have been or are stacked on home zones
 
+Share & Accept Gestures:  An extended open palm with a description of what to share proposes sharing of system talk the user has interacted with, the palm closing user, or any of a group of palm closing users to be shared to close their palm into a fist to accept the proposed to be shared is stacked by the palm closing users if the palm closing users close their palm while the open palm user is intending to share the system talk
 
 Reserved System Commands
 
@@ -286,6 +287,8 @@ Deshelve/deshelve to/deshelve on… if starting a system command takes the shelv
 Ask/Get Info about/Get Info on… if starting a system command gives the phrase following the word info as a system command the same as performing the info gesture to the phrase does
 
 I’m going/goin’ to my home zone… is always given as a system command, without having to give the command as a system command, and if the user has consented still to the most recent revision of the server provisions takes the user which gives the phrase as a system command to the home zone of the user made by the criteria described in the home gesture, and if the most recent revision of the server’s provisions hasn’t been consented to still by the user if there were provision changes which necessitate new consent relative to the user’s prior consent, or for the first time, if prior consent hasn’t been given for the server provisions, the user notices to look up the Semicolonstartingtexts/ConversationServerStandards repository on GitHub.com, or notices to ask the server about the newest provision changes if the user has consented to the server’s provisions before but hasn’t relative to the newly changed server provisions relevant, and then notices to say I consent to the most recent revision before going to zones
+
+Share… with/to… both in an offer for the sharing of previously interacted with system talk by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
 
 Transportation System Commands
 
