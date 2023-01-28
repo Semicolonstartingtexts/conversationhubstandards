@@ -22,7 +22,13 @@ Comments
 
 Role Hierarchy
 
-Owner
+Owner of the Endpoint
+
+Owner of the Relaypoint of the Endpoint
+
+Owner of the Relay of the Server
+
+Owner of the Extension of the Server
 
 Administrator
 
