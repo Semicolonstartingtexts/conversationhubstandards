@@ -42,7 +42,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Endpoint, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -142,13 +142,13 @@ Endpoint, hardware which is or can connected to and is or can be connected to by
 
 Node, an object imbued with the joining functionality and a persistent shared lobby stacked on or independent of the endpoint, has a persistent shared lobby which grows with the users every joined node’s sharing the lobby, being taken to the originating node or server lobby for the users connection when unjoining, the imbuing is tracked by the endpoint the node was imbued on, keeping the owner of the endpoint of where the object was imbued, but assigning an owner of the node to the user which does the imbuing, shares what is considered the server by the endpoint the node was imbued on unless otherwise stated
 
+Joining, the linking of nodes to share a shared lobby, and to be taken to the zones or lobbies of a server, the server definition must allow or at least mustn’t have a restriction against the criteria the user matches, being taken to the originating server’s lobby when unjoining
+
 Relaypoint, an object imbued with the functionality of an endpoint, the imbuing is tracked by the endpoint the relay was imbued on, keeping the owner of the endpoint of where the object was imbued, and must adhere to the definition of the endpoint’s allowances and restrictions, but assigning an owner of the relay to the user which does the imbuing, relaypoints are otherwise independent of the endpoint
 
 Relay, an object imbued with the functionality of a server, the imbuing is tracked by the endpoint the relay was imbued on, keeping the owner of the endpoint of where the object was imbued and the roles of the server which the object is relaying, but assigning an owner of the relay to the user which does the imbuing, relays may be the same as the server, or be extensions
 
-Extensions, a relay which extends the user population of a server
-
-Joining, the linking of nodes to  share a shared lobby, and to be taken to the zones or lobbies of a server, the server definition must allow or at least mustn’t have a restriction against the criteria the user matches, being taken to the originating server’s lobby when unjoining
+Extension, a relay which extends the user population of a server
 
 Server, a set of mappings, which is be linked to an endpoint, and, when desired, a relay, stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings, roles of the server aren’t permitted to change the definition or provisions of the endpoint, only the servers which the user holds a permitting role on to change and do what the role permits changed and done,
 
