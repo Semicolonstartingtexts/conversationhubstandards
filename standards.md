@@ -278,7 +278,7 @@ Reply with… and a message to reply with ending in send and a second or more of
 
 First Aid System Commands
 
-Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over a single second’s timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why
+Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over a single second’s timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why, the heal reserved system command isn’t allowed to have system talk about impairing or altering the use of beyond limiting the use of, and doesn’t interact with stacked system talk, but is allowed to be opted out of
 
 Utility System Commands
 
