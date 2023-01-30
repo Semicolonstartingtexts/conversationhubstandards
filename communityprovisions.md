@@ -26,4 +26,4 @@ In interactions through the server, we understand each other in our native langu
 The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
 
 # The server harms, injures or causes pain
-In interactions with the server, the server isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self
+In interactions with the server, the server isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
