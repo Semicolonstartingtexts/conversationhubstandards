@@ -148,7 +148,7 @@ Interactions, applicable with an apply system command only may be a reserved sys
 
 System Setup
 
-Server Provisions, the set of provisions that outlines a way all users of a server may interact with the server, the rest of the provisions of the server aren’t allowed priority over the Conversation Server Standards and the definition of the endpoint, relaypoint, server, extension, relay, node, whichever is the most relevant to the provision
+Server Provisions, the set of provisions that outlines a way all users of a server may interact with the server, the rest of the provisions of the server aren’t allowed priority over the Conversation Server Standards and the definition of the endpoint, relaypoint, server, extension, relay, node, whichever is the most relevant to the provision, and the provisions of the Conversations Server Standards aren’t permitted to be unstacked in less than entirety or altered
 
 User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
 
