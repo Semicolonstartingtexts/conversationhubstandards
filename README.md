@@ -12,7 +12,8 @@ System Command Talk
 System Setup
 System Mappings
 System Command Gestures
-Reserved System Commands (Ask..., etc.)
+Reserved System Commands
+(Ask..., I'm Going To My Home Zone, Going To The..., Heal..., Send A Message..., Reply With..., etc.)
 Connection Requests
 Incoming Connection Requests
 Semicolon Starting SMS Texts
