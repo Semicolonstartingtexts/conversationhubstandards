@@ -255,6 +255,8 @@ Set my initiation to/as… if starting a system command, stacks the user on a un
 
 Set my confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
 
+Set my messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+
 Alias… as… if starting a system command sets a preference for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
 Clear my preferences for… if starting a system command clears the preference set by an Alias… as… or a set my confirmation… system command or another preference, unstacking if stacked, depending on what is described in the phrase

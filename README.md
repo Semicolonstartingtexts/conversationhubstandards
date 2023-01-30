@@ -12,7 +12,8 @@ System Command Talk
 System Setup
 System Mappings
 System Command Gestures
-Reserved System Commands (Ask..., etc.)
+Reserved System Commands
+(Ask..., I'm Going To My Home Zone, Going To The..., Heal..., Send A Message..., Reply With..., etc.)
 Connection Requests
 Incoming Connection Requests
 Semicolon Starting SMS Texts
@@ -37,3 +38,9 @@ To use an object as a relay for a server, be on a conversation server or endpoin
 Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrinks the shared lobby of the joined nodes
 
 The servers and the relays have a limit of 10 users per server, and the nodes have a limit of 6 users per node
+
+# Community Provisions
+
+The community branch contains community additions to the Conversation Server Standards, and in the communityprovisions.md file, there's helpful provisions to add to your server, to use, use an initiation and confirmation or confirmed phrase to add provisions to your server matching the file or update the relevant server provisions to the file
+
+Found at https://github.com/Semicolonstartingtexts/conversationserverstandards/blob/community/communityprovisions.md
