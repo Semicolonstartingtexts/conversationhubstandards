@@ -1,5 +1,5 @@
 # Listening to system commands
-The server listens to system commands, with or without, the confirmation for the user, which don’t contain nevermind and the heal system command must contain the confirmation for command giving user or end with the initial confirmation of “with a system command” as well as the the send a message… system command and reply with… system command
+The server listens to system commands, with or without, the confirmation for the user, which don’t contain nevermind and the heal system command must contain the confirmation for command giving user or end with the initial confirmation of “with a system command” or “as a system command” as well as the send a message… system command and reply with… system command which uses the messaging confirmation for a user if set
 
 # Remaking provisions
 People remade by the server come back as the person they were and are the latest they woke up before they died, at the nearest municipality morgue, with a decent amount of clearance on all sides for both parties and having been a comfortable amount of clearance on all sides and in the area for a thirty one minutes prior, queueing up additional people bound for the same destination for an additional thirty minute queued time extension, if the intended space is to be occupied by multiple people when an attempt to remake is initiated with the longest waiting person taking priority in the queue and come back without stacked or tracked system talk
@@ -21,3 +21,9 @@ In interactions with the server’s status information, the number of server pro
 
 # Universal Translation
 In interactions through the server, we understand each other in our native language
+
+# Laws, Ordinances and the Constitution
+The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
+
+# The server harms, injures or causes pain
+In interactions with the server, the server never harms, injures, or causes pain to, and is safe to animals or humans or extraterrestrial life, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self
