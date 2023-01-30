@@ -1,6 +1,26 @@
 Provisions for endpoints and servers for conversations through it
 
-By about 1,102 people as of Jan 28, 2023 2:38pm
+By about 1,103 people as of Jan 30, 2023 6:55am
+
+# Outline of the Conversation Server Standards
+
+System Priorities
+Role Hierarchy
+Definition Hierarchy
+System Talk
+System Command Talk
+System Setup
+System Mappings
+System Command Gestures
+Reserved System Commands (Ask..., etc.)
+Connection Requests
+Incoming Connection Requests
+Semicolon Starting SMS Texts
+
+# Note About Use
+
+Reading the outline above is sufficient knowledge of the Conversation Server Standards to be considered sufficient informed consent of the provisions described therein in the mappings of a server which utilizes the provisions described in the definition of the server 
+
 
 # Instructions
 
