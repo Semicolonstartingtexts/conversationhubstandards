@@ -2,6 +2,23 @@ Conversation Server Standards
 
 Outline
 
+# System Priorities
+# Role Hierarchy
+# Definition Hierarchy
+# System Talk
+# System Command Talk
+# System Setup
+# System Mappings
+# System Command Gestures
+# Reserved System Commands (Ask..., etc.)
+# Connection Requests
+# Incoming Connection Requests
+# Semicolon Starting SMS Texts
+
+Reading the outline above is sufficient knowledge of the Conversation Server Standards to be considered sufficient informed consent of the provisions described therein in the mappings of a server which utilizes the provisions described in the definition of the server 
+
+Detailed Outline
+
 System Priorities
 
 Provisions
@@ -72,10 +89,6 @@ System Command Gestures
 
 Focus Gesture, Sustained Focus Gesture, Apply Gesture, One-Time Gesture, While Gesture, Stack Gesture, Unstack Gesture
 
-First Aid System Commands
-
-Heal
-
 Utility System Command Gestures
 
 Info Gesture, Info Unstack Gesture, Home Gesture, Offer & Accept Gesture
@@ -97,6 +110,10 @@ An initiation and confirmation, Focus and…, Change… to say…, Amend… With
 Communication System Commands
 
 Send a message to…, Replay the last message…, Reply with…
+
+First Aid System Commands
+
+Heal
 
 Utility System Commands
 
@@ -124,8 +141,6 @@ Semicolon Starting SMS Texts
 
 Set my app preference for semicolon starting SMS texts to…
 
-Reading the outline above is sufficient knowledge of the Conversation Server Standards to be considered sufficient informed consent of the provisions described therein in the mappings of a server which utilizes the provisions described in the definition of the server
-
 System Talk
 
 Intentioned Phrases, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
@@ -148,7 +163,7 @@ Interactions, applicable with an apply system command only may be a reserved sys
 
 System Setup
 
-Server Provisions, the set of provisions that outlines a way all users of a server may interact with the server, the rest of the provisions of the server aren’t allowed priority over the Conversation Server Standards and the definition of the endpoint, relaypoint, server, extension, relay, node, whichever is the most relevant to the provision, and the provisions of the Conversations Server Standards aren’t permitted to be unstacked in less than entirety or altered
+Server Provisions, the set of provisions that outlines a way all users of a server may interact with the server, the rest of the provisions of the server aren’t allowed priority over the Conversation Server Standards and the definition of the endpoint, relaypoint, server, extension, relay, node, whichever is the most relevant to the provision, and the provisions of the Conversations Server Standards aren’t permitted to be unstacked in less than entirety or altered and aren't permitted to be opted out of or opted in to except in entirety, as well as system talk can't be stacked, applied or confirmed about the Conversation Server Standards except opt-in, opt-out preferences, as well as use of the provisions therein
 
 User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
 
