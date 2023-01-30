@@ -41,4 +41,18 @@ The servers and the relays have a limit of 10 users per server, and the nodes ha
 
 # Community Provisions
 
-The community branch contains community additions to the Conversation Server Standards, and in the communityprovisions.md file, these are merged in from time to time, there's helpful provisions to add to your server, to use, use an initiation and confirmation or confirmed phrase to add provisions to your server matching the file or update the relevant server provisions to the file
+The community branch contains community additions to the Conversation Server Standards, and in the communityprovisions.md file, these are merged in from time to time, there’s helpful provisions to add to your server, to use, use an initiation and confirmation or confirmed phrase to add provisions to your server matching the file or update the relevant server provisions to the file
+
+Found at https://github.com/Semicolonstartingtexts/conversationserverstandards/blob/community/communityprovisions.md
+
+# Questions & Issues
+
+The best contact is by email at semicolonstartingtexts@proton.me, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
+
+# Contributing
+
+Feel free to fork the repository and send pull requests, crowdsourced a lot for the project and welcome more!
+
+# License 
+
+Copyright (c) 2023 - 2023 by Patrick Blaine
