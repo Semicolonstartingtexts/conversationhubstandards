@@ -37,7 +37,7 @@ To use an object as a relay for a server, be on a conversation server or endpoin
 
 Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrinks the shared lobby of the joined nodes
 
-The servers and the relays have a limit of 10 users per server, and the nodes have a limit of 5 users per node
+The servers and the relays and shared lobbies of joined nodes, called rooms, have a limit of 10 users per server or room, and the nodes have a limit of 5 users per node
 
 # Community Provisions
 
