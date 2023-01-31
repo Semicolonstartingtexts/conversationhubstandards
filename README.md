@@ -4,19 +4,19 @@ By about 1,107 people as of Jan 30, 2023 9:22am
 
 # Outline of the Conversation Server Standards
 
-System Priorities
-Role Hierarchy
-Definition Hierarchy
-System Talk
-System Command Talk
-System Setup
-System Mappings
-System Command Gestures
-Reserved System Commands
-(Ask..., I'm Going To My Home Zone, Going To The..., Heal..., Send A Message..., Reply With..., etc.)
-Connection Requests
-Incoming Connection Requests
-Semicolon Starting SMS Texts
+- System Priorities
+- Role Hierarchy
+- Definition Hierarchy
+- System Talk
+- System Command Talk
+- System Setup
+- System Mappings
+- System Command Gestures
+- Reserved System Commands
+- (Ask..., I'm Going To My Home Zone, Going To The..., Heal..., Send A Message..., Reply With..., etc.)
+- Connection Requests
+- Incoming Connection Requests
+- Semicolon Starting SMS Texts
 
 # Note About Use
 
