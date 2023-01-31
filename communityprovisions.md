@@ -33,3 +33,6 @@ In interactions with the server, the server has the foreign object or objects wh
 
 # Heal Separate From Clothing
 In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing
+
+# Role Safe Stop Tracking
+In interactions with the endpoint or relaypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
