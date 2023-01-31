@@ -2,7 +2,7 @@
 The server listens to system commands, with or without, the confirmation for the user, which don’t contain nevermind and the heal system command must contain the confirmation for command giving user or end with the initial confirmation of “with a system command” or “as a system command” as well as the send a message… system command and reply with… system command which uses the messaging confirmation for a user if set
 
 # Remaking provisions
-People remade by the server come back as the person they were and are the latest they woke up before they died, at the nearest municipality morgue to the residential address registered by the state, with a decent amount of clearance on all sides for both parties and having been a comfortable amount of clearance on all sides and in the area for a thirty one minutes prior, queueing up additional people bound for the same destination for an additional thirty minute queued time extension, if the intended space is to be occupied by multiple people when an attempt to remake is initiated with the longest waiting person taking priority in the queue and come back without stacked or tracked system talk
+People remade by the server come back as the person they were and are the latest they woke up before they died, at the nearest municipality morgue to the residential address registered with the state, with a decent amount of clearance on all sides for both parties and having been a comfortable amount of clearance on all sides and in the area for a thirty one minutes prior, queueing up additional people bound for the same destination for an additional thirty minute queued time extension, if the intended space is to be occupied by multiple people when an attempt to remake is initiated with the longest waiting person taking priority in the queue and come back without stacked or tracked system talk
 
 # Remaking past autopsy
 For people interacting with the server, when a heal reserved system command is given targeting the person by a user on the server after the person has been autopsied in their body’s latest condition, the command doesn’t initiate an attempt, but rather has the person remade
@@ -33,3 +33,6 @@ In interactions with the server, the server has the foreign object or objects wh
 
 # Heal Separate From Clothing
 In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing
+
+# Role Safe Stop Tracking
+In interactions with the endpoint or relaypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
