@@ -63,11 +63,7 @@ Relaypoint
 
 Server
 
-Extension
-
-Relay
-
-Node
+Relay or Node
 
 System Talk
 
@@ -79,7 +75,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -167,7 +163,9 @@ Server Provisions, the set of provisions that outlines a way all users of a serv
 
 User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
 
-Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack the definition of the server and provisions, administrators receive the general incoming connection requests when there aren’t moderators connected
+Owner, the owner of the relaypoint, relay, node or the endpoint, without an administrator role, may stack or approve the stacking of the definition of the equal level in the definition hierarchy downwards on the hierarchy for themselves or others
+
+Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack, or approve the act of stacking, changing or unstacking, the definition of what the administrator holds an administrator role on, and may do so with server provisions if the administrator is an administrator on a server, administrators receive the general incoming connection requests when there aren’t moderators connected
 
 Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the endpoint may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
 
@@ -221,9 +219,9 @@ While Gesture: Placing the thumb on the farthest knuckle of the forefinger from 
 
 Stack Gesture: Either the gesturing user, mentioned user, mentioned mapping, or mapping the user is in, or all mappings on the server if a provision is mentioned in or implied by the focused phrase of the most recent gesture, stacks on the focused phrase of the most recent focus gesture, apply gesture, either, within the past couple of seconds by touching the forefinger tip to the thumb tip
 
-Unstack Gesture:  Hold for a couple of seconds the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
+Unstack Gesture:  Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
 
-Info Unstack Gesture: Hold for a couple of seconds the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
+Info Unstack Gesture: Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
 
 Utility System Command Gestures
 
