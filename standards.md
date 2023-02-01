@@ -97,7 +97,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set my initiation to/as…, Set my confirmation to/as…, Alias… as…, Clear my preferences for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set … messaging confirmation to… Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
@@ -253,21 +253,23 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Make a rule...  following with a phrase describing a rule to be stacked if starting a system command stacks the permitting current mapping the user is in on the rule, or permitting role’s self if explicitly described
+Make a rule.../make it a rule…  following with a phrase describing a rule to be stacked if starting a system command stacks the permitting current mapping the user is in on the rule, or permitting role’s self if explicitly described
 
 Remove the rule/rules... following with a phrase describing rules or the rule to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a rule or multiple rules match the description, with the user noticing the reason a rule or multiple rules weren’t unstacked if there is a reason or are multiple reasons
 
 Set a preference… following with a phrase describing a preference to be set if starting a system command stacks the user on the preference
 
-Set my initiation to/as… if starting a system command, stacks the user on a unique preference for a custom initiation unstacking previously stacked initiation preferences for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … initiation to/as… if starting a system command, stacks the user on a unique preference for a custom initiation unstacking previously stacked initiation preferences for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
-Set my confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
-Set my messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
 Alias… as… if starting a system command sets a preference for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
-Clear my preferences for… if starting a system command clears the preference set by an Alias… as… or a set my confirmation… system command or another preference, unstacking if stacked, depending on what is described in the phrase
+Clear … preferences for… if starting a system command clears the preference(s) set by an Alias… as… or a set … confirmation… system command or another preference which isn’t a consent preference, unstacking if stacked, depending on what is described in the phrase by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of for the specified user if the user is allowed to
+
+Clear … consent for…/remove … consent for… clears the consent related preferences set by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of for the specified user if the user is allowed to
 
 Declaring System Commands
 
