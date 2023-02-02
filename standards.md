@@ -67,7 +67,7 @@ Relay or Node
 
 System Talk
 
-Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
+Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Talk
 
@@ -103,6 +103,10 @@ Declaring System Commands
 
 An initiation and confirmation, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
+Set System Commands
+
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save what I have stacked as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+
 Communication System Commands
 
 Send a message to…, Replay the last message…, Reply with…
@@ -113,7 +117,7 @@ Heal
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
 Transportation System Commands
 
@@ -150,6 +154,8 @@ Preferences, the conversation which governs the server’s interactions regardin
 Rules, the stacked conversation which limits or enhances any user which is in the zone’s interactions with the other users which are in the zone the user in, may only be stacked on mappings and roles which permit rules to be stacked, and aren’t allowed to be intending to the source of physically harm, hurt, injury, pain, decline in health or overabundance of health beyond a user preferred threshold defaulting to a threshold of comfort ensured, to render unconscious, comatose, deceased or to suppress or limit the consciousness of, a user, or enhance or limit in such a way as to be hindering of the conscious independence of a user, or the limit the ability to communicate independently and to do so without alteration from the intended independently generated intent for the user’s own communication being the message communicated through whichever medium the message is communicated
 
 Confirmed Phrase and Confirmed Phrases, the most recent phrase made by a user which aren’t stacked and have been confirmed by a user in the user interactions for the user and users relevant to the interaction if the mapping’s provisions permit, a user is always stacked on the most recent confirmed phrase by the user for the user unless explicitly or generally unstacked
+
+Sets, groups of stacked intentioned phrases for the user which can be swapped out in full, have phrases added to and removed from, built from specific phrases, or stacked and unstacked as a whole
 
 System Command Talk
 
@@ -300,6 +306,36 @@ Send a message to… and a description, name, either, of a user on or off the se
 Replay the last message… when given as a system command, lets the user notice the most recent message received complete with first name and last initial of the sender and timestamp down to the the minute of when the message was sent
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent through the system but thinking of either an aspect of the message or the person, sends a message to the sending user of the message received’s own self in the same way as the send a message to system command but with an updated timestamp for the reply’s sent time, but doesn’t send a message if the message end in or contain nevermind
+
+Sets System Commands
+
+Build a set with/from… called/named/as… with some number of intentioned phrases described between the with/from and called/named/as parts of the phrase saves the phrases as a set with a name for the user when the phrase is given starting a system command
+
+Build an empty set called/named/as… with a name for the set following, when given starting a system command creates an empty set
+
+Save what I have stacked as a set called/named/as… when given starting a system command, saves all stacked into a new set with the name that follows called/named/as
+
+Add the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+
+Add the phrase/phrases… to the set… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
+
+Add that to the set… adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
+
+Add that to the set named/called… adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
+
+Remove the phrase/phrases… from the set named/called… removed all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+
+Remove the phrase/phrases… from the set… removes all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the most recent referenced set when the phrase is given starting a system command
+
+Remove that from the set… removes the last heard/noticed described phrase from the most recently referenced set when given starting a system command
+
+Remove that to the set named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
+
+Stack the … set… stacks the set described in the phrase or the most recently referenced set if none is on the user when given starting a system command
+
+Unstack the set… unstacks the user’s last stacked set or described set in the phrase when given starting a system command
+
+Swap sets for the … set…/swap the … set for the … set…/swap the … sets for the … set…/swap sets to the … set…/swap the … set to the … set…/swap the … sets to the … set… unstacks all sets described or the stacked sets for the sets or set described in the phrase when given starting a system command
 
 First Aid System Commands
 
