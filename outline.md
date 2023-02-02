@@ -52,7 +52,7 @@ Node
 
 System Talk
 
-Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
+Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Talk
 
@@ -91,6 +91,10 @@ An initiation and confirmation, Focus and…, Change… to say…, Amend… With
 Communication System Commands
 
 Send a message to…, Replay the last message…, Reply with…
+
+Set System Commands
+
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save what I have stacked as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
 
 First Aid System Commands
 
