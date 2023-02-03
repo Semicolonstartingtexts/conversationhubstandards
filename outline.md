@@ -82,7 +82,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set … messaging confirmation to… Alias… as…, Clear … preferences for…, Clear … consent for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
@@ -90,7 +90,7 @@ An initiation and confirmation, Focus and…, Change… to say…, Amend… With
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…
+Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to…
 
 Set System Commands
 
