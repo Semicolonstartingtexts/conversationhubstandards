@@ -143,7 +143,7 @@ Set my app preference for semicolon starting SMS texts to…
 
 System Talk
 
-Intentioned Phrases, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
+Intentions, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
 Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
