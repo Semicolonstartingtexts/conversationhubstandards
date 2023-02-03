@@ -12,7 +12,7 @@ Rules
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentioned Phrases
+Intentions
 
 Semicolon Starting SMS Texts
 
@@ -52,7 +52,7 @@ Node
 
 System Talk
 
-Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Talk
 
