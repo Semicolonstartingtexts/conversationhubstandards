@@ -97,7 +97,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set … messaging confirmation to… Alias… as…, Clear … preferences for…, Clear … consent for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
@@ -105,7 +105,7 @@ An initiation and confirmation, Focus and…, Change… to say…, Amend… With
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…
+Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
 
 Sets System Commands
 
@@ -205,7 +205,7 @@ To create a server, be on a conversation server or interacting with endpoint or 
 
 To use an object as a relay for a server, be on a conversation server connected to an endpoint or relaypoint or own the connected endpoint or relaypoint or be a systems administrator of the connected endpoint or relaypoint or hold an administrator role on the conversation server and think stack the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and is the Conversation Server Standards and the users which can connect are/aren’t … (and if any, allowances or restrictions of relays  of the server are …) as the definition of the relay for (the specific server) on the relay
 
-Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, the initial confirmation is “with a system command” or “as a system command”
+Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, or to perform a system command by adding to the end of a phrase, the initial confirmation is “with a system command” or “as a system command”
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
@@ -273,8 +273,6 @@ Set … initiation to/as… if starting a system command, stacks the user on a u
 
 Set … confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
-Set … messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
-
 Alias… as… if starting a system command sets a preference for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
 Clear … preferences for… if starting a system command clears the preference(s) set by an Alias… as… or a set … confirmation… system command or another preference which isn’t a consent preference, unstacking if stacked, depending on what is described in the phrase by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of for the specified user if the user is allowed to
@@ -310,6 +308,8 @@ Send a message to… and a description, name, either, of a user on or off the se
 Replay the last message… when given as a system command, lets the user notice the most recent message received complete with first name and last initial of the sender and timestamp down to the the minute of when the message was sent
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent through the system but thinking of either an aspect of the message or the person, sends a message to the sending user of the message received’s own self in the same way as the send a message to system command but with an updated timestamp for the reply’s sent time, but doesn’t send a message if the message end in or contain nevermind
+
+Set … messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
 Sets System Commands
 
