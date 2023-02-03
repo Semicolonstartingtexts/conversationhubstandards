@@ -119,6 +119,10 @@ Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
+Setup System Commands
+
+... Setup... Phone As A Relaypoint?, ... Setup... Phone As A Node?
+
 Transportation System Commands
 
 … Going To The…
@@ -167,7 +171,7 @@ System Setup
 
 Server Provisions, the set of provisions that outlines a way all users of a server may interact with the server, the rest of the provisions of the server aren’t allowed priority over the Conversation Server Standards and the definition of the endpoint, relaypoint, server, extension, relay, node, whichever is the most relevant to the provision, and the provisions of the Conversations Server Standards aren’t permitted to be unstacked in less than entirety or altered and aren't permitted to be opted out of or opted in to except in entirety, as well as system talk can't be stacked, applied or confirmed about the Conversation Server Standards except opt-in, opt-out preferences, as well as use of the provisions therein
 
-User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
+User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint, in interactions through a server or nodes, we understand each other in our native language
 
 Owner, the owner of the relaypoint, relay, node or the endpoint, without an administrator role, may stack or approve the stacking of the definition of the equal level in the definition hierarchy downwards on the hierarchy for themselves or others
 
@@ -350,6 +354,12 @@ Ask/Get Info about/Get Info on… if starting a system command gives the phrase 
 I’m going/goin’ to my home zone… is always given as a system command, without having to give the command as a system command, and if the user has consented still to the most recent revision of the server provisions takes the user which gives the phrase as a system command to the home zone of the user made by the criteria described in the home gesture, and if the most recent revision of the server’s provisions hasn’t been consented to still by the user if there were provision changes which necessitate new consent relative to the user’s prior consent, or for the first time, if prior consent hasn’t been given for the server provisions, the user notices to look up the Semicolonstartingtexts/ConversationServerStandards repository on GitHub.com, or notices to ask the server about the newest provision changes if the user has consented to the server’s provisions before but hasn’t relative to the newly changed server provisions relevant, and then notices to say I consent to the most recent revision before going to zones
 
 Share… with/to… both in an offer for the sharing of previously interacted with system talk by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
+
+Setup System Commands
+
+... Setup... Phone As A Relaypoint? Asked as a system command, will prompt a connected server administrator, or if none are available, an owner of the endpoint, or whichever administrator of the server or owner of the endpoint is specifically described,  letting them notice a request to stack the chosen phone with a definition of the relaypoint inheriting from the server's stacked by endpoint and stacking both a node and a server on the relaypoint being stacked, and point the node and relaypoint to the server being stacked for what is considered the server and having the server and node being stacked inherit from the relaypoint being stacked with the asking user set as the owner of the relaypoint as first name last initial wants to setup their phone as a relaypoint and acting on the response if approved, prompting for and sending a message back from the denier to the asker on a denial
+
+... Setup... Phone As A Node? Asked as a system command, will prompt a connected server administrator, or if none are available, an owner of the endpoint, letting them notice a request to stack the chosen phone with a definition of the node inheriting from the server's stacked by endpoint or relaypoint and stack a node on the phone, and point the node to the server for what is considered the server with the asking user set as the owner of the node as first name last initial wants to setup their phone as a node and acting on the response if approved, prompting for and sending a message back from the denier to the asker on a denial
 
 Transportation System Commands
 
