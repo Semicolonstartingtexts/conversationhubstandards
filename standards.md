@@ -209,7 +209,7 @@ Shelving, shelved system talk in libraries doesn’t have effects applied in int
 
 Stacking, storing system talk with a representation of the intention of the user’s self for the system talk, so in a mapping, the system talk, individually and respectively, may be interacting with the user for and by the user and by other users interacting with the user while in the mapping if the mapping’s provisions and consent status from and system talk provisions relevant for the interacting users permit, system talk can be stacked through the system commands which do so, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of, users unstack on stacked system talk when the users die or are rendered unconscious
 
-Tracking, the application of effects applying at the current moment in the interactions of a user with the user in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise permitted to be applying application of effects applicable in interactions with users interacting with a user and the user interacting with the user’s self in a mapping, individually and respectively with the application of effects applicable from system talk staying individual and respective, may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
+Tracking, the application of effects applying at the current moment in the interactions of a user with the user in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise and the effects applicable from the system talk permitted to be applying application of effects applicable in interactions with users interacting with a user and the user interacting with the user’s self in a mapping, individually and respectively with the application of effects applicable from system talk staying individual and respective, may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
 
 Mappings, networks of users with preferences and/or rules able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned system commands which the server provisions allow
 
@@ -315,25 +315,25 @@ Build an empty set called/named/as… with a name for the set following, when gi
 
 Save… as a set called/named/as… with some number of intentioned phrases described between the save and as a set parts of the phrase saves the phrases or if none are, all the user has stacked as a set with a name by the user when the phrase is given starting a system command
 
-Add the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+Add/save the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
-Add the phrase/phrases… to the set… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
+Add/save the phrase/phrases… to the set… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
 
-Add that to the set… adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
+Add/save that to the set… adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
 
-Add that to the set named/called… adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
+Add/save that to the set named/called… adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
 
-Remove the phrase/phrases… from the set named/called… removed all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+Remove/delete the phrase/phrases… from the set named/called… removed all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
-Remove the phrase/phrases… from the set… removes all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the most recent referenced set when the phrase is given starting a system command
+Remove/delete the phrase/phrases… from the set… removes all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the most recent referenced set when the phrase is given starting a system command
 
-Remove that from the set… removes the last heard/noticed described phrase from the most recently referenced set when given starting a system command
+Remove/delete that from the set… removes the last heard/noticed described phrase from the most recently referenced set when given starting a system command
 
-Remove that to the set named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
+Remove/delete that to the set named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
 
-Stack the … set… stacks the set described in the phrase or the most recently referenced set if none is on the user when given starting a system command
+Stack/load/put on/equip the … set… stacks the set described in the phrase or the most recently referenced set if none is on the user when given starting a system command
 
-Unstack the set… unstacks the user’s last stacked set or described set in the phrase when given starting a system command
+Unstack/unload/take off/unequip the set… unstacks the user’s last stacked set or described set in the phrase when given starting a system command
 
 Swap sets for the … set…/swap the … set for the … set…/swap the … sets for the … set…/swap sets to the … set…/swap the … set to the … set…/swap the … sets to the … set… unstacks all sets described or the stacked sets for the sets or set described in the phrase when given starting a system command
 
