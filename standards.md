@@ -121,7 +121,7 @@ Deshelve…, Ask…, I’m going to my home zone…
 
 Transportation System Commands
 
-… Going To The…
+… Going/Goin’ To… Where..., ... Going/goin' To..., … Going/Goin’ To… Lobby Where..., ... Going/goin' To... Lobby...
 
 Connection System Commands
 
@@ -201,7 +201,7 @@ Mappings, networks of users with preferences and/or rules able to be stacked on 
 
 System Mappings
 
-Zone, a network of users that permits rules and preferences to be stacked on the zone and may have the application of effects applied from reserved or server provisioned system commands and the stacked system talk in the interactions between users and the users or other users in the same zone, users return to the lobby if in a zone or other mapping other than the lobby of the server at the time of more recent revision of the server’s provisions than the most recent consent is for relevant to the specific provision changes to the server’s provisions
+Zone, a network of users that permits rules and preferences to be stacked on the zone and may have the application of effects applied from reserved or server provisioned system commands and the stacked system talk in the interactions between users and the users or other users in the same zone, users return to the lobby if in a zone or other mapping other than the lobby of the server at the time of more recent revision of the server’s provisions than the most recent consent is for relevant to the specific provision changes to the server’s provisions, when changing the rules of a zone away from the initial rules, the server asks the user to name the zone by prompting them to notice a request to do so or abandon the rule change and acts on the response 
 
 Lobby, a network in which the application of effects applied in interactions with users which are in and while on the lobby, is only the definition of the server and the server’s provisions, administrative system commands and utility system commands, transportation system commands and the initial consent system commands, connection system commands and communication system commands, and the related gestures if a gesture related is in the provisions of the server, the users which have yet to consent to the most recent revision are limited in terms of mappings to be taken to to the lobbies, rules aren’t permitted to be stacked on a lobby and the on a moderator stacked rules are suspended while in the lobby, accepted incoming connection requests enter in the lobby
 
@@ -301,13 +301,19 @@ Deshelve/deshelve to/deshelve on… if starting a system command takes the shelv
 
 Ask/Get Info about/Get Info on… if starting a system command gives the phrase following the word info as a system command the same as performing the info gesture to the phrase does
 
-I’m going/goin’ to my home zone… is always given as a system command, without having to give the command as a system command, and if the user has consented still to the most recent revision of the server provisions takes the user which gives the phrase as a system command to the home zone of the user made by the criteria described in the home gesture, and if the most recent revision of the server’s provisions hasn’t been consented to still by the user if there were provision changes which necessitate new consent relative to the user’s prior consent, or for the first time, if prior consent hasn’t been given for the server provisions, the user notices to look up the Semicolonstartingtexts/ConversationServerStandards repository on GitHub.com, or notices to ask the server about the newest provision changes if the user has consented to the server’s provisions before but hasn’t relative to the newly changed server provisions relevant, and then notices to say I consent to the most recent revision before going to zones
+I’m going/goin’ to my home zone… is always given as a system command, without having to give the command as a system command, takes the user which gives the phrase as a system command to the home zone of the user made by the criteria described in the home gesture
 
 Share… with/to… both in an offer for the sharing of previously interacted with system talk by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
 
 Transportation System Commands
 
-… Going/Goin’ To The… followed by the name of a zone, lobby, either, a description of a zone, lobby, either, is also an option, if the user has consented to the most recent revision of the server provisions takes whoever says the phrase and those described in the phrase before going or goin’ to the matching zone, lobby, either, with priority given to zone, lobby, either name, then matching description criteria, if none match, a new zone is made with provisions and rules which match, lobby without rules which matches the description or name, if specified, if goin’/going to the… is given as a system command, and if the most recent revision of the server provisions hasn’t been consented to for the relevant changes to the previous consent given by the user still by the user, or for the first time, if previous consent wasn’t given by the user, and if the name or description matches with a zone and doesn’t a lobby, the user notices to look up the Semicolonstartingtexts/ConversationServerStandards repository on GitHub.com, or notices to ask the server about the newest provision changes if the user has consented to the server’s provisions before but hasn’t relative to the newly changed server provisions relevant, and then notices to say I consent to the most recent revision before going to zones
+… Going/Goin’ To… Where... followed by  a description of a zone, takes whoever gives the phrase as a system command and those described in the phrase to a zone on the server which isn't named with matching rules, and if a matching zone doesn't exist on the server, prompting the user by letting the user notice a request to either create a new zone with appropriate rules or abandon the effort and acting on the response, if the phrase is given as a system command
+
+... Going/goin' To... followed by a name of a mapping or server or node takes the user or users described to the mapping or server or node named, if the phrase is given as a system command
+
+… Going/Goin’ To… Lobby Where... followed by  a description of a lobby, takes whoever gives the phrase as a system command and those described in the phrase to a lobby matching the description, prompting the user to notice a request to create the lobby if the lobby on the server isn't already existing or abandon the effort and acting on the response, if the phrase is given as a system command
+
+... Going/goin' To... Lobby... followed by a name of a lobby takes the user or users described to the lobby named, if the phrase is given as a system command
 
 Connection System Commands
 
