@@ -313,7 +313,9 @@ Build a set with/from… called/named/as… with some number of intentioned phra
 
 Build an empty set called/named/as… with a name for the set following, when given starting a system command creates an empty set
 
-Save what I have stacked as a set called/named/as… when given starting a system command, saves all stacked into a new set with the name that follows called/named/as
+Save what I have stacked as a set called/named/as… when given starting a system command, saves all a user has stacked into a new set with the name that follows called/named/as
+
+Save… as a set called/named/as… with some number of intentioned phrases described between the save and as a set parts of the phrase saves the phrases as a set with a name by the user when the phrase is given starting a system command
 
 Add the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
