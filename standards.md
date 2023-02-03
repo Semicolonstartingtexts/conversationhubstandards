@@ -109,7 +109,7 @@ Send a message to…, Replay the last message…, Reply with…
 
 Sets System Commands
 
-Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save what I have stacked as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
 
 First Aid System Commands
 
@@ -313,9 +313,7 @@ Build a set with/from… called/named/as… with some number of intentioned phra
 
 Build an empty set called/named/as… with a name for the set following, when given starting a system command creates an empty set
 
-Save what I have stacked as a set called/named/as… when given starting a system command, saves all a user has stacked into a new set with the name that follows called/named/as
-
-Save… as a set called/named/as… with some number of intentioned phrases described between the save and as a set parts of the phrase saves the phrases as a set with a name by the user when the phrase is given starting a system command
+Save… as a set called/named/as… with some number of intentioned phrases described between the save and as a set parts of the phrase saves the phrases or if none are, all the user has stacked as a set with a name by the user when the phrase is given starting a system command
 
 Add the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
