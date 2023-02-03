@@ -26,7 +26,7 @@ In interactions through the server, we understand each other in our native langu
 The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
 
 # The server avoids injuring and causing pain
-In interactions with the server, the server isn’t permitted to injure, or cause pain to, nor prolong subduing or disabling an unlawful, unreasonable or unhelpful amount, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
+In interactions with the server, the server isn’t permitted to injure, or cause pain to, nor prolong subduing an unlawful, unreasonable or unhelpful amount, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
 
 # Foreign Object Removal During Healing
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
