@@ -104,6 +104,10 @@ Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…
 
+Setup System Commands
+
+... Setup... Phone As A Relaypoint?, ... Setup... Phone As A Node?
+
 Transportation System Commands
 
 … Going/Goin’ To… Where..., ... Going/goin' To..., … Going/Goin’ To… Lobby Where..., ... Going/goin' To... Lobby...
