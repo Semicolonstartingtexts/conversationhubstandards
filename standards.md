@@ -31,7 +31,7 @@ Rules
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentioned Phrases
+Intentions
 
 Semicolon Starting SMS Texts
 
@@ -63,15 +63,11 @@ Relaypoint
 
 Server
 
-Extension
-
-Relay
-
-Node
+Relay or Node
 
 System Talk
 
-Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
+Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Talk
 
@@ -79,7 +75,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -101,7 +97,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set my initiation to/as…, Set my confirmation to/as…, Alias… as…, Clear my preferences for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set … messaging confirmation to… Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
@@ -111,13 +107,17 @@ Communication System Commands
 
 Send a message to…, Replay the last message…, Reply with…
 
+Sets System Commands
+
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+
 First Aid System Commands
 
 Heal
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
 Transportation System Commands
 
@@ -143,7 +143,7 @@ Set my app preference for semicolon starting SMS texts to…
 
 System Talk
 
-Intentioned Phrases, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
+Intentions, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
 
 Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
@@ -154,6 +154,8 @@ Preferences, the conversation which governs the server’s interactions regardin
 Rules, the stacked conversation which limits or enhances any user which is in the zone’s interactions with the other users which are in the zone the user in, may only be stacked on mappings and roles which permit rules to be stacked, and aren’t allowed to be intending to the source of physically harm, hurt, injury, pain, decline in health or overabundance of health beyond a user preferred threshold defaulting to a threshold of comfort ensured, to render unconscious, comatose, deceased or to suppress or limit the consciousness of, a user, or enhance or limit in such a way as to be hindering of the conscious independence of a user, or the limit the ability to communicate independently and to do so without alteration from the intended independently generated intent for the user’s own communication being the message communicated through whichever medium the message is communicated
 
 Confirmed Phrase and Confirmed Phrases, the most recent phrase made by a user which aren’t stacked and have been confirmed by a user in the user interactions for the user and users relevant to the interaction if the mapping’s provisions permit, a user is always stacked on the most recent confirmed phrase by the user for the user unless explicitly or generally unstacked
+
+Sets, groups of stacked intentions for the user which can be swapped out in full, have phrases added to and removed from, built from specific phrases, or stacked and unstacked as a whole
 
 System Command Talk
 
@@ -167,7 +169,9 @@ Server Provisions, the set of provisions that outlines a way all users of a serv
 
 User, is provisioned as a person interacting with the server or an application of the effects applicable relevant to the server’s users, the default role of the server’s population beyond the owner of the endpoint
 
-Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack the definition of the server and provisions, administrators receive the general incoming connection requests when there aren’t moderators connected
+Owner, the owner of the relaypoint, relay, node or the endpoint, without an administrator role, may stack or approve the stacking of the definition of the equal level in the definition hierarchy downwards on the hierarchy for themselves or others
+
+Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack, or approve the act of stacking, changing or unstacking, the definition of what the administrator holds an administrator role on, and may stack or approve the stacking of the definition of the equal level in the definition hierarchy downwards on the hierarchy for themselves or others, and may do so with server provisions if the administrator is an administrator on a server, administrators receive the general incoming connection requests when there aren’t moderators connected
 
 Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the endpoint may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected
 
@@ -175,7 +179,7 @@ Doorkeep, receive general incoming connection requests when aren’t connected a
 
 Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system talk, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through system talk but wouldn’t be without system talk isn’t an endpoint
 
-Node, an object imbued with the joining functionality and a shared lobby stacked on or independent of the endpoint, has a persistent shared lobby which grows with the users every joined node’s sharing the lobby, being taken to the originating node or server lobby for the users connection when unjoining, the imbuing is tracked by the endpoint the node was imbued on, keeping the owner and roles of the endpoint of where the object was imbued, but assigning an owner of the node to the user which does the imbuing, shares what is considered the server by the endpoint the node was imbued on unless otherwise stated, allows for 6 users at a time
+Node, an object imbued with the joining functionality and a shared lobby, called a room, stacked on or independent of the endpoint, has a persistent shared lobby which grows with the users every joined node’s sharing the lobby, the imbuing is tracked by the endpoint the node was imbued on, keeping the owner and roles of the endpoint of where the object was imbued, but assigning an owner of the node to the user which does the imbuing, shares what is considered the server by the endpoint the node was imbued on unless otherwise stated, allows for a limit of 20 users at a time on the node and a limit of 40 users per shared lobby, called a room, and independent nodes don’t have utility system commands available except the ask… reserved system command and info gesture reserved system command gesture with an initial confirmation of “as a system command” or “with a system command”, any preferences set by and stacked on a user as suspended while on nodes
 
 Joining, the linking of nodes to share a shared lobby, and to be taken to the zones or lobbies of a server, the server definition must allow or at least mustn’t have a restriction against the criteria the user matches, being taken to the originating server’s lobby when unjoining
 
@@ -185,17 +189,27 @@ Relay, an object imbued with the functionality of a server, the imbuing is track
 
 Server, a set of mappings, which is be linked to an endpoint, and, when desired, a relay, stagnantly or free-floating, which is independently in a set distinctly from other sets of mappings and devoid of interaction from or to another set of mappings, roles of the server aren’t permitted to change the definition or provisions of the endpoint, and keeping the owner and roles of the endpoint where the server is stacked on, only the servers which the user holds a permitting role on to change and do what the role permits changed and done, allows for 10 users at time
 
-Definition, the provision which is the sole phrase that has been stacked on the server, endpoint, or relaypoint, to define the server’s provisions for setup and use or endpoint to define the endpoint’s servers setup and top-level server provisions for setup and use, scoped as necessary for the interactive experience, and to restrict or allow a user to stay connected to the server, or restrict or allow a user to be connected to or from the server by a user connected to the server, and the definition of the server, or endpoint, may only be stacked, changed and unstacked by administrators of the server or the owner of the endpoint, or owner of the relaypoint, relay, or extension, for relaypoints and relays, the definition of the endpoint is comprised of a specific reference to the endpoint, the Conversation Server Standards and what is considered the server by the endpoint and any top-level provisions and allowances or restrictions for relaypoints, the definition of the node, specifies the object is a node for a specific endpoint, is the Conversation Server Standards, and may have restrictions or allowances for which nodes may or may not join with the node and the criteria for users which may or may not be connecting or be connected to, the definition of the server is comprised of a specific reference to the endpoint, the Conversation Server Standards, as well as scopes the interactions of the endpoint to the server by name and may have allowances or restrictions for which users may or may not connect and any allowances or restrictions for relays of the server, the definition of the relay of a server, specifies the object is a relay for a specific server on a specific endpoint, is the Conversation Server Standards, and may have allowances or restrictions for which users may or may not connect and for relays, relays are subject to the definitions of the endpoint and server and provisions of the server the relays relay, to have a relay extend a server, have the definition mention the object is a relay for a specific server on a specific endpoint which extends the server, independently of, but following the provisions of, or as part of server, the definition of the relaypoint, specifies the object is a relaypoint for a specific endpoint, is the Conversation Server Standards, and what is considered the server by the endpoint, and that the relaypoint follows the top-level provisions of the endpoint but may have top-level provisions as well, plus any allowances or restrictions for relaypoints of the relaypoint
+Definition, the provision which is the sole phrase that has been stacked on the server, endpoint, or relaypoint, to define the server’s provisions for setup and use or endpoint to define the endpoint’s servers setup and top-level server, relaypoint and endpoint provisions for setup and use, and may only be stacked by an owner or administrator of the the endpoint, relaypoint, server, relay, or node which is stacking the definition or above in the inherited or referring definition chain,  nodes are only able to have the provisions in the Conversation Server Standards, every definition must adhere to the form in the Conversation Server Standards to inherit or refer to an endpoint or inherited or referencing definition from a definition of an endpoint which is the Conversation Server Standards in the definition of the endpoint and do so without adjustment of the Conversation Server Standards in the current version from the main branch of the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com from use of in their entirety without adjustment, scoped as necessary for the interactive experience, and to restrict or allow a user to stay connected to the server, or restrict or allow a user to be connected to or from the server by a user connected to the server, and the definition of the server, or endpoint, may only be stacked, changed and unstacked, or approved  to be stacked, changed or unstacked by administrators of the server or the owner of the endpoint, or owner of the relaypoint, relay, or extension, for relaypoints and relays, the definition of the endpoint is comprised of a specific reference to the endpoint, the Conversation Server Standards and what is considered the server by the endpoint and any top-level provisions and allowances or restrictions for relaypoints, the definition of the node, specifies the object is a node for a specific endpoint, is the Conversation Server Standards, what is considered the server by the node and the stacked by relaypoint or endpoint, and may have restrictions or allowances for which nodes may or may not join with the node and the criteria for users which may or may not be connecting or be connected to, the definition of the server is comprised of a specific reference to the endpoint or, also as an option, the effects of the endpoint, the endpoint will be inferred from the effects of the endpoint, the Conversation Server Standards, as well as scopes the interactions of the endpoint to the server by name and may have allowances or restrictions for which users may or may not connect and any allowances or restrictions for relays of the server, the definition of the relay of a server, specifies the object is a relay for a specific server on a specific endpoint, is the Conversation Server Standards, and may have allowances or restrictions for which users may or may not connect and for relays, relays are subject to the definitions of the endpoint and server and provisions of the server the relays relay, to have a relay extend a server, have the definition mention the object is a relay for a specific server on a specific endpoint which extends the server, independently of, but following the provisions of, or as part of server, the definition of the relaypoint, specifies the object is a relaypoint for a specific endpoint, is the Conversation Server Standards, and what is considered the server by the endpoint, and that the relaypoint follows the top-level provisions of the endpoint but may have top-level provisions as well, plus any allowances or restrictions for relaypoints of the relaypoint
 
-Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, the initial confirmation is “with a system command”
+To use on an endpoint, be on a conversation server connected to an endpoint, or own or be a systems administrator of an endpoint and think stack the endpoint I own or am a systems administrator of is the Conversation Server Standards and the endpoints or relays which can join with the endpoint are/aren’t … and the what is considered the server by the endpoint I’m using is … and the top-level provisions are … (and if there are any, the specific allowances and restrictions for relaypoints of the endpoint are …) as the definition of the endpoint on the endpoint
+
+To use an object as a node, be on a conversation server or interacting with an endpoint or relaypoint connected to an endpoint or relaypoint and think stack the object I want to be a node is a node for (the specific endpoint to be a node of) and is the Conversation Server Standards what is considered the server by the node and the stacked by relaypoint or endpoint and the endpoints or nodes which can join with the endpoint are/aren’t …  and the users which can connect are/aren’t as the definition of the node for (the specific endpoint) on the node
+
+To use an object as a relaypoint, be on a conversation server connected to an endpoint or relaypoint and have a role of administrator or be an owner of the endpoint or relaypoint and think stack the object I want to be a node is a node for (the specific endpoint to be a relaypoint of) and is the Conversation Server Standards and the endpoints or nodes which can join with the endpoint are/aren’t … and the what is considered the server by the relaypoint I’m using is what is considered the server of (the specific endpoint to be a relaypoint of) and the top-level provisions are … (and if there are any, the specific allowances and restrictions for relaypoints of the relaypoint are …) as the definition of the node for (the specific endpoint) on the relaypoint
+
+To create a server, be on a conversation server or interacting with endpoint or effects of the endpoint or relaypoint connected to the endpoint or relaypoint and be an owner of the endpoint or relaypoint or hold an administrator role on the endpoint or relaypoint and think stack the endpoint or, also as an option, the effects of the endpoint, the endpoint will be inferred from the effects of the endpoint, or relaypoint I’m interacting with is the Conversation Server Standards in interactions with the server on the endpoint or relaypoint I’m interacting with which is called … and the users which can connect are/aren’t … (and if there are any, the specific allowances and restrictions for relays of the server are …) as the definition of the server on the endpoint or relaypoint
+
+To use an object as a relay for a server, be on a conversation server connected to an endpoint or relaypoint or own the connected endpoint or relaypoint or be a systems administrator of the connected endpoint or relaypoint or hold an administrator role on the conversation server and think stack the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and is the Conversation Server Standards and the users which can connect are/aren’t … (and if any, allowances or restrictions of relays  of the server are …) as the definition of the relay for (the specific server) on the relay
+
+Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, the initial confirmation is “with a system command” or “as a system command”
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
 Shelving, shelved system talk in libraries doesn’t have effects applied in interactions between the user and other users or the user or other role’s self while shelved and the user is on a mapping until stacked again on the user which takes the system talk off the shelf by stacking the system talk on the user if a user or other role’s self chooses to do so, and a shelved user skips interacting with the server beyond the hangup reserved system command or deshelving by a user self
 
-Stacking, storing system talk with a representation of the intention of the user’s self for the system talk, so in a mapping, the system talk may be interacting with the user and be interacting with other users in interactions with the user while in the mapping if the mapping’s provisions and consent status from and system talk provisions relevant for the interacting users permit, system talk can be stacked through the system commands which do so,  stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
+Stacking, storing system talk with a representation of the intention of the user’s self for the system talk, so in a mapping, the system talk, individually and respectively, may be interacting with the user for and by the user and by other users interacting with the user while in the mapping if the mapping’s provisions and consent status from and system talk provisions relevant for the interacting users permit, system talk can be stacked through the system commands which do so, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of, users unstack on stacked system talk when the users die or are rendered unconscious
 
-Tracking, the application of effects applying at the current moment in the interactions of a user with the user or/and other users in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise permitted to be applying application of effects applicable in interactions with users interacting with a user in a mapping, may only be by the user about a user, or other users which consent still to the application of effects applicable applying, if about an object, only an object which is the user’s own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of
+Tracking, the application of effects applying at the current moment in the interactions of a user with the user in a mapping with the user, the system talk, to be system talk, with the provisions and the application of effects applicable applying as the provisions permit for system talk, to be stacked or otherwise and the effects applicable from the system talk when and where and to whomever the effects are applicable permitted to be applying application of effects applicable in interactions with others interacting with a user in and out of a mapping and the user interacting with the user’s self in and out of a mapping, individually and respectively with the application of effects applicable from system talk staying individual and respective and applicable for others affected when application of effects applicable is lawful still, may only be by the user about a user, or others which consent still or for whomever interacting with the application of effects applicable is lawful to have the application of effects applicable applying to themselves and the affected interactions of theirs
 
 Mappings, networks of users with preferences and/or rules able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned system commands which the server provisions allow
 
@@ -205,7 +219,7 @@ Zone, a network of users that permits rules and preferences to be stacked on the
 
 Lobby, a network in which the application of effects applied in interactions with users which are in and while on the lobby, is only the definition of the server and the server’s provisions, administrative system commands and utility system commands, transportation system commands and the initial consent system commands, connection system commands and communication system commands, and the related gestures if a gesture related is in the provisions of the server, the users which have yet to consent to the most recent revision are limited in terms of mappings to be taken to to the lobbies, rules aren’t permitted to be stacked on a lobby and the on a moderator stacked rules are suspended while in the lobby, accepted incoming connection requests enter in the lobby
 
-Library, the zone where unstacked, stacked system talk gets shelved in the respective library for safe keeping and keeping safe from, without application of effects applied in interactions with the system talk shelved, while shelved, until the system talk is stacked again or deshelved, and to be shelved, as a user or other role, skips interacting with the server beyond the goodbye reserved system command or deshelving by a user, additionally, the users in the library interacting with the user and the users don’t have application of effects applied from the user, users in the library’s stacked system talk in interactions with the user in the library while in the library and the user’s and users’ in the library’s semicolon starting SMS texts while in the library
+Library, the zone where unstacked, stacked system talk gets shelved in the respective library for safe keeping and keeping safe from, without application of effects applied in interactions with the system talk shelved, while shelved, until the system talk is stacked again or deshelved, and to be shelved, as a user or other role, skips interacting with the server beyond the goodbye reserved system command or deshelving by a user, additionally, the users in the library interacting with the user and the users don’t have application of effects applied from the user’s in the library’s stacked system talk in interactions with the user by the user and other users in the library while in the library and the user’s and users’ in the library’s semicolon starting SMS texts for the involved recipients of the semicolon starting SMS texts while in the library
 
 System Command Gestures
 
@@ -221,9 +235,9 @@ While Gesture: Placing the thumb on the farthest knuckle of the forefinger from 
 
 Stack Gesture: Either the gesturing user, mentioned user, mentioned mapping, or mapping the user is in, or all mappings on the server if a provision is mentioned in or implied by the focused phrase of the most recent gesture, stacks on the focused phrase of the most recent focus gesture, apply gesture, either, within the past couple of seconds by touching the forefinger tip to the thumb tip
 
-Unstack Gesture:  Hold for a couple of seconds the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
+Unstack Gesture:  Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase during the process beyond the act of unstacking, the system talk focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system talk focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention which unstacks as the system talk focused by the gesture the next time the gesture is done consecutively
 
-Info Unstack Gesture: Hold for a couple of seconds the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intentioned phrase on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
+Info Unstack Gesture: Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase during the process beyond the act of unstacking, the stacked system talk most recently referenced by the info pinky gesture’s answer within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention on the gesturing user’s self which unstacks as the response’s referenced system talk next time the gesture is done consecutively
 
 Utility System Command Gestures
 
@@ -245,21 +259,23 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Make a rule...  following with a phrase describing a rule to be stacked if starting a system command stacks the permitting current mapping the user is in on the rule, or permitting role’s self if explicitly described
+Make a rule.../make it a rule…  following with a phrase describing a rule to be stacked if starting a system command stacks the permitting current mapping the user is in on the rule, or permitting role’s self if explicitly described
 
 Remove the rule/rules... following with a phrase describing rules or the rule to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a rule or multiple rules match the description, with the user noticing the reason a rule or multiple rules weren’t unstacked if there is a reason or are multiple reasons
 
 Set a preference… following with a phrase describing a preference to be set if starting a system command stacks the user on the preference
 
-Set my initiation to/as… if starting a system command, stacks the user on a unique preference for a custom initiation unstacking previously stacked initiation preferences for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … initiation to/as… if starting a system command, stacks the user on a unique preference for a custom initiation unstacking previously stacked initiation preferences for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
-Set my confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
-Set my messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of
+Set … messaging confirmation to/as… if starting a system command stacks the user on a unique preference for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of if the user is allowed to
 
 Alias… as… if starting a system command sets a preference for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
-Clear my preferences for… if starting a system command clears the preference set by an Alias… as… or a set my confirmation… system command or another preference, unstacking if stacked, depending on what is described in the phrase
+Clear … preferences for… if starting a system command clears the preference(s) set by an Alias… as… or a set … confirmation… system command or another preference which isn’t a consent preference, unstacking if stacked, depending on what is described in the phrase by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of for the specified user if the user is allowed to
+
+Clear … consent for…/remove … consent for… clears the consent related preferences set by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of for the specified user if the user is allowed to
 
 Declaring System Commands
 
@@ -283,13 +299,43 @@ Unstack… if starting a system command unstacks the system talk referred to by 
 
 Communication System Commands
 
-Thinking the phrases send a message to…, replay the last message… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server
+Thinking the phrases send a message to…, replay the last message…, set my messaging confirmation… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server
 
 Send a message to… and a description, name, either, of a user on or off the server which has consented before to the send a message provision, and a message to send which ends in send and a second or more of a pause lets the receiving user or other role’s self of the message’s self notice a message has been received sent by the sending user’s first name and last initial and the timestamp down to the minute of when the message was sent as soon as is safe and practical and acceptably private for the recipient by the recipient’s standards and expectations for the notification of the receipt of the message and the message sent, if the message doesn’t end in or contain nevermind, or the recipient isn’t a consented recipient and then the user notices that
 
 Replay the last message… when given as a system command, lets the user notice the most recent message received complete with first name and last initial of the sender and timestamp down to the the minute of when the message was sent
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent through the system but thinking of either an aspect of the message or the person, sends a message to the sending user of the message received’s own self in the same way as the send a message to system command but with an updated timestamp for the reply’s sent time, but doesn’t send a message if the message end in or contain nevermind
+
+Sets System Commands
+
+Build a set with/from… called/named/as… with some number of intentions described between the with/from and called/named/as parts of the phrase saves the phrases as a set with a name for the user when the phrase is given starting a system command
+
+Build an empty set called/named/as… with a name for the set following, when given starting a system command creates an empty set
+
+Save… as a set called/named/as… with some number of intentions described between the save and as a set parts of the phrase saves the phrases or if none are, all the user has stacked as a set with a name by the user when the phrase is given starting a system command
+
+Add/save the phrase/phrases… to the set named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+
+Add/save the phrase/phrases… to the set… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
+
+Add/save that to the set… adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
+
+Add/save that to the set named/called… adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
+
+Remove/delete the phrase/phrases… from the set named/called… removed all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+
+Remove/delete the phrase/phrases… from the set… removes all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the most recent referenced set when the phrase is given starting a system command
+
+Remove/delete that from the set… removes the last heard/noticed described phrase from the most recently referenced set when given starting a system command
+
+Remove/delete that to the set named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
+
+Stack/load/put on/equip the … set… stacks the set described in the phrase or the most recently referenced set if none is on the user when given starting a system command
+
+Unstack/unload/take off/unequip the set… unstacks the user’s last stacked set or described set in the phrase when given starting a system command
+
+Swap sets for the … set…/swap the … set for the … set…/swap the … sets for the … set…/swap sets to the … set…/swap the … set to the … set…/swap the … sets to the … set… unstacks all sets described or the stacked sets for the sets or set described in the phrase when given starting a system command
 
 First Aid System Commands
 
@@ -349,4 +395,4 @@ Semicolon Starting SMS Texts
 
 Set my app preference for semicolon starting SMS texts… followed by an app will designate where the server should look for the user’s semicolon starting SMS texts on the user’s phone and set a preference for the app to be where the system should look for semicolon starting SMS texts for and by the users by stacking the user on the preference, the server won’t send empty messages and the user notices a message is required if an attempt to do so is initiated
 
-If the intended user for the effects applicable of the semicolon starting SMS text as well as the sending user and the intended recipient users or users of the semicolon starting SMS text have set an app preference for semicolon starting SMS texts with the set my app preference for semicolon starting SMS texts system command, the system will make their semicolon starting SMS texts in the app on their phone’s intentioned phrases, and if the semicolon starting SMS text has applications of the effects applicable intended for more users than the user, the semicolon starting SMS text must be kept on the user’s involved in the applicable effects’ own phone in the app which the user involved in the effects applicable has set as their preference for semicolon starting SMS texts, have been read in entirety by a user which is involved in the effects applicable in the user’s interactions with the user and with other users in the mapping while the user is in the mapping to have effects applicable in the user’s interactions with the user’s own self and with the other users in the mapping, if the mapping provisions permit, however, the application of the effects applicable must stay within the limits of restrictions of the consent criteria of intentioned phrases for the user’s involved in the applicable effects to have effects applied for the user which would be involved in the the application of the effects applicable, the semicolon starting SMS text relevant must have been kept on the phone after reading in entirety by the user which is the intended recipient of the semicolon starting SMS text for at least 60,000 milliseconds to apply to the users involved with the semicolon starting SMS text’s effects applicable individually and respectively, but also limited to the set of users matching the consent criteria of stacking, and in interactions with other system talk, semicolon starting SMS texts hold a lower priority to system talk
+If the intended user for the effects applicable of the semicolon starting SMS text as well as the sending user and the intended recipient users or users of the semicolon starting SMS text have set an app preference for semicolon starting SMS texts with the set my app preference for semicolon starting SMS texts system command, the system will make their semicolon starting SMS texts in the app on their phone’s intentions, and if the semicolon starting SMS text has applications of the effects applicable intended for more users than the user, the semicolon starting SMS text must be kept on the user’s involved in the applicable effects’ own phone in the app which the user involved in the effects applicable has set as their preference for semicolon starting SMS texts, have been read in entirety by a user which is involved in the effects applicable in the user’s interactions with the user and with other users in the mapping while the user is in the mapping to have effects applicable in the user’s interactions with the user’s own self and with the other users in the mapping, if the mapping provisions permit, however, the application of the effects applicable must stay within the limits of restrictions of the consent criteria of intentions for the user’s involved in the applicable effects to have effects applied for the user which would be involved in the the application of the effects applicable, the semicolon starting SMS text relevant must have been kept on the phone after reading in entirety by the user which is the intended recipient of the semicolon starting SMS text for at least 60,000 milliseconds to apply to the users involved with the semicolon starting SMS text’s effects applicable individually and respectively, but also limited to the set of users matching the consent criteria of stacking, and in interactions with other system talk, semicolon starting SMS texts hold a lower priority to system talk
