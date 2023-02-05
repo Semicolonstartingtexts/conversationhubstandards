@@ -19,14 +19,11 @@ In interactions with the server, the server avoids healing already healed wounds
 # When asking about the server provisions, server status information doesn’t count the Conversation Server Standards in the number and mentions if the Conversation Server Standard provisions aren’t stacked on the server
 In interactions with the server’s status information, the number of server provisions relayed is that of the server’s provisions minus the provisions of the Conversation Server Standards provisions, however if the Conversation Server Standards are included by the definition of the server and have been unstacked or removed somehow from the server, that is relayed in status information about the server’s provisions
 
-# Universal Translation
-In interactions through the server, we understand each other in our native language
-
 # Laws, Ordinances and the Constitution
 The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
 
 # The server avoids injuring and causing pain
-In interactions with the server, the server isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
+In interactions with the server, the server isn’t permitted to injure, or cause pain to, nor prolong subduing an unlawful amount, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
 
 # Foreign Object Removal During Healing
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
