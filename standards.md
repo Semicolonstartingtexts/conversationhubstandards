@@ -363,9 +363,9 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally or overall available memory, storage, network connectivity, or power, letting the command giving user notice the increase’s quantity, if the resource will act as a waypoint, and how much more effectively a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, or power, letting the command giving user notice if the resource will act as a waypoint, and how much more effectively a previously done server interaction could be done now
 
-Unattach... When given starting a system commands, unattaches a resource
+Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the relaypoints and servers
 
 Setup System Commands
 
