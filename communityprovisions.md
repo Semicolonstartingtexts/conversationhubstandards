@@ -23,7 +23,7 @@ In interactions with the server’s status information, the number of server pro
 The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
 
 # The server avoids injuring and causing pain
-In interactions with the server, the server isn’t permitted to injure, or cause pain to, nor prolong subduing an unlawful amount, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
+In interactions with the server, the server isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
 
 # Foreign Object Removal During Healing
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
@@ -33,3 +33,6 @@ In interactions with the server, the server, during and at the start of a heal r
 
 # Role Safe Stop Tracking
 In interactions with the endpoint or relaypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
+
+# Always Subdues Safely
+In interactions with the server involving subdoing or incapacitating, the server always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount.
