@@ -1,6 +1,6 @@
 Provisions for endpoints and servers for conversations through it
 
-By about 1,117 people as of Feb 3, 2023 3:37am
+By about 1,291 people as of Feb 4, 2023 9:19pm
 
 # Outline of the Conversation Server Standards
 
