@@ -341,11 +341,11 @@ Remove/delete that from the set… removes the last heard/noticed described phra
 
 Remove/delete that to the set named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
 
-Stack/load/put on/equip the … set… stacks the set described in the phrase or the most recently referenced set if none is on the user when given starting a system command
+Stack/load/put on/equip the … set/sets… stacks the set or sets described in the phrase or the most recently referenced set if none is on the user when given starting a system command
 
-Unstack/unload/take off/unequip the set… unstacks the user’s last stacked set or described set in the phrase when given starting a system command
+Unstack/unload/take off/unequip the set/sets… unstacks the user’s last stacked set or described set or sets in the phrase when given starting a system command
 
-Swap sets for the … set…/swap the … set for the … set…/swap the … sets for the … set…/swap sets to the … set…/swap the … set to the … set…/swap the … sets to the … set… unstacks all sets described or the stacked sets for the sets or set described in the phrase when given starting a system command
+Swap sets for the … set…/swap the … set for the … set…/swap the … sets for the … set…/swap sets to the … set…/swap the … set to the … set…/swap the … sets to the … set… unstacks all sets or the set described or the stacked sets for the sets or set described in the phrase when given starting a system command
 
 First Aid System Commands
 
