@@ -35,7 +35,9 @@ To create a server, be on a conversation server or interacting with endpoint or 
 
 To use an object as a relay for a server, be on a conversation server connected to an endpoint or relaypoint or own the connected endpoint or relaypoint or be a systems administrator of the connected endpoint or relaypoint or hold an administrator role on the conversation server and think stack the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and is the Conversation Server Standards and the users which can connect are/aren’t … (and if any, allowances or restrictions of relays  of the server are …) as the definition of the relay for (the specific server) on the relay
 
-Attaching to resources gives increased capacity and capability to your local cluster  
+Attaching to resources gives increased capacity, level of capability and modes of interfacing to your local cluster
+
+Extending to devices adds functionality to the server
 
 Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrinks the shared lobby of the joined nodes
 
