@@ -22,11 +22,9 @@ Role Hierarchy
 
 Owner of the Endpoint
 
-Owner of the Relaypoint of the Endpoint
+Owner of the Waypoint of the Endpoint
 
 Owner of the Relay of the Server
-
-Owner of the Extension of the Server
 
 Administrator
 
@@ -36,31 +34,27 @@ Doorkeep
 
 User
 
-Definition Hierachy
+System Definition Hierachy
 
 Endpoint
 
-Relaypoint
+Waypoint
 
 Server
 
-Extension
+Relay or Node
 
-Relay
-
-Node
-
-System Talk
+System Speech
 
 Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
-System Command Talk
+System Command Speech
 
 Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -86,15 +80,15 @@ Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiatio
 
 Declaring System Commands
 
-An initiation and confirmation, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+An initiation and confirmation, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to…
+Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
 
-Set System Commands
+Sets System Commands
 
-Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save what I have stacked as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
 
 First Aid System Commands
 
@@ -102,15 +96,23 @@ Heal
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…
+
+Clustering System Commands
+
+Attach…, Unattach from…
+
+Extension System Commands
+
+Utilize…, Stop/cease the utilization of…
 
 Setup System Commands
 
-... Setup... Phone As A Relaypoint?, ... Setup... Phone As A Node?
+... Setup... Phone As A waypoint?, ... Setup... Phone As A Node?
 
 Transportation System Commands
 
-… Going/Goin’ To… Where..., ... Going/goin' To..., … Going/Goin’ To… Lobby Where..., ... Going/goin' To... Lobby...
+… Going/Goin’ To… Where..., ... Going/goin’ To..., … Going/Goin’ To… Lobby Where..., ... Going/goin’ To... Lobby...
 
 Connection System Commands
 
