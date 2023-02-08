@@ -99,7 +99,7 @@ Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiatio
 
 Declaring System Commands
 
-An initiation and confirmation, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+An initiation and confirmation, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
 Communication System Commands
 
@@ -229,7 +229,7 @@ Resource, any device in the network which has been appropriated which adds to th
 
 Clustering, forming local cells of a server, relaypoints and resources to enhance the capability of the network.  Relaypoints offer direct routes of network connection, and waypoints send their network activity through the nearest relaypoint, the waypoints authenticate each session through their endpoint and maintain authentication throughout their session for their network activity.  Route attaching happens when you declare a relaypoint which has network connectivity access and cloud attaching is the act of appropriating any additional resources for the cluster, declaring relaypoints allows for more routes to the endpoint and more places to stack servers and nodes but doesn’t add a route for sending network activity directly.  Increasing the number of resources: memory, storage, or network connectivity, computational ability, modes of interfacing and power, allows for an increase of potency to capability locally and overall, additionally, the number of users adds to the resource pool.  Ensuring a lot of local resources makes for higher and enhanced capability and capacity available in the area.
 
-Extensions, extend the server through capable devices allowing for new modes of interactivity with and functionality of the server
+Extensions, extend the server through devices of new ability allowing for new modes of interactivity with and added functionality of the server
 
 System Mappings
 
@@ -297,8 +297,6 @@ Declaring System Commands
 
 An initiation and confirmation, if set, perform the rest of the phrase minus the confirmation as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
 
-Focus/focused and… gives the rest of the phrase minus the words focus and as a system command if the phrase fits a reserved system command syntax and the phrase ends with the confirmation and confirms the phrase for the user’s self and users relevant to the application of effects applicable if those have consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command syntax
-
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
 Prepend… to… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word prepend… to the beginning of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be prepended
@@ -357,7 +355,7 @@ Swap sets for the … set…/swap the … set for the … set…/swap the … se
 
 First Aid System Commands
 
-Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over four seconds timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why, the heal reserved system command isn’t allowed to have system speech about impairing or altering the use of beyond limiting the use of, and doesn’t interact with stacked system speech, but is allowed to be opted out of
+Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over four seconds timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have only the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why, the heal reserved system command isn’t allowed to have system speech about impairing or altering the use of beyond limiting the use of, and doesn’t interact with stacked system speech, but is allowed to be opted out of
 
 Utility System Commands
 
@@ -371,15 +369,15 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more effectively a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
 
-Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the relaypoint and servers, and tells you how much less effectively a previous server interaction could be done now
+Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster, and tells you how much less effectively a previous server interaction could be done now
 
 Extension System Commands
 
-Utilize… extends the server to a new node of interactivity and expands functionality of the server through the network of the cluster
+Utilize… extends the server to a new node of interactivity and expands functionality of the server
 
-Cease/stop the utilization of… severs the servers extension to the mode of interactivity
+Cease/stop the utilization of… ceases the servers utilization of a device the server has extended to
 
 Setup System Commands
 
