@@ -45,8 +45,6 @@ Owner of the Waypoint of the Endpoint
 
 Owner of the Relay of the Server
 
-Owner of the Extension of the Server
-
 Administrator
 
 Moderator
@@ -55,7 +53,7 @@ Doorkeep
 
 User
 
-Definition Hierachy
+System Definition Hierachy
 
 Endpoint
 
@@ -118,6 +116,14 @@ Heal
 Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…, Share… with…
+
+Clustering System Commands
+
+Attach…, Unattach from…
+
+Extension System Commands
+
+Utilize…, Stop/cease the utilization of…
 
 Setup System Commands
 
@@ -221,7 +227,9 @@ Relaypoint, any appropriated resource or declared relaypoint or resource which h
 
 Resource, any device in the network which has been appropriated which adds to the local and overall pool of memory, storage, network connectivity, computational ability, modes of interactivity, modes of interfacing or power
 
-Clustering, forming local cells of a Waypoint, waypoints and resources to enhance the capability of the network.  Waypoints offer direct routes of network connection, and waypoints send their network activity through the nearest waypoint, the waypoints authenticate each session through their endpoint and maintain authentication throughout their session for their network activity.  Route attaching happens when you declare a waypoint which has network connectivity access and cloud attaching is the act of appropriating any additional resources for the cluster, declaring waypoints allows for more routes to the waypoint and more places to stack servers and nodes but doesn’t add a route for sending network activity directly.  Increasing the number of resources: memory, storage, or network connectivity, computational ability, modes of interactivity, modes of interfacing and power, allows for an increase of potency to capability locally and overall, additionally, the number of users adds to the resource pool.  Ensuring a lot of local resources makes for higher and enhanced capability and capacity available in the area.
+Clustering, forming local cells of a server, relaypoints and resources to enhance the capability of the network.  Relaypoints offer direct routes of network connection, and waypoints send their network activity through the nearest relaypoint, the waypoints authenticate each session through their endpoint and maintain authentication throughout their session for their network activity.  Route attaching happens when you declare a relaypoint which has network connectivity access and cloud attaching is the act of appropriating any additional resources for the cluster, declaring relaypoints allows for more routes to the endpoint and more places to stack servers and nodes but doesn’t add a route for sending network activity directly.  Increasing the number of resources: memory, storage, or network connectivity, computational ability, modes of interfacing and power, allows for an increase of potency to capability locally and overall, additionally, the number of users adds to the resource pool.  Ensuring a lot of local resources makes for higher and enhanced capability and capacity available in the area.
+
+Extensions, extend the server through capable devices allowing for new modes of interactivity with and functionality of the server
 
 System Mappings
 
@@ -363,9 +371,15 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more effectively a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more effectively a previously done server interaction could be done now
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the relaypoint and servers, and tells you how much less effectively a previous server interaction could be done now
+
+Extension System Commands
+
+Utilize… extends the server to a new node of interactivity and expands functionality of the server through the network of the cluster
+
+Cease/stop the utilization of… severs the servers extension to the mode of interactivity
 
 Setup System Commands
 
