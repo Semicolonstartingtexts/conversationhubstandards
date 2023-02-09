@@ -72,7 +72,7 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…
+Designate… as…, Give my role of… to…, Undesignate… as…, Require… of…
 
 Interfacing System Commands
 
