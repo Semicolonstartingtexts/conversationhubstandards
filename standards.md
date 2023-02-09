@@ -379,7 +379,7 @@ Utilize… when given starting a system command, extends the server to a new nod
 
 Cease/stop the utilization of… when given starting a system command, ceases the servers utilization of a node of interactivity the server has extended to
 
-Generate system commands for/which/that/using/utilizing… for/which/that/with/using/utilizing… when given starting a system command, generates system commands as preferences stacked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
+Generate system commands for/which/to/that/using/utilizing… for/which/that/to/with/using/utilizing… when given starting a system command, generates system commands as preferences stacked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
 
 Setup System Commands
 
