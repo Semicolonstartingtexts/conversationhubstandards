@@ -91,7 +91,7 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…
+Designate… as…, Give my role of… to…, Undesignate… as…, Request… of…
 
 Interfacing System Commands
 
@@ -274,6 +274,8 @@ Designate… as a… designates the user described before the words as a... as t
 Give my role of… to… passes on the role described by the words following my role of if currently held by the commanding user to the user described after the word to..., the role given must be an administrator or a moderator or be described by provisions stacked, the giving user must have the appropriate role to do so or notices the reason why the system command given was denied
 
 Undesignate… as a… stops the user described after the word undesignate but before the words as a being the role named after the words as a..., the role goes back to the administrator to be designated anew, the undesignating user must have the appropriate role to do so or notices the reason why the system command given was denied
+
+Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
 
 Interfacing System Commands
 
