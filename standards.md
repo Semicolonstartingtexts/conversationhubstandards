@@ -123,7 +123,7 @@ Attach…, Unattach from…
 
 Extension System Commands
 
-Utilize…, Stop/cease the utilization of…
+Utilize…, Stop/cease the utilization of…, Generate system commands for… for/which/that…
 
 Setup System Commands
 
@@ -375,9 +375,11 @@ Unattach... When given starting a system commands, unattaches a resource from th
 
 Extension System Commands
 
-Utilize… extends the server to a new node of interactivity and expands functionality of the server
+Utilize… when given starting a system command, extends the server to a new node of interactivity and expands functionality of the server
 
-Cease/stop the utilization of… ceases the servers utilization of a device the server has extended to
+Cease/stop the utilization of… when given starting a system command, ceases the servers utilization of a node of interactivity the server has extended to
+
+Generate system commands for… for/which/that… when given starting a system command, generates system commands as preferences stacked on the user initiating the system command matching the criteria specified for the manufacturer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
 
 Setup System Commands
 
