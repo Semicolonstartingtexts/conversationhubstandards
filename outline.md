@@ -72,7 +72,7 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…
+Designate… as…, Give my role of… to…, Undesignate… as…, Require… of…
 
 Interfacing System Commands
 
@@ -104,7 +104,7 @@ Attach…, Unattach from…
 
 Extension System Commands
 
-Utilize…, Stop/cease the utilization of…
+Utilize…, Stop/cease the utilization of…, Generate system commands for… for/which/that…
 
 Setup System Commands
 
