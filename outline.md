@@ -98,7 +98,7 @@ Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
-Clustering & Extending System Commands
+Clustering and Extending System Commands
 
 Attach…, Unattach from…, Utilize…, Stop/cease the utilization of…, Generate system commands for… for/which/that…
 
