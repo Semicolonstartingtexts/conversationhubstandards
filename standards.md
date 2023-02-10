@@ -117,7 +117,7 @@ Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
-Clustering System Commands
+Clustering and Extending System Commands
 
 Attach…, Unattach from…, Utilize…, Stop/cease the utilization of…, Generate system commands for… for/which/that…
 
@@ -365,7 +365,7 @@ I’m going/goin’ to my home zone… is always given as a system command, with
 
 Share… with/to… both in an offer for the sharing of previously interacted with system speech by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
 
-Clustering System Commands
+Clustering and Extending System Commands
 
 Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
 
