@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -98,13 +98,9 @@ Utility System Commands
 
 Deshelve…, Ask…, I’m going to my home zone…, Share… with…
 
-Clustering System Commands
+Clustering and Extending System Commands
 
-Attach…, Unattach from…
-
-Extension System Commands
-
-Utilize…, Stop/cease the utilization of…, Generate system commands for… for/which/that…
+Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system commands which… for…
 
 Setup System Commands
 
