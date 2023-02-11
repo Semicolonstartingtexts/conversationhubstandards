@@ -65,7 +65,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Imbuing, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -153,6 +153,8 @@ Intentions, the conversation that has been had or being had by a user with a rep
 
 Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
+Imbuing, stacking on, or tracking conversation or a signifier or multiple signifiers with the representation of an intention or intentions involving an object
+
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
 Preferences, the conversation which governs the server’s interactions regarding the user in their interactions with the user, set and stacked only by the user and only on the user, or on a mapping, if the mapping’s provisions permit, preferences, can’t be unstacked by other users than a user’s own self 
@@ -183,7 +185,7 @@ Moderator, initially the administrator of the server, moderators may pass on the
 
 Doorkeep, receive general incoming connection requests when aren’t connected also, may be designated or undesignated by the owner of the endpoint or administrators or moderators of the server
 
-Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system speech, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system speech, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through system speech but wouldn’t be without system speech isn’t an endpoint
+Endpoint, hardware which is or can connected to and is or can be connected to by the server or can provision a server, with and without current and previous system speech, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, and also despite current and previous system speech, system commands, and the server’s user current and previous interactions with the server and current and previous use of the server, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through system speech but wouldn’t be without system speech isn’t an endpoint, an endpoint isn’t allowed to be referred to by other than the owners or administrators of the endpoint, if the reference will have an interaction or multiple interactions from or with or by or involving the endpoint, inherited references created through the Setup... Phone/Device As A Waypoint/Node? reserved system command are allowed but aren’t to be edited or adjusted, only unstacked, by users which aren’t the owners or administrators of the endpoint and only unstacked by an owner or administrator of the node, relay, server or waypoint
 
 Node, an object imbued with the joining functionality and a shared lobby, called a room, stacked on or independent of the endpoint, has a persistent shared lobby which grows with the users every joined node’s sharing the lobby, the imbuing is tracked by the endpoint the node was imbued on, keeping the owner and roles of the endpoint of where the object was imbued, but assigning an owner of the node to the user which does the imbuing, shares what is considered the server by the endpoint the node was imbued on unless otherwise stated, allows for a limit of 20 users at a time on the node and a limit of 40 users per shared lobby, called a room, and nodes have the lobby available system commands but don’t have utility system commands available, the node lets the user notice conversation by users on the node intended for the user generally, and has the user notice conversation intended for the user specifically, while on the node
 
