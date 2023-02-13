@@ -213,7 +213,7 @@ Confirmation, a word that when added to the end of a phrase by a user performs a
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
-Abandon, a word that abandons the system command if in a system command, the initial abandon is nevermind
+Abandon, a word that abandons the system command from applying as a system command being initiated if in a system command, the initial abandon is nevermind
 
 Shelving, shelved system speech in libraries doesn’t have effects applied in interactions between the user and other users or the user or other role’s self while shelved and the user is on a mapping until stacked again on the user which takes the system speech off the shelf by stacking the system speech on the user if a user or other role’s self chooses to do so, and a shelved user skips interacting with the server beyond the hangup reserved system command or deshelving by a user self
 
