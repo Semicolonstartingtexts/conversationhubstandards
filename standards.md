@@ -311,6 +311,8 @@ Stack… if starting a system command stacks the phrase described as the stackin
 
 Unstack… if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture
 
+Unstack… and leave... if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture and leaves in place of the response the intention which follows leave stacked as the unstack and info unstack gestures would when used an even number of times on the same response or focused phrase or word
+
 Communication System Commands
 
 Thinking the phrases send a message to…, replay the last message…, set my messaging confirmation… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server
