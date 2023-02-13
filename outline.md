@@ -80,7 +80,7 @@ Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiatio
 
 Declaring System Commands
 
-Focus and.../focus..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
 Communication System Commands
 
