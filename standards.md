@@ -375,13 +375,13 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering and Extending System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing or power, and the user is authorized to do so, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
 
-Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster, and tells you how much less effectively a previous server interaction could be done now
+Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with, and tells you how much less effectively a previous server interaction could be done now
 
-Utilize/extend to… when given starting a system command, extends the server to a new node of interactivity and expands functionality of the server
+Utilize/extend to… when given starting a system command, extends the server to a new node of interactivity which the user is authorized to do so with and expands functionality of the server
 
-Stop/cease extending/utilization to/of… when given starting a system command, ceases the servers extending to a node of interactivity the server has extended to
+Stop/cease extending/utilization to/of… when given starting a system command, ceases the servers extending to a node of interactivity which the user is authorized to do so with the server has extended to
 
 Generate system commands for/which/to/that/using/utilizing… for/which/that/to/with/using/utilizing… when given starting a system command, generates system commands as preferences stacked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
 
