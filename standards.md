@@ -99,7 +99,7 @@ Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiatio
 
 Declaring System Commands
 
-Focus..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
 Communication System Commands
 
@@ -295,7 +295,7 @@ Clear … consent for…/remove … consent for… clears the consent related pr
 
 Declaring System Commands
 
-Focus... when starting a phrase which doesn’t contain nevermind, or a phrase containing both an initiation and confirmation, if set, perform the phrase, minus the starting word of focus... if starting with focus... or the or the ending words of the confirmation if the confirmation has been changed from the initial, as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
+Focus on... when starting a phrase which doesn’t contain nevermind, or a phrase containing both an initiation and confirmation, if set, perform the phrase, minus the starting word of focus on... if starting with focus on... or the or the ending words of the confirmation if the confirmation has been changed from the initial, as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
 
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
