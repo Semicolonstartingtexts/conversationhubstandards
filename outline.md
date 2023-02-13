@@ -76,7 +76,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…, Require… o
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Alias… as…, Clear … preferences for…, Clear … consent for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
