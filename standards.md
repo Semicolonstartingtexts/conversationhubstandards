@@ -73,7 +73,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -95,7 +95,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…, Request… o
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Alias… as…, Clear … preferences for…, Clear … consent for…
+Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
@@ -213,6 +213,8 @@ Confirmation, a word that when added to the end of a phrase by a user performs a
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
+Abandon, a word that abandons the system command if in a system command, the initial abandon is nevermind
+
 Shelving, shelved system speech in libraries doesn’t have effects applied in interactions between the user and other users or the user or other role’s self while shelved and the user is on a mapping until stacked again on the user which takes the system speech off the shelf by stacking the system speech on the user if a user or other role’s self chooses to do so, and a shelved user skips interacting with the server beyond the hangup reserved system command or deshelving by a user self
 
 Stacking, storing system speech with a representation of the intention of the user’s self for the system speech, so in a mapping, the system speech, individually and respectively, may be interacting with the user for and by the user and by other users interacting with the user while in the mapping if the mapping’s provisions and consent status from and system speech provisions relevant for the interacting users permit, system speech can be stacked through the system commands which do so, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, if on an object, the stacked system speech isn’t allowed to be manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer disapproved of user interactions, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious, users unstack on stacked system speech when the users die or are rendered unconscious
@@ -287,6 +289,8 @@ Set … initiation to/as… if starting a system command, stacks the user on a u
 
 Set … confirmation to/as… if starting a system command stacks the user on a unique preference for a custom confirmation, unstacking previously stacked confirmation preferences for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
 
+Set … abandon to/as… if starting a system command stacks the user on a unique preference for a custom abandon, unstacking previously stacked abandon preferences for a word or phrase to be used as the user specified’s abandon for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
+
 Alias… as… if starting a system command sets a preference for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
 Clear … preferences for… if starting a system command clears the preference(s) set by an Alias… as… or a set … confirmation… system command or another preference which isn’t a consent preference, unstacking if stacked, depending on what is described in the phrase by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious for the specified user if the user is allowed to
@@ -295,7 +299,7 @@ Clear … consent for…/remove … consent for… clears the consent related pr
 
 Declaring System Commands
 
-Focus on... when starting a phrase which doesn’t contain nevermind, or a phrase containing both an initiation and confirmation, if set, perform the phrase, minus the starting word of focus on... if starting with focus on... or the or the ending words of the confirmation if the confirmation has been changed from the initial, as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
+Focus on... when starting a phrase which doesn’t contain the abandon, or a phrase containing both an initiation and confirmation, if set, perform the phrase, minus the starting word of focus on... if starting with focus on... or the or the ending words of the confirmation if the confirmation has been changed from the initial, as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
 
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
