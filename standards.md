@@ -229,7 +229,7 @@ Resource, any device in the network which has been appropriated which adds to th
 
 Clustering, forming local cells of a server, relaypoints and resources to enhance the capability of the network.  Relaypoints offer direct routes of network connection, and waypoints send their network activity through the nearest relaypoint, the waypoints authenticate each session through their endpoint and maintain authentication throughout their session for their network activity.  Route attaching happens when you declare a relaypoint which has network connectivity access and cloud attaching is the act of appropriating any additional resources for the cluster, declaring relaypoints allows for more routes to the endpoint and more places to stack servers and nodes but doesn’t add a route for sending network activity directly.  Increasing the number of resources: memory, storage, or network connectivity, computational ability, modes of interfacing and power, allows for an increase of potency to capability locally and overall, additionally, the number of users adds to the resource pool.  Ensuring a lot of local resources makes for higher and enhanced capability and capacity available in the area.
 
-Extending, extend the server through devices of new ability allowing for new modes of interactivity with and added functionality of the server
+Extending, extend the server through devices or software allowing for new functionality of the server and added modes of interactivity
 
 System Mappings
 
@@ -379,9 +379,9 @@ Attach... When given starting a system command, attaches a resource if the resou
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s owning or managing entity, and tells you how much less effectively a previous server interaction could be done now
 
-Utilize/extend to… when given starting a system command, extends the server to a new node of interactivity which the user is authorized to do so with by the node of interactivity’s owning or managing entity and expands functionality of the server
+Utilize/extend to… when given starting a system command, extends the server to a device or software which the user is authorized to do so with by the device’s or software’s owning or managing entity and expands functionality of the server
 
-Stop/cease extending/utilization to/of… when given starting a system command, ceases the servers extending to a node of interactivity which the user is authorized to do so with by the node of interactivity’s owning or managing entity the server has extended to
+Stop/cease extending/utilization to/of… when given starting a system command, ceases the servers extending to a device or software which the user is authorized to do so with by the device’s or software’s owning or managing entity the server has extended to
 
 Generate system commands for/which/to/that/using/utilizing… for/which/that/to/with/using/utilizing… when given starting a system command, generates system commands as preferences stacked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
 
