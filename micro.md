@@ -32,3 +32,6 @@ Legal Usage:
 
 Approved Use And Referencing Of:
 … the referencing endpoint or waypoint may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule
+
+Attaching:
+Attach... starting a phrase ending with “Confirm”, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, and the user is authorized to do so by the resource’s owning or managing entity
