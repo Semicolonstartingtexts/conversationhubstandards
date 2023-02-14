@@ -12,6 +12,12 @@ Clear The Rules:
 Clear The Context:
 … Lose the rules seeded which aren’t structural or are extraneous when I think “Clear the context, confirm”, confirmed as rule
 
+Clear The Structure:
+… Lose the rules seeded which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com or a fork thereof when I think “Clear the structure, confirm”, confirmed as a rule
+
+Clear To The Base Structure:
+… Lose the rules seeded which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of involved when I think “Clear to the base structure, confirm”, confirmed as a rule
+
 Lose A Rule:
 … Lose the referenced seeded rule or rules when I think “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
 
