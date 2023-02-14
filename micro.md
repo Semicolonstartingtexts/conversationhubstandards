@@ -6,8 +6,11 @@ Confirmed Rules:
 Confirmed Commands:
 … An ability my nanotech has seeded a rule for when I think a phrase referencing the ability and end the phrase in confirm, confirmed as a rule
 
-Clean The Rules:
-… Lose the rules seeded when I think “Clean the rules, confirm”, confirmed as rule
+Clear The Rules:
+… Lose the rules seeded when I think “Clear all the rules, confirm”, confirmed as rule
+
+Clear The Context:
+… Lose the rules seeded which aren’t structural or are extraneous when I think “Clear the context, confirm”, confirmed as rule
 
 Lose A Rule:
 … Lose the referenced seeded rule or rules when I think “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
