@@ -41,3 +41,6 @@ Legal Usage:
 
 Approved Use And Referencing Of:
 … the referencing endpoint or waypoint or effects of the endpoint or waypoint or server may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule, confirmed as a rule
+
+Prep The Server For Use And Removal Of The Repository:
+… when I think or say “prep the server for use and removal of the conversationserverstandards repository, confirm”, the referenced server adjusts the server as necessary for use and removal of the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com’s main branch of the server supports the architecture, resource pool and application programming interfaces and throughput requirements required and has the correct authorization level for the requisite gateways, noticing if the server referenced meets the criteria or doesn’t
