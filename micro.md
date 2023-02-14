@@ -16,7 +16,7 @@ Clear The Structure:
 … Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com or a fork thereof and and are structure forming when I think or say “Clear the structure, confirm”, confirmed as a rule
 
 Clear To The Base Structure:
-… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
+… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of the repository involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
 
 Lose A Rule:
 … Lose the referenced seeded rule or rules or definition or definitions when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
