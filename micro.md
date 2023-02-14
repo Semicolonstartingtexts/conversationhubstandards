@@ -31,7 +31,12 @@ Legal Usage:
 … upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed when attempts are initiated with the nanotech’s use and the rule in question isn’t seeded or the performing the illegal use attempt initiated isn’t acted on by the nanotech and connected resources, myself noticing the act would be illegal and the action isn’t undertaken, confirmed as a rule
 
 Approved Use And Referencing Of:
-… the referencing endpoint or waypoint may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule
+… the referencing endpoint or waypoint may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule, confirmed as a rule
+
+
 
 Attaching:
-Attach... starting a phrase ending with “Confirm”, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, and the user is authorized to do so by the resource’s owning or managing entity
+Attach... starting a phrase ending with “Confirm”, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, to the cluster and the user is authorized to do so by the resource’s owning or managing entity 
+
+Unattaching:
+Unattach... starting a phrase ending with “Confirm”, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s owning or managing entity
