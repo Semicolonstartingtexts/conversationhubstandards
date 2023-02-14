@@ -4,16 +4,25 @@ Confirmed Rules:
 … Only seed rules from phrases I think containing confirmed as a rule at the end of the phrase, confirmed as a rule
 
 Confirmed Commands:
-… An ability my nanotech has seeded a rule for when I think a phrase referencing the ability and end the phrase in confirm, confirmed as a rule
+… An ability the endpoint or waypoint or server in the inheritance chain has seeded a rule for when I think a phrase referencing the ability and end the phrase in confirm, confirmed as a rule
 
-Clean The Rules:
-… Lose the rules seeded when I think “Clean the rules, confirm”, confirmed as rule
+Clear The Rules:
+… Lose the rules seeded when I think or say “Clear all the rules, confirm”, confirmed as rule
+
+Clear The Context:
+… Lose the rules seeded which aren’t structure forming or are extraneous when I think or say “Clear the context, confirm”, confirmed as rule
+
+Clear The Structure:
+… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com or a fork thereof and and are structure forming when I think or say “Clear the structure, confirm”, confirmed as a rule
+
+Clear To The Base Structure:
+… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
 
 Lose A Rule:
-… Lose the referenced seeded rule or rules when I think “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
+… Lose the referenced seeded rule or rules when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
 
 Info Gesture: 
-… When I touch my thumb tip to the tip of my pinky and ask a question I receive information from the endpoint and/or waypoint using the endpoint and/or waypoint and the connected resources to the endpoint and/or waypoint’s predictive information about the query by noticing the response, confirmed as a rule
+… When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, confirmed as a rule
 
 Heal Command:
 … When I say or think Heal… followed by a description of a healing target, in a phrase ended with confirm, heals the healing target comfortably and painlessly over at least a single second’s timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have only the intended results, and adheres to the best and safest for longevity of the allowed timeframe by the regulating agency or agencies and managing entity or entities for the current and future use of the elements and mediums involved, and avoids healing wisdom teeth and already healed wounds unless specified as criteria, has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with when I say or think heal… and a name or description of a healing target, and finish leaving before the healing finishes, painlessly and comfortably, and maintains a healthy separation between the body from fabrics or clothing and maintains healing which won’t have skin healing to skin in an unnatural manner, and I notice if the healing wasn’t initiated and why or was successful, confirmed as a rule
@@ -31,4 +40,4 @@ Legal Usage:
 … upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed when attempts are initiated with the nanotech’s use and the rule in question isn’t seeded or the performing the illegal use attempt initiated isn’t acted on by the nanotech and connected resources, myself noticing the act would be illegal and the action isn’t undertaken, confirmed as a rule
 
 Approved Use And Referencing Of:
-… the referencing endpoint or waypoint may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule, confirmed as a rule
+… the referencing endpoint or waypoint or effects of the endpoint or waypoint or server may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule, confirmed as a rule
