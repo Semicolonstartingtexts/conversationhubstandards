@@ -401,6 +401,18 @@ Point the waypoint/endpoint/node to the … server, if starting a system command
 
 Lose the … server/relay/node/waypoint, if starting a system command, unstacks the definition of the server or relay or node or waypoint named, and points the pointing or inheriting definitions to the server pointed to by the waypoint or endpoint the server is stacked on or the first still stacked server if the pointed to server is being lost, or to the closest endpoint’s or closest waypoint in the inheritance chain’s if there aren’t anymore servers stacked on the waypoint, if the user is initiating an attempt to unstack the definition of the last server on an endpoint, the initiated attempt isn’t allowed, and letting the user instead notice a prompt to give a name for a new server to both unstack the last server and perform the add a server called… reserved system command with the new server’s name or abandon the effort to lose the server
 
+Allow access to/on/for… for… adjusts the definition of the endpoint, waypoint, server or relay or node referenced to allow specific criteria of users in a way which isn’t inherited if given starting a system command
+
+Restrict access to/on/for… for… adjusts the definition of the endpoint, waypoint, server or relay or node referenced to restrict specific criteria of users in a way which isn’t inherited if given starting a system command
+
+Set the top-level inherited provisions for… to be… if starting a system command sets the top-level provisions which are inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which is inherited if starting a system command
+
+Set the top-level private provisions for… to be… if starting a system command sets the top-level provisions which aren’t inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which isn’t inherited
+
+Adjust the top-level inherited provisions to/so… if starting a system command adjust the top-level provisions which are inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which is inherited and meets the criteria specified
+
+Adjust the top-level private provisions to/so… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which isn’t inherited and meets the criteria specified
+
 Transportation System Commands
 
 … Going/Goin’ To… Where... followed by  a description of a zone, takes whoever gives the phrase as a system command and those described in the phrase to a zone on the server which isn’t named with matching rules and stacked on the zone preferences for users which come to the zone when the user comes to the zone requisite, and if a matching zone doesn’t exist on the server, prompting the user by letting the user notice a request to either create a new zone with appropriate rules or abandon the effort and acting on the response, if the phrase is given as a system command
