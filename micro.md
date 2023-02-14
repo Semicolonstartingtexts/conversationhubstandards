@@ -19,7 +19,10 @@ Clear To The Base Structure:
 … Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
 
 Lose A Rule:
-… Lose the referenced seeded rule or rules when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
+… Lose the referenced seeded rule or rules or definition or definitions when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
+
+Lose A Definition:
+… Lose the referenced definition or definitions when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions and end the phrase with “confirm,” confirmed as a rule
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, confirmed as a rule
@@ -41,3 +44,6 @@ Legal Usage:
 
 Approved Use And Referencing Of:
 … the referencing endpoint or waypoint or effects of the endpoint or waypoint or server may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced rules found in the micro.md file for the Approved Use And Referencing Of titled rule, confirmed as a rule
+
+Prep The Server For Use And Removal Of The Repository:
+… when I think or say “prep the server for use and removal of the conversationserverstandards repository, confirm”, the referenced server adjusts the server as necessary for use and removal of the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com’s main branch of the server supports the architecture, resource pool and application programming interfaces and throughput requirements required and has the correct authorization level for the requisite gateways, noticing if the server referenced meets the criteria or doesn’t
