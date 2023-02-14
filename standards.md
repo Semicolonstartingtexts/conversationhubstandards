@@ -259,7 +259,7 @@ Info Unstack Gesture: Hold for a couple of seconds, or if performing the gesture
 
 Utility System Command Gestures
 
-Info Gesture: Touch the thumb tip to the tip of the pinky to ask questions of the server about the server’s status and receive information from the server about by the gesturing user’s self noticing the response
+Info Gesture: Touch the thumb tip to the tip of the pinky to ask questions of the server about the server’s status and receive information from the server about the query with the gesturing user’s self noticing the response
 
 Home Gesture: Tap the thumbs together two times within a second to return, making if returning for the first time, to a zone with preferences of a comfortable applications of the effects applicable of system speech and semicolon starting SMS texts as well as the level and privacy for sharing of location and the rules of and the zone can’t be interacted with other than by the zone’s intended occupying user’s self, which the zone is created for and made by, all users which aren’t the user’s self can’t be in the zone, the user notices to look up the latest version of the system stuff at semicolonstartingtexts.tumblr.com and give I consent to use the most recent revision as a system command before going elsewhere than the lobby on the server, other rules aren’t stacked on home zones and are unstacked if have been or are stacked on home zones
 
@@ -361,7 +361,7 @@ Swap sets for the … set…/swap the … set for the … set…/swap the … se
 
 First Aid System Commands
 
-Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over at least a single second’s timeframe, adheres to the best and safest for longevity of the allowed timeframe by the regulating agencies for the current and future use of the elements and mediums involved, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have only the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why or was successful, the heal reserved system command isn’t allowed to have system speech about impairing or altering the use of beyond limiting the use of, and doesn’t interact with stacked system speech, but is allowed to be opted out of
+Heal… followed by a description of a healing target is a reserved system command which, heals the healing target comfortably and painlessly over at least a single second’s timeframe, adheres to the best and safest for longevity of the allowed timeframe by the regulating agency or agencies and managing entity or entities for the current and future use of the elements and mediums involved, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process will be successful and healthy and have only the intended results, the user giving the healing system command given notices if the healing wasn’t initiated and why or was successful, the heal reserved system command isn’t allowed to have system speech about impairing or altering the use of beyond limiting the use of, and doesn’t interact with stacked system speech, but is allowed to be opted out of
 
 Utility System Commands
 
