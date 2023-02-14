@@ -4,25 +4,25 @@ Confirmed Rules:
 … Only seed rules from phrases I think containing confirmed as a rule at the end of the phrase, confirmed as a rule
 
 Confirmed Commands:
-… An ability the endpoint or waypoint or server in the inheritance chain has seeded a rule for when I think a phrase referencing the ability and end the phrase in confirm, confirmed as a rule
+… An ability the endpoint or waypoint or server in the inheritance chain has seeded a rule for when I think or say a phrase referencing the ability and end the phrase in confirm, confirmed as a rule
 
 Clear The Rules:
-… Lose the rules seeded when I think or say “Clear all the rules, confirm”, confirmed as rule
+… Lose the rules seeded by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Clear all the rules, confirm”, confirmed as rule
 
 Clear The Context:
-… Lose the rules seeded which aren’t structure forming or are extraneous when I think or say “Clear the context, confirm”, confirmed as rule
+… Lose the rules seeded by the nearest endpoint or waypoint or server in the inheritance chain which aren’t structure forming or are extraneous when I think or say “Clear the context, confirm”, confirmed as rule
 
 Clear The Structure:
-… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com or a fork thereof and and are structure forming when I think or say “Clear the structure, confirm”, confirmed as a rule
+… Lose the rules seeded and definitions defined by the nearest endpoint or waypoint or server in the inheritance chain which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com or a fork thereof and and are structure forming when I think or say “Clear the structure, confirm”, confirmed as a rule
 
 Clear To The Base Structure:
-… Lose the rules seeded and definitions defined which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of the repository involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
+… Lose the rules seeded and definitions defined by the nearest endpoint or waypoint or server in the inheritance chain which don’t involve the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com without a forking of the repository involved when I think or say “Clear to the base structure, confirm”, confirmed as a rule
 
 Lose A Rule:
-… Lose the referenced seeded rule or rules or definition or definitions when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
+… Lose the referenced seeded rule or rules or definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
 
 Lose A Definition:
-… Lose the referenced definition or definitions when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions and end the phrase with “confirm,” confirmed as a rule
+… Lose the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions and end the phrase with “confirm,” confirmed as a rule
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, confirmed as a rule
