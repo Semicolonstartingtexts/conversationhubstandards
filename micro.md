@@ -21,6 +21,9 @@ Clear To The Base Structure:
 Lose A Rule:
 … Lose the referenced seeded rule or rules or definition or definitions when I think or say “Lose”, “rule” or “rules” and a reference to a rule or some rules and end the phrase with “confirm,” confirmed as a rule
 
+Lose A Definition:
+… Lose the referenced definition or definitions when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions and end the phrase with “confirm,” confirmed as a rule
+
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, confirmed as a rule
 
