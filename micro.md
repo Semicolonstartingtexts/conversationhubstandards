@@ -1,3 +1,7 @@
+Endpoint, hardware which is or can connected to and is or can be connected to by the endpoint, with and without the current and previous endpoints or waypoints use
+
+Waypoint, an object imbued with the functionality of an endpoint, the imbuing is tracked by the endpoint the waypoint was imbued on, keeping the owner and roles of the endpoint of where the object was imbued, and must adhere to the definition of the endpoint’s allowances and restrictions, but assigning an owner of the waypoint to the user which does the imbuing, waypoints are otherwise independent of the endpoint, a maximum of two servers can be stacked on a waypoint
+
 Relaypoint, any attached resource which has a direct route by way of network connectivity to the referencing endpoint or waypoint and associated backend
 
 Resource, any device in the cluster which has been attached to which adds to the local and overall pool of memory, storage, network connectivity, computational ability, modes of interactivity, modes of interfacing or power
