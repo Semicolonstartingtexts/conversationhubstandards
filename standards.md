@@ -153,7 +153,7 @@ Intentions, the conversation that has been had or being had by a user with a rep
 
 Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
 
-Imbuing, stacking on, or tracking conversation or a signifier or multiple signifiers with the representation of an intention or intentions involving an object
+Imbuing, stacking on, or tracking conversation or a signifier or multiple signifiers with the representation of an intention or intentions involving an object, imbued objects are limited to inheriting only from the endpoint or waypoint they were imbued on through the imbuing unless the imbuing is removed, though the same object may be imbued by different endpoints or waypoints simultaneously
 
 Provisions, the conversation which governs the interactions between the connected users of the server and the server, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator of the server
 
