@@ -25,15 +25,15 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-To use on an endpoint, be on a conversation server connected to an endpoint, or own or be a systems administrator of an endpoint and think stack the endpoint I own or am a systems administrator of is the Conversation Server Standards and the endpoints or relays which can join with the endpoint are/aren’t … and the what is considered the server by the endpoint I’m using is … and the top-level provisions are … (and if there are any, the specific allowances and restrictions for relaypoints of the endpoint are …) as the definition of the endpoint on the endpoint
+Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch
 
-To use an object as a node, be on a conversation server or interacting with an endpoint or waypoint connected to an endpoint or waypoint and think stack the object I want to be a node is a node for (the specific endpoint to be a node of) and is the Conversation Server Standards what is considered the server by the node and the stacked by waypoint or endpoint and the endpoints or nodes which can join with the endpoint are/aren’t …  and the users which can connect are/aren’t as the definition of the node for (the specific endpoint) on the node
+Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
-To use an object as a waypoint, be on a conversation server connected to an endpoint or waypoint and have a role of administrator or be an owner of the endpoint or relaypoint and think stack the object I want to be a waypoint is a waypoint for (the specific endpoint to be a waypoint of) and is the Conversation Server Standards and the endpoints or nodes which can join with the endpoint are/aren’t … and the what is considered the server by the waypoint I’m using is what is considered the server of (the specific endpoint to be a waypoint of) and the top-level provisions are … (and if there are any, the specific allowances and restrictions for waypoint of the endpoint are …) as the definition of the node for (the specific endpoint) on the waypoint, waypoints should be devices with direct network access as to avoid increasing latency for network activity called relaypoint to allow for the highest server capability for stacked servers
+Then think or say setup my endpoint, confirm or setup my waypoint, confirm
 
-To create a server, be on a conversation server or interacting with endpoint or effects of the endpoint or relaypoint connected to the endpoint or relaypoint and be an owner of the endpoint or relaypoint or hold an administrator role on the endpoint or relaypoint and think stack the endpoint or, also as an option, the effects of the endpoint, the endpoint will be inferred from the effects of the endpoint, or relaypoint I’m interacting with is the Conversation Server Standards in interactions with the server on the endpoint or relaypoint I’m interacting with which is called … and the users which can connect are/aren’t … (and if there are any, the specific allowances and restrictions for relays of the server are …) as the definition of the server on the endpoint or relaypoint, attach as many resources as are available for the most capability locally available to the server
+To stack servers use the add a server system command, and use allow and restrict access to limit user access and set and adjust top-level inherited or private provisions to set what trickles down the inheritance chain and how users will interact with your endpoint and inheriting waypoints
 
-To use an object as a relay for a server, be on a conversation server connected to an endpoint or relaypoint or own the connected endpoint or relaypoint or be a systems administrator of the connected endpoint or relaypoint or hold an administrator role on the conversation server and think stack the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and is the Conversation Server Standards and the users which can connect are/aren’t … (and if any, allowances or restrictions of relays  of the server are …) as the definition of the relay for (the specific server) on the relay
+To create a waypoint inheriting from the endpoint your server is on, people can ask to have their phone or device setup as a waypoint while on the server, pending approval from the endpoint
 
 Attaching to resources gives increased capacity, level of capability and modes of interfacing to your local cluster
 
@@ -42,6 +42,8 @@ Extending to devices adds functionality to the server
 Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrinks the shared lobby of the joined nodes
 
 The servers and the relays and shared lobbies of joined nodes, called rooms, have a limit of 10 users per server, 20 per node, and 40 per room
+
+Suspending the Standards switches a waypoint or endpoint to micro, a lightweight framework for setup and debugging
 
 # Community Provisions
 
