@@ -25,7 +25,7 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch
+Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with a waypoint or endpoint or an imbuing enters micro
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
