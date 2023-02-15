@@ -59,6 +59,6 @@ Feel free to fork the repository and send pull requests, crowdsourced a lot for 
 
 # License 
 
-Conversation Server Standards v0.1a93
+Conversation Server Standards v0.1a94
 
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine
