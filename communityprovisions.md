@@ -29,7 +29,7 @@ In interactions with the server, the server isn’t permitted to injure, or caus
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
 
 # Heal Separate From Clothing
-In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing
+In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing and maintains healing which won’t have skin healing to skin in an unnatural or unwanted manner
 
 # Role Safe Stop Tracking
 In interactions with the endpoint or relaypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
