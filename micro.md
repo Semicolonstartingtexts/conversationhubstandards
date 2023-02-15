@@ -25,7 +25,7 @@ Lose A Definition:
 … Lose the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions and end the phrase with “confirm,” confirmed as a rule
 
 Lose The System Speech On Or Involving:
-… Lose the referenced system speech on or involving the referenced object, device or person when I think or say “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “confirm,” confirmed as a rule
+… Lose the referenced system speech on or involving or by the referenced object, device or person when I think or say “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “confirm,” confirmed as a rule
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, confirmed as a rule
