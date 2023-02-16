@@ -24,6 +24,8 @@ Owner of the Endpoint
 
 Owner of the Waypoint of the Endpoint
 
+Owner of the Server of the Endpoint or Waypoint
+
 Owner of the Relay of the Server
 
 Administrator
@@ -46,7 +48,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Imbuing, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
