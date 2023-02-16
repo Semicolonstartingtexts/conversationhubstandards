@@ -51,8 +51,6 @@ Administrator
 
 Moderator
 
-Doorkeep
-
 User
 
 System Definition Hierachy
@@ -75,7 +73,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -186,8 +184,6 @@ Owner, the owner of the waypoint, relay, node or the endpoint, without an admini
 Administrator, initially the owner of the endpoint, administrators may pass on the administrator role and may designate moderators and other roles if the role is described by a stacked provision, but only an owner of the endpoint may designate a new amount of administrators or undesignate administrators, is the only role which may stack, change and unstack, or approve the act of stacking, changing or unstacking, the definition of what the administrator holds an administrator role on, and may stack or approve the stacking of the definition of the equal level in the definition hierarchy downwards on the hierarchy for themselves or others, and may do so with server provisions if the administrator is an administrator on a server, connected to the server administrators receive the general incoming connection requests also
 
 Moderator, initially the administrator of the server, moderators may pass on the moderator role, but only an administrator of the server or an owner of the endpoint may designate a new amount of moderators and undesignate moderators, moderators can be stacked on rules and can’t be unstacked, or stacked on rules by users or other roles other than administrators and moderators, additionally, moderators receive the general incoming connection requests when connected to the server also
-
-Doorkeep, receive general incoming connection requests when aren’t connected also, may be designated or undesignated by the owner of the endpoint or administrators or moderators of the server
 
 Endpoint, hardware which is part of the network and has the ability to connect to the server or be connected to by the server or is readily able to provision a server with or without the application of effects applied from or by the endpoints and waypoints and relays and servers and imbuings and the effects thereof or to the endpoints and waypoints and relays and servers and imbuings and the effects thereof, roles of the endpoint are permitted to change the definition and provisions of the endpoint, and are designated the same role on the servers of the endpoint, what would’ve been an endpoint through which system speech but wouldn’t be without system speech isn’t an endpoint, an endpoint isn’t allowed to be referred to by other than the owners or administrators of the endpoint, if the reference will have an interaction or multiple interactions from or with or by or involving the endpoint, inherited references created through the Setup... Phone/Device As A Waypoint/Node? reserved system command are allowed but aren’t to be edited or adjusted, only unstacked, by users which aren’t the owners or administrators of the endpoint and only unstacked by an owner or administrator of the node, relay, server or waypoint
 
@@ -459,7 +455,7 @@ A user notices when has requested to speech to them by noticing the requesting u
 
 Incoming Connection Requests
 
-Moderators and administrators and a doorkeep receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to a random doorkeep if a doorkeep has been designated or more than one doorkeep has been designated, then to a connected server moderator or connected server administrator if the doorkeep role hasn’t been designated, or the owner of the endpoint, or owner of the waypoint or owner of the relay or owner of the node or connected to the server administrator or connected to the server moderator if the target for the incoming connection request is a waypoint or node or relay or server, also an option is thinking of a specific connected to the server administrator or connected to the server moderator, or owner or doorkeep whether connected or not, and intending to connect to the server to send a connection request to a specific moderator or administrator, if a request is denied or declined, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given, incoming connection requests go to the most contextually, socially, or professionally relevant server, with the word server used to reference a set of zones, depending on the intention of the requesting user at the time with a matching description and permitting definition
+Owners of the endpoint, waypoint, relay, or node receive connection requests from people which match the server definition’s criteria and are intending to connect to the server, the request will go to the owners of the endpoint, or owners of the waypoint or owners of the relay or owners of the node, and a specific owner of the endpoint or waypoint or relay or node can be requested of out of the owners by referencing the specific owner in the request, if a request is denied or declined, the incoming requester notices they may send a message to the person which received the request until the phrase send now or say nevermind and whichever message the incoming requester responds until the words send now with will be sent to the receiver of the connection request as the send a message reserved system command would or doesn’t if nevermind is the response given, incoming connection requests go to the most contextually, socially, or professionally relevant server, with the word server used to reference a set of zones, depending on the intention of the requesting user at the time with a matching description and permitting definition
 
 Semicolon Starting SMS Texts
 
