@@ -32,8 +32,6 @@ Administrator
 
 Moderator
 
-Doorkeep
-
 User
 
 Definition Hierachy
@@ -43,8 +41,6 @@ Endpoint
 Relaypoint
 
 Server
-
-Extension
 
 Relay
 
@@ -60,7 +56,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Administrator, Moderator, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
