@@ -24,6 +24,8 @@ Owner of the Endpoint
 
 Owner of the Waypoint of the Endpoint
 
+Owner of the Server of the Endpoint or Waypoint
+
 Owner of the Relay of the Server
 
 Administrator
@@ -46,7 +48,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Imbuing, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -76,11 +78,11 @@ Designate… as…, Give my role of… to…, Undesignate… as…, Require… o
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
+ et a preference…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
 
 Declaring System Commands
 
-Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Untrack…, Make a rule..., Remove the rule/rules...
 
 Communication System Commands
 
