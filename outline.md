@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
