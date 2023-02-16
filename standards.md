@@ -435,7 +435,7 @@ Unjoin from… with a name or description of a node unjoins from another node
 
 Initial Consent System Commands
 
-I consent to the most recent revision… is the exact phrase that must be said to stop being limited to lobbies and is considered to be consent given for the use of the server provisions’ latest revision in entirety, specifically the provisions of the server changed since prior consent was given for a version of the server provisions if prior consent has been given relevant to the server’s server provisions and is always given as a system command, even without giving a system command
+...consent/consents to the most recent revision… is the exact phrase that must be said to stop being limited to lobbies and is considered to be consent given for the use of the server provisions’ latest revision in entirety, specifically the provisions of the server changed since prior consent was given for a version of the server provisions if prior consent has been given relevant to the server’s server provisions and is always given as a system command, even without giving a system command and may be only given by a user's self for the user's self or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious 
 
 Consent System Commands
 
