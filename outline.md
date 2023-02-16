@@ -32,8 +32,6 @@ Administrator
 
 Moderator
 
-Doorkeep
-
 User
 
 System Definition Hierachy
