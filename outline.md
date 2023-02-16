@@ -6,9 +6,9 @@ Provisions
 
 System Commands
 
-Preferences
+Preferencings
 
-Rules
+Ways
 
 Confirmed Phrase and Confirmed Phrases
 
@@ -46,7 +46,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Imbuing, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Imbuing, Provisions, Preferencings, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -76,11 +76,11 @@ Designate… as…, Give my role of… to…, Undesignate… as…, Require… o
 
 Interfacing System Commands
 
- et a preference…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
+Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent…
 
 Declaring System Commands
 
-Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Untrack…, Make a rule..., Remove the rule/rules...
+Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Untrack…, Make a way..., Lose the way/ways...
 
 Communication System Commands
 
@@ -126,4 +126,4 @@ Connection Requests
 
 Semicolon Starting SMS Texts
 
-Set my app preference for semicolon starting SMS texts to…
+Set my app preferencing for semicolon starting SMS texts to…
