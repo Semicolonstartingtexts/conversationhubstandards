@@ -72,7 +72,7 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…, Request… of…
+Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
@@ -80,11 +80,11 @@ Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, 
 
 Lobby-Bound System Commands
 
-Focus on…
+Focus on…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on..., Untrack…, Make a way..., Lose the way/ways...,
+Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
