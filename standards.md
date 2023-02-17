@@ -91,15 +91,23 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…, Request… of…
+Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
 Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
 
+Lobby-Bound System Commands
+
+Focus on…, Request… of…
+
+Zone-Bound System Commands
+
+Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
+
 Declaring System Commands
 
-Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Unstack…, Make a way..., Lose the way/ways..., 
+Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
 
 Communication System Commands
 
@@ -171,7 +179,7 @@ System Command Speech
 
 Declarations, system speech given with a system command, system speech which is focused on, may only be a reserved system command or declared in a provision or preferencing, may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
 
-Interactions, applicable with an apply system command only may be a reserved system command given with a system command, may be a system command gesture performed verbally given in a system command, or otherwise performed and may be declared in a provision or preferencing, noticing is always done in the most natural and preferred language of the user for the system and the user notices the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the provision or way or preferencing if such wording is in the provisions or ways or preferencings of a user, or the server, or the mapping the interaction is interacting with, when there aren’t enough available resources within the owning, managing, governing and regulating entity limitations, interactions aren’t undertaken for the interaction attempt initiated, interactions ensure application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization in their application before initiating an attempt
+Interactions, applicable with an apply system command only may be a reserved system command given with a system command, may be a system command gesture performed verbally given in a system command, or otherwise performed and may be declared in a provision or preferencing, noticing is always done in the most natural and preferred language of the user for the system and the user notices the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the provision or way or preferencing if such wording is in the provisions or ways or preferencings of a user, or the server, or the mapping the interaction is interacting with, when there aren’t enough available resources within the owning, managing, governing and regulating entity limitations, interactions aren’t undertaken for the interaction attempt initiated, interactions ensure application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt
 
 System Setup
 
@@ -235,7 +243,7 @@ System Mappings
 
 Zone, a network of users that permits ways and preferencings to be stacked on the zone and may have the application of effects applied from reserved or server provisioned or zone bound or user preferencinged system commands and the stacked system speech in the interactions between users and the users or other users in the same zone, users return to the lobby if in a zone or other mapping other than the lobby of the server at the time of more recent revision of the server’s provisions than the most recent consent is for relevant to the specific provision changes to the server’s provisions, when changing the ways of a zone away from the initial ways, the server asks the user to name the zone by prompting them to notice a request to do so or abandon the way change and acts on the response 
 
-Lobby, a network in which the application of effects applied in interactions with users which are in and while on the lobby, is only the definition of the server and the server’s provisions without adding server provisions beyond the Semicolonstartingtexts/conversationserverstandards repository’s main branch’s micro.md, standards.md and communityprovisions.md files’ contents of the most recent approved version over v0.1a127, without redaction or alteration to the files’ contents, the user’s preferencings, administrative system commands and utility system commands, interfacing system commands, clustering system commands, setup system commands, transportation system commands and the initial consent system commands, connection system commands and communication system commands, setup system commands and the related gestures if a gesture related is in the provisions of the server, the users which have yet to consent to the most recent revision are limited in terms of mappings to be taken to to the lobbies and if a user is taken to the lobby by a version change of the server, the user notices they were taken to the lobby because of a server provision change, also if they connect to the server and haven’t consented to the most recent revision of the server’s provisions they notice, ways aren’t permitted to be stacked on a lobby and the on a moderator stacked ways are suspended while in the lobby, accepted incoming connection requests enter in the lobby
+Lobby, a network in which the application of effects applied in interactions with users which are in and while on the lobby, is only the definition of the server and the server’s provisions without adding server provisions beyond the Semicolonstartingtexts/conversationserverstandards repository’s main branch’s standards.md and communityprovisions.md files’ contents of the most recent approved version over v0.2, without redaction or alteration to the files’ contents, the user’s preferencings and lobby-bound and lobby available system commands and declaring system commands which don’t involve interactions or system speech which harms or heals or is about either, administrative system commands and utility system commands, sets system commands, interfacing system commands, clustering system commands, setup system commands, transportation system commands and the initial consent system commands, connection system commands and communication system commands, setup system commands and the related gestures if a gesture related is in the provisions of the server, the users which have yet to consent to the most recent revision are limited in terms of mappings to be taken to to the lobbies and if a user is taken to the lobby by a version change of the server, the user notices they were taken to the lobby because of a server provision change, also if they connect to the server and haven’t consented to the most recent revision of the server’s provisions they notice, ways aren’t permitted to be stacked on a lobby and the on a moderator stacked ways are suspended while in the lobby, accepted incoming connection requests enter in the lobby
 
 Library, the zone where unstacked, stacked system speech gets shelved in the respective library for safe keeping and keeping safe from, without application of effects applied in interactions with the system speech shelved, while shelved, until the system speech is stacked again or deshelved, and to be shelved, as a user or other role, being shelved lets the user notice the user’s been shelved and needs to deshelve or hangup and skips interacting with the other mappings of the server beyond the send a message… and reply with… reserved system commands or deshelving by a user and the user is unstacked on the user’s stacked system speech, additionally, the users in the library interacting with the user and the users don’t have application of effects applied from the user’s in the library’s stacked system speech in interactions with the user by the user and other users in the library while in the library and the user’s and users’ in the library’s semicolon starting SMS texts for the involved recipients of the semicolon starting SMS texts while in the library
 
@@ -275,8 +283,6 @@ Give my role of… to… passes on the role described by the words following my 
 
 Undesignate… as a… stops the user described after the word undesignate but before the words as a being the role named after the words as a..., the role goes back to the administrator to be designated anew, the undesignating user must have the appropriate role to do so or notices the reason why the system command given was denied
 
-Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
-
 Interfacing System Commands
 
 Set a preferencing… following with a phrase describing a preferencing to be set if starting a system command stacks the user on the preferencing
@@ -293,9 +299,25 @@ Clear … preferencings… if starting a system command clears the preferencing 
 
 Clear … consent…/remove … consent… clears the consent related preferencing or preferencings, specifically if mentioned specifically, set by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious for the specified user if the user is allowed to
 
-Declaring System Commands
+Lobby-Bound System Commands
+
+Focus on…, when starting a phrase which doesn’t end in the abandon or does end in the confirmation, or a phrase containing the initiation and ends in the confirmation, when used on a lobby, perform the phrase as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user, however, focus on…’s system commands available and confirmed phrasing is limited to only to what is an available system commands on a lobby
+
+Request… of… when given starting a system command on a lobby for any lobby available system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
+
+Zone-Bound System Commands
 
 Focus on..., when starting a phrase which doesn’t end in the abandon or does end in the confirmation, or a phrase containing the initiation and ends in the confirmation, perform the phrase as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
+
+Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
+
+Untrack… if starting a system command, stops the tracking of the described system speech
+
+Make a way.../make it a way…  following with a phrase describing a way to be stacked if starting a system command stacks the permitting current mapping the user is in on the way, or permitting role’s self if explicitly described
+
+Lose the way/ways... following with a phrase describing ways or the way to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a way or multiple ways match the description, with the user noticing the reason a way or multiple ways weren’t unstacked if there is a reason or are multiple reasons
+
+Declaring System Commands
 
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
@@ -312,12 +334,6 @@ Stack… if starting a system command stacks the phrase described as the stackin
 Unstack… if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture
 
 Unstack… and leave... if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture and leaves in place of the response the intention which follows leave stacked as the unstack and info unstack gestures would when used an even number of times on the same response or focused phrase or word
-
-Untrack… if starting a system command, stops the tracking of the described system speech
-
-Make a way.../make it a way…  following with a phrase describing a way to be stacked if starting a system command stacks the permitting current mapping the user is in on the way, or permitting role’s self if explicitly described
-
-Lose the way/ways... following with a phrase describing ways or the way to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a way or multiple ways match the description, with the user noticing the reason a way or multiple ways weren’t unstacked if there is a reason or are multiple reasons
 
 Communication System Commands
 
