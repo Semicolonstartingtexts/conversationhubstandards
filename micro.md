@@ -7,7 +7,7 @@ Confirmed Commands:
 … An ability the endpoint or waypoint or server in the inheritance chain has seeded a rule for when I think or say a phrase referencing the ability and end the phrase in confirm, confirmed as a seeded rule
 
 Proper Authorization:
-… Ensure seeded rules and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization in their application before initiating an attempt
+… Ensure seeded rules and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt
 
 Clear The Seeded Rules:
 … Lose the rules seeded by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Clear all the rules, confirm”, confirmed as rule
