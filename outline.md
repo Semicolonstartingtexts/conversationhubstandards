@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -72,15 +72,23 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…, Require… of…
+Designate… as…, Give my role of… to…, Undesignate… as…, Request… of…
 
 Interfacing System Commands
 
-Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent…
+Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
+
+Lobby-Bound System Commands
+
+Focus on…
+
+Zone-Bound System Commands
+
+Focus on..., Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Untrack…, Make a way..., Lose the way/ways...
+Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
 
 Communication System Commands
 
