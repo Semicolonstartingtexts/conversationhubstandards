@@ -107,7 +107,7 @@ Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…
 
 Communication System Commands
 
@@ -131,7 +131,7 @@ Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system c
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…
 
 Transportation System Commands
 
@@ -320,6 +320,8 @@ Lose the way/ways... following with a phrase describing ways or the way to unsta
 
 Declaring System Commands
 
+Join… the/those… phrases… if given within a system command combines the phrases referenced as described
+
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
 Prepend… to… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word prepend… to the beginning of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be prepended
@@ -430,6 +432,10 @@ Adjust the top-level inherited provisions to/so… if starting a system command 
 
 Adjust the top-level private provisions to/so… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which isn’t inherited and meets the criteria specified
 
+Suspend the… and an endpoint or waypoint or server or relay or node, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay, allowing still for use in inheriting and resuming
+
+Resume the… and an endpoint or waypoint or server or relay or node, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay
+
 Transportation System Commands
 
 … Going/Goin’ To… Where... followed by  a description of a zone, takes whoever gives the phrase as a system command and those described in the phrase to a zone on the server which isn’t named with matching ways and stacked on the zone preferencings for users which come to the zone when the user comes to the zone requisite, and if a matching zone doesn’t exist on the server, prompting the user by letting the user notice a request to either create a new zone with appropriate ways or abandon the effort and acting on the response, if the phrase is given as a system command
@@ -461,10 +467,6 @@ I consent/Opt-in/Yes/Yeah/Okay/I’m down/I’m up for/Sure/I agree/I accept if 
 Opt in to/opt back in to/I consent to/… followed by something you have revoked consent to or can consent to in regards to the application of a specific set of effects applicable, will have the server consider consent is given for the application of a specific set of effects applicable, consent can only be given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, all consent is stacked as preferencings when opting in
 
 Opt out of/I revoke consent for/I revoke prior consent to/I revoke prior consent for… followed by something you have, or can consent to regarding the server, will revoke prior consent given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, relevant consent is unstacked when opting out, then the opt out for the consent is stacked as a preferencing
-
-Suspend the standards on… and an endpoint or waypoint or server or relay or node, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay, allowing still for use in inheriting and resuming
-
-Resume the standards on… and an endpoint or waypoint or server or relay or node, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay
 
 Connection Requests
 
