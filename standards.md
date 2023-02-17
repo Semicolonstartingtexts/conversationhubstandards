@@ -99,7 +99,7 @@ Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, 
 
 Lobby-Bound System Commands
 
-Focus on…
+Focus on…, Request… of…
 
 Zone-Bound System Commands
 
@@ -283,8 +283,6 @@ Give my role of… to… passes on the role described by the words following my 
 
 Undesignate… as a… stops the user described after the word undesignate but before the words as a being the role named after the words as a..., the role goes back to the administrator to be designated anew, the undesignating user must have the appropriate role to do so or notices the reason why the system command given was denied
 
-Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
-
 Interfacing System Commands
 
 Set a preferencing… following with a phrase describing a preferencing to be set if starting a system command stacks the user on the preferencing
@@ -305,9 +303,13 @@ Lobby-Bound System Commands
 
 Focus on…, when starting a phrase which doesn’t end in the abandon or does end in the confirmation, or a phrase containing the initiation and ends in the confirmation, when used on a lobby, perform the phrase as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user, however, focus on…’s system commands available and confirmed phrasing is limited to only to what is an available system commands on a lobby
 
+Request… of… when given starting a system command on a lobby for any lobby available system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
+
 Zone-Bound System Commands
 
 Focus on..., when starting a phrase which doesn’t end in the abandon or does end in the confirmation, or a phrase containing the initiation and ends in the confirmation, perform the phrase as a system command if the phrase ends with the user’s confirmation given by the user and the phrase fits a reserved system command or a provision system command syntax, and confirms the phrase, for the user and users relevant to the application of effects applicable if those have consented still to the application of effects applicable and limited to a user or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if and while the listed user has consented still to the application of effects applicable if the phrase doesn’t fit a reserved system command or a provision system command syntax if the phrase contains the initiation and the phrase still ends with the user’s confirmation given by the user
+
+Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
 
 Untrack… if starting a system command, stops the tracking of the described system speech
 
