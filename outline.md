@@ -86,7 +86,7 @@ Make a rule..., Remove the rule/rules..., Set a preference…, Set my initiation
 
 Declaring System Commands
 
-An initiation and confirmation, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Join… the/those… phrases…, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
 
 Communication System Commands
 
