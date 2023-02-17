@@ -88,7 +88,7 @@ Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
 
 Communication System Commands
 
@@ -112,7 +112,7 @@ Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system c
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…
 
 Transportation System Commands
 
