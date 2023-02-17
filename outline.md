@@ -6,13 +6,13 @@ Provisions
 
 System Commands
 
-Preferences
+Preferencings
 
-Rules
+Ways
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentioned Phrases
+Intentions
 
 Semicolon Starting SMS Texts
 
@@ -22,45 +22,39 @@ Role Hierarchy
 
 Owner of the Endpoint
 
-Owner of the Relaypoint of the Endpoint
+Owner of the Waypoint of the Endpoint
+
+Owner of the Server of the Endpoint or Waypoint
 
 Owner of the Relay of the Server
-
-Owner of the Extension of the Server
 
 Administrator
 
 Moderator
 
-Doorkeep
-
 User
 
-Definition Hierachy
+System Definition Hierachy
 
 Endpoint
 
-Relaypoint
+Waypoint
 
 Server
 
-Extension
+Relay or Node
 
-Relay
+System Speech
 
-Node
+Intentions, Comments, Imbuing, Provisions, Preferencings, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
-System Talk
-
-Intentioned Phrases, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases
-
-System Command Talk
+System Command Speech
 
 Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Relaypoint, Relay, Extension, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -82,15 +76,27 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set my initiation to/as…, Set my confirmation to/as…, Alias… as…, Clear my preferences for…
+Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
+
+Lobby-Bound System Commands
+
+Focus on…, Request… of…
+
+Zone-Bound System Commands
+
+Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Focus and…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…
+Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
+
+Sets System Commands
+
+Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
 
 First Aid System Commands
 
@@ -98,11 +104,19 @@ Heal
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…
+
+Clustering and Extending System Commands
+
+Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system commands which… for…
+
+Setup System Commands
+
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…
 
 Transportation System Commands
 
-… Going To The…
+… Going/Goin’ To… Where..., ... Going/goin’ To..., … Going/Goin’ To… Lobby Where..., ... Going/goin’ To... Lobby...
 
 Connection System Commands
 
@@ -120,4 +134,4 @@ Connection Requests
 
 Semicolon Starting SMS Texts
 
-Set my app preference for semicolon starting SMS texts to…
+Set my app preferencing for semicolon starting SMS texts to…
