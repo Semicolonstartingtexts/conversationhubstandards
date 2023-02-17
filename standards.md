@@ -107,7 +107,7 @@ Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…
 
 Communication System Commands
 
@@ -319,6 +319,8 @@ Make a way.../make it a way…  following with a phrase describing a way to be s
 Lose the way/ways... following with a phrase describing ways or the way to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a way or multiple ways match the description, with the user noticing the reason a way or multiple ways weren’t unstacked if there is a reason or are multiple reasons
 
 Declaring System Commands
+
+Join… the/those… phrases… if given within a system command combines the phrases referenced as described
 
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
 
