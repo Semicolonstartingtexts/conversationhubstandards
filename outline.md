@@ -6,9 +6,9 @@ Provisions
 
 System Commands
 
-Preferences
+Preferencings
 
-Rules
+Ways
 
 Confirmed Phrase and Confirmed Phrases
 
@@ -24,13 +24,13 @@ Owner of the Endpoint
 
 Owner of the Waypoint of the Endpoint
 
+Owner of the Server of the Endpoint or Waypoint
+
 Owner of the Relay of the Server
 
 Administrator
 
 Moderator
-
-Doorkeep
 
 User
 
@@ -46,7 +46,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Provisions, Preferences, Rules, Confirmed Phrase and Confirmed Phrases, Sets
+Intentions, Comments, Imbuing, Provisions, Preferencings, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Doorkeep, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition, Confirmation, Initiation, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -72,15 +72,23 @@ Reserved System Commands
 
 Administrative System Commands
 
-Designate… as…, Give my role of… to…, Undesignate… as…, Require… of…
+Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Make a rule..., Remove the rule/rules..., Set a preference…, Set … initiation to/as…, Set … confirmation to…, Set ... abandon to/as..., Alias… as…, Clear … preferences for…, Clear … consent for…
+Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
+
+Lobby-Bound System Commands
+
+Focus on…, Request… of…
+
+Zone-Bound System Commands
+
+Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Focus on..., Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
 
 Communication System Commands
 
@@ -104,7 +112,7 @@ Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system c
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…
 
 Transportation System Commands
 
@@ -126,4 +134,4 @@ Connection Requests
 
 Semicolon Starting SMS Texts
 
-Set my app preference for semicolon starting SMS texts to…
+Set my app preferencing for semicolon starting SMS texts to…

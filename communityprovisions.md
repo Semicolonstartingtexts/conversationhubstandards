@@ -29,10 +29,13 @@ In interactions with the server, the server isn’t permitted to injure, or caus
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
 
 # Heal Separate From Clothing
-In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing
+In interactions with the server, the server, during and at the start of a heal reserved system command, maintains a healthy separation between the body from fabrics or clothing and maintains healing which won’t have skin healing to skin in an unnatural or unwanted manner
 
 # Role Safe Stop Tracking
-In interactions with the endpoint or relaypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
+In interactions with the endpoint or waypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
 
 # Always Subdues Safely
 In interactions with the server involving subdoing or incapacitating, the server always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount.
+
+# Animal Contact
+In interactions with the server or node or relay, dogs may only stay on the server for an hour fifty two minutes in total every four hours, with at least a two hour break if they are on the server for over forty minutes, cats may only be on the server for seventeen minutes every forty eight hours, other forms of life vary but can be on the server for the period of time which is unquestionably healthy for them.
