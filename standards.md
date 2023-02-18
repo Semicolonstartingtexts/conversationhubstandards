@@ -121,7 +121,7 @@ Build a set with/from… called/named/as…, Build an empty set called/named/as�
 
 First Aid System Commands
 
-Heal
+Heal…
 
 Utility System Commands
 
@@ -133,7 +133,7 @@ Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system c
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend the…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
@@ -434,9 +434,11 @@ Adjust the top-level inherited provisions to/so… if starting a system command 
 
 Adjust the top-level private provisions to/so… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which isn’t inherited and meets the criteria specified
 
-Suspend the… and an endpoint or waypoint or server or relay or node, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay, allowing still for use in inheriting and resuming
+Suspend the… and an endpoint or waypoint, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server, allowing still for use in inheriting and resuming
 
-Resume the… and an endpoint or waypoint or server or relay or node, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server or relay or node referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server or relay
+Resume the… and an endpoint or waypoint or server, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint
+
+Cancel the node… unstacks the definition of the node from the device or node reference which is a node, or unstacks the definition of the node from the waypoint or endpoint the node is stacked on, cancelling the device being a node if the device is a node or the stacked and now unstacked node being a node unless the reference wasn’t to a waypoint or endpoint with a node stacked pr the node stacked on the waypoint or endpoint or device which is a node
 
 Transportation System Commands
 
