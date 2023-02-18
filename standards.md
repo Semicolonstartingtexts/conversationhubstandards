@@ -220,7 +220,7 @@ To create a server, be on a conversation server or interacting with endpoint or 
 
 To use an object as a relay for a server, be on a conversation server connected to an endpoint or waypoint or own the connected endpoint or waypoint or be a systems administrator of the connected endpoint or waypoint or hold an administrator role on the conversation server and think stack the object I want to be a relay is a relay for (the specific server) on (the specific endpoint) and is the Conversation Server Standards and the users which can connect are/aren’t … (and if any, allowances or restrictions of relays  of the server are …) as the definition of the relay for (the specific server) on the relay
 
-Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, or to perform a system command by adding to the end of a phrase, the initial confirmation is “with a system command” or “as a system command”, the confirmation is lost from the phrase when performed as a system command if the confirmation has been adjusted from the default
+Confirmation, a word that when added to the end of a phrase by a user performs an initiation and confirmation system command, or to perform a system command by adding to the end of a phrase, the initial confirmation is “with a system command” or “as a system command”, or “and confirm”, the confirmation is lost from the phrase when performed as a system command if the confirmation has been adjusted from the default
 
 Initiation, a word that when added to a phrase and followed by the confirmation performs an initiation and confirmation system command, the initial initiation is the user’s or other role’s first name
 
@@ -342,7 +342,7 @@ Unstack… and leave... if starting a system command unstacks the system speech 
 
 Communication System Commands
 
-Thinking the phrases send a message to…, replay the last message…, set my messaging confirmation… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server, the default messaging confirmation is “Send, confirm”
+Thinking the phrases send a message to…, replay the last message…, set my messaging confirmation… or reply with… if the user will give the reserved system command through the server for each of the appropriate context is met and the send a message provision of the server, has been consented to in any current or previous form whether connected or disconnected from the server, the default messaging confirmation is “Send and confirm”
 
 Send a message to… and a description, name, either, of a user on or off the server which has consented before to the send a message provision, and a message to send which ends in send and a second or more of a pause lets the receiving user or other role’s self of the message’s self notice a message has been received sent by the sending user’s first name and last initial and the timestamp down to the minute of when the message was sent as soon as is safe and practical and acceptably private for the recipient by the recipient’s standards and expectations for the notification of the receipt of the message and the message sent, if the message doesn’t end in the user’s abandon, or the recipient isn’t a consented recipient and then the user notices that
 
