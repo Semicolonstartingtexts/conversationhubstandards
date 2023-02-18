@@ -25,9 +25,9 @@ Conversation Server Standards
 
 Provisions
 
-System Commands
-
 Preferencings
+
+Commands
 
 Ways
 
