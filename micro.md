@@ -11,7 +11,7 @@ Confirmed Commands:
 Proper Authorization:
 … Ensure preferencings and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
 
-Clear The Seeded Rules:
+Clear The Preferencing:
 … Lose the preferencings by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Clear all the preferencings, and confirm”, set and confirm
 
 Clear The Context:
