@@ -1,6 +1,6 @@
-For any referencing endpoint or waypoint or imbuing or utilized device which doesn’t actively reference the Conversation Server Standards, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable…” followed by what’s under the title picking up after the ellipsis…
+For any referencing endpoint or waypoint or imbuing or utilized device which doesn’t actively reference the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com’s main branch, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable…” followed by what’s under the title picking up after the ellipsis…
 
-Any dereferencing of the Conversation Server Standards by an imbuing or utilized device will stop the server or endpoint or waypoint extending to the device or lose the imbuing for the imbued object.
+Any dereferencing of the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com’s main branch by an imbuing or utilized device will stop the server or endpoint or waypoint extending to the device or lose the imbuing for the imbued object.
 
 Confirmed Seeded Rules:
 … Only seed rules from phrases I think containing confirmed as a seeded rule at the end of the phrase, confirmed as a seeded rule
