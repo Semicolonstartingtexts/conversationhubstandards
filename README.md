@@ -1,6 +1,6 @@
 Provisions for endpoints and servers for conversations through it
 
-By about 1,291 people as of Feb 4, 2023 9:19pm
+By about 1,731 people as of Feb 17, 2023 9:13am
 
 # Outline of the Conversation Server Standards
 
@@ -47,9 +47,11 @@ Suspending switches a waypoint or endpoint to micro, a lightweight framework for
 
 # Community Provisions
 
-The community branch contains community additions to the Conversation Server Standards, and in the communityprovisions.md file, these are merged in from time to time, there's helpful provisions to add to your server, to use, use an initiation and confirmation or confirmed phrase to add provisions to your server matching the file or update the relevant server provisions to the file
+The community branch contains the expected provision loadout for a server stacked by the  the Conversation Server Standards, found in the communityprovisions.md file, the communityprovisions.md provisions can’t be removed
 
-Found at https://github.com/Semicolonstartingtexts/conversationserverstandards/blob/community/communityprovisions.md
+# Uninstalling
+
+To uninstall, enter micro by suspending the endpoint or waypoint and use the clean uninstall the repository ability
 
 # Questions & Issues
 
