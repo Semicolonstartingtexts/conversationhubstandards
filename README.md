@@ -25,7 +25,7 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with a waypoint or endpoint or an imbuing enters micro
+Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with an endpoint enters micro and can be used to setup a server or use be used without a server
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
@@ -43,7 +43,7 @@ Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrink
 
 The servers and the relays and shared lobbies of joined nodes, called rooms, have a limit of 10 users per server, 20 per node, and 40 per room
 
-Suspending the Standards switches a waypoint or endpoint to micro, a lightweight framework for setup and debugging
+Suspending switches a waypoint or endpoint to micro, a lightweight framework for setup and uninstall for suspended endpoints and waypoints or for imbuings and utilized devices to use to create and use abilities and confirmed seeded rules which are treated as confirmed phrases by the server
 
 # Community Provisions
 
