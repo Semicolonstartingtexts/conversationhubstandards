@@ -288,7 +288,7 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Set a preferencing… following with a phrase describing a preferencing to be set if starting a system command stacks the user on the preferencing
+Set a preferencing… following with a phrase describing a preferencing to be set if starting a system command stacks the user on the preferencing, alternatively, the set a preferencing… system command may be a phrase ending in set and the initial confirmation which doesn’t begin with set a preferencing…
 
 Set … initiation to/as… if starting a system command, stacks the user on a unique preferencing for a custom initiation unstacking previously stacked initiation preferencings for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
 
