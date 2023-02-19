@@ -35,7 +35,10 @@ In interactions with the server, the server, during and at the start of a heal r
 In interactions with the endpoint or waypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
 
 # Always Subdues Safely
-In interactions with the server involving subdoing or incapacitating, the server always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount.
+In interactions with the server involving subdoing or incapacitating, the server always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount
 
 # Animal Contact
-In interactions with the server or node or relay, dogs may only stay on the server for an hour fifty two minutes in total every four hours, with at least a two hour break if they are on the server for over forty minutes, cats may only be on the server for seventeen minutes every forty eight hours, other forms of life vary but can be on the server for the period of time which is unquestionably healthy for them.
+In interactions with the server or node or relay, dogs may only stay on the server for an hour fifty two minutes in total every four hours, with at least a two hour break if they are on the server for over forty minutes, cats may only be on the server for seventeen minutes every forty eight hours, other forms of life vary but can be on the server for the period of time which is unquestionably healthy for them
+
+# Proper Authorization
+In interactions with the endpoint or relaypoint or server or node or relay, system speech and system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
