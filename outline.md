@@ -84,7 +84,7 @@ Focus on…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
+Focus on and apply..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
