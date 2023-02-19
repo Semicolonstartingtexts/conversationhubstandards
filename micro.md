@@ -6,7 +6,7 @@ Confirmed Preferencings:
 … Only set a preferencing for a command or otherwise from phrases I think containing set and confirm at the end of the phrase, set and confirm
 
 Confirmed Commands:
-… An ability or a command the endpoint or waypoint or server in the inheritance chain has a preferencing for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the ability or a command and end the phrase in …and confirm, set and confirm
+… Performs the referenced command command the endpoint or waypoint or server in the inheritance chain has a preferencing for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the command and end the phrase in … and confirm, set and confirm
 
 Proper Authorization:
 … Ensure preferencings and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
