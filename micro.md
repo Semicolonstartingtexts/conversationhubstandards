@@ -24,7 +24,7 @@ Clear To The Base Structure:
 … Clear the preferencings and definitions by the nearest endpoint or waypoint or server in the inheritance chain which don’t involve the Conversation Server Standards repository without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
 
 Clear A Preferencing:
-… Clear the referenced preferencings or preferencing by the nearest endpoint or waypoint or server in the inheritance chain by the user when I think or say “Clear”, “preferencing” or “preferencing” and a reference to a preferencing or some preferencings but less than all and end the phrase with “and confirm,” set and confirm
+… Clear the referenced preferencings or preferencing by the nearest endpoint or waypoint or server in the inheritance chain by the user when I think or say “Clear”, “preferencing” or “preferencings” and a reference to a preferencing or some preferencings but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear A Definition:
 … Clear the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
