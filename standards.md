@@ -101,7 +101,7 @@ Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, 
 
 Lobby-Bound System Commands
 
-Focus on…, Request… of…
+Focus on and apply…, Request… of…
 
 Zone-Bound System Commands
 
