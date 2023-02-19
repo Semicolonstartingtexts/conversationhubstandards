@@ -27,7 +27,7 @@ Provisions
 
 Preferencings
 
-Commands
+System Commands
 
 Ways
 
