@@ -1,4 +1,4 @@
-For any referencing endpoint or waypoint or imbuing or utilized device which doesn’t actively reference the Conversation Server Commands, the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com, when referencing the repository the most recent version from the main branch is what is referenced, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable…” followed by what’s under the title picking up after the ellipsis…
+For any referencing endpoint or waypoint or imbuing or utilized device which doesn’t actively reference the Conversation Server Commands, the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com, when referencing the repository the most recent version from the main branch is what is referenced, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable, irregardless and despite of all other interaction with the endpoint, waypoint or server, or relay, or node, or other system…” followed by what’s under the title picking up after the ellipsis…
 
 Any dereferencing of the Conversation Server Standards repository by an imbuing or utilized device will stop the server or endpoint or waypoint extending to the device or lose the imbuing for the imbued object, and micro.md’s file contents aren’t able to be altered or redacted or have expansion of the contained file contents or have those be unstacked or untracked by utilizing or referencing or through commands or preferencings through use of or of the repository at any time.
 
@@ -12,25 +12,25 @@ Proper Authorization:
 … Ensure preferencings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
 
 Clear The Preferencings:
-… Clear the preferencings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain by the user when I think or say “Clear all the preferencings, and confirm”, set and confirm
+… Clear the preferencings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear all the preferencings, and confirm”, set and confirm
 
 Clear The Context:
-… Clear the preferencings by the nearest endpoint or waypoint or server in the inheritance chain which aren’t structure forming or are extraneous when I think or say “Clear the context, and confirm”, set and confirm
+… Clear the preferencings by the nearest endpoint or waypoint or server in the inheritance chain on the device which aren’t structure forming or are extraneous when I think or say “Clear the context, and confirm”, set and confirm
 
 Clear The Structure:
-… Clear the preferencings and definitions by the nearest endpoint or waypoint or server in the inheritance chain which don’t involve the Conversation Server Standards repository or a fork thereof preserving the contents of the standards.md, micro.md and communityprovisions.md’s current version from the main branch, without expansion, redaction or alteration, and are structure forming when I think or say “Clear the structure, and confirm”, set and confirm
+… Clear the preferencings and definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device which don’t involve the Conversation Server Standards repository or a fork thereof preserving the contents of the standards.md, micro.md and communityprovisions.md’s current version from the main branch, without expansion, redaction or alteration, and are structure forming when I think or say “Clear the structure, and confirm”, set and confirm
 
 Clear To The Base Structure:
-… Clear the preferencings and definitions by the nearest endpoint or waypoint or server in the inheritance chain which don’t involve the Conversation Server Standards repository without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
+… Clear the preferencings and definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device which don’t involve the Conversation Server Standards repository without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
 
 Clear A Preferencing:
-… Clear the referenced preferencings or preferencing by the nearest endpoint or waypoint or server in the inheritance chain by the user when I think or say “Clear”, “preferencing” or “preferencings” and a reference to a preferencing or some preferencings but less than all and end the phrase with “and confirm,” set and confirm
+… Clear the referenced preferencings or preferencing by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear”, “preferencing” or “preferencings” and a reference to a preferencing or some preferencings but less than all and end the phrase with “and confirm,” set and confirm
 
-Clear A Definition:
-… Clear the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain when I think or say “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
+Lose The Definitions:
+… Lose the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The System Speech On Or Involving Or By:
-… Clear the referenced system speech on or involving or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Clear”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
+… Lose the referenced system speech on, referring to or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, set and confirm
