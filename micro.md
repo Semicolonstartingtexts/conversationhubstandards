@@ -26,11 +26,11 @@ Clear To The Base Structure:
 Clear A Preferencing:
 … Clear the referenced preferencings or preferencing by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear”, “preferencing” or “preferencings” and a reference to a preferencing or some preferencings but less than all and end the phrase with “and confirm,” set and confirm
 
-Clear A Definition:
-… Clear the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
+Lose The Definitions:
+… Lose the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The System Speech On Or Involving Or By:
-… Clear the referenced system speech on, referring to or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Clear”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
+… Lose the referenced system speech on, referring to or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, set and confirm
