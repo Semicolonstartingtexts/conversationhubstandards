@@ -29,6 +29,8 @@ Use an endpoint, waypoint or server to reference the endpoint or waypoint statin
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
+Micro is entered by suspending the server, endpoint or waypoint, or extending the server to a device, and can be used in tandem with the server, even suspended, to let you create abilities which become system commands and set how you want to interact with the system by using the phrase “… Set and confirm” or use the system commands you set up, with your cue and “… and confirm”, while suspended, the user still has all the provisions of the server
+
 Then think or say setup my endpoint, confirm or setup my waypoint, confirm
 
 To stack servers use the add a server system command, and use allow and restrict access to limit user access and set and adjust top-level inherited or private provisions to set what trickles down the inheritance chain and how users will interact with your endpoint and inheriting waypoints
