@@ -402,7 +402,7 @@ Attach... When given starting a system command, attaches a resource if the resou
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, and tells you how much less effectively a previous server interaction could be done now
 
-Utilize/extend to… when given starting a system command, extends the server to a device or software which the user is authorized to do so with by the device’s and software’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity and notifies the user if the extending expands functionality of the server and how with a broad overview of new functionality
+Utilize/extend to… when given starting a system command, extends the server to a device or software to do what will be intended to be done by the server by the user which the user is authorized to do so with by the device’s and software’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity and notifies the user if the extending expands functionality of the server and how with a broad overview of new functionality
 
 Stop/cease extending/utilization to/of… when given starting a system command, ceases the servers extending to a devices and software and the server’s or the endpoint’s or the waypoint’s involved’s which the user is authorized to do so with by the device’s or software’s owning or managing or governing entity the server has extended to
 
@@ -438,7 +438,7 @@ Suspend the… and an endpoint or waypoint, when starting a system command, susp
 
 Resume the… and an endpoint or waypoint or server, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint
 
-Cancel the node… unstacks the definition of the node from the device or node reference which is a node, or unstacks the definition of the node from the waypoint or endpoint the node is stacked on, cancelling the device being a node if the device is a node or the stacked and now unstacked node being a node unless the reference wasn’t to a waypoint or endpoint with a node stacked pr the node stacked on the waypoint or endpoint or device which is a node
+Cancel the node/server/relay… unstacks the definition of the node from the device or definition of the relay from software or node/relay/server referenced which is a node, or unstacks the definition of the node/server/relay from the waypoint or endpoint the node is stacked on, cancelling the device being a node if the device is a node or the software is a relay or the stacked and now unstacked node/server being a node/server unless the reference wasn’t to a waypoint or endpoint with a node/server stacked or the node/server stacked on the waypoint or endpoint or device which is a node or software is a relay
 
 Transportation System Commands
 
