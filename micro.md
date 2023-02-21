@@ -9,7 +9,7 @@ Confirmed System Commands:
 … Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferencing for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the system command and end the phrase in … and confirm, set and confirm
 
 Proper Authorization:
-… Ensure preferencings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
+… Ensure preferencings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have to have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
 
 Clear The Preferencings:
 … Clear the preferencings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear all the preferencings, and confirm”, set and confirm
