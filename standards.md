@@ -23,17 +23,17 @@ System Priorities
 
 Conversation Server Standards
 
-Provisions
+Provisions and System Stacked Definitions Of The System
 
-Preferencings
+Preferencings and Preferencing Definitions
 
 System Commands
 
-Ways
+Ways and Ways Definitions
 
-Confirmed Phrase and Confirmed Phrases
+Confirmed Phrase and Confirmed Phrases And Confirmed Definitions
 
-Intentions
+Intentions and Intention Definitions
 
 Semicolon Starting SMS Texts
 
