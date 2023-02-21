@@ -434,7 +434,7 @@ Adjust the top-level inherited provisions to/so… if starting a system command 
 
 Adjust the top-level private provisions to/so… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server in the definition of the endpoint, waypoint or server in a way which isn’t inherited and meets the criteria specified
 
-Suspend the… and an endpoint or waypoint, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server, allowing still for use in inheriting and resuming
+Suspend the… and an endpoint or waypoint, when starting a system command, suspends the definition of the user’s owned endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint or server, allowing still for use in inheriting and resuming and performs the hangup reserved system command on all the server
 
 Resume the… and an endpoint or waypoint or server, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint
 
