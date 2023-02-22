@@ -23,17 +23,17 @@ System Priorities
 
 Conversation Server Standards
 
-Provisions and System Stacked Definitions Of The System
+Provisions
 
-Preferencings and Preferencing Definitions
+Preferencings
 
 System Commands
 
-Ways and Ways Definitions
+Ways
 
-Confirmed Phrase and Confirmed Phrases And Confirmed Definitions
+Confirmed Phrase and Confirmed Phrases
 
-Intentions and Intention Definitions
+Intentions
 
 Semicolon Starting SMS Texts
 
@@ -398,7 +398,7 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering and Extending System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, and the user is authorized to do so by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, or more and the user is authorized to do so by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, and tells you how much less effectively a previous server interaction could be done now
 
@@ -438,7 +438,7 @@ Suspend the… and an endpoint or waypoint, when starting a system command, susp
 
 Resume the… and an endpoint or waypoint or server, is always given as a system command, when starting a phrase, even if is given without being given as a system command, resumes the definition of the user’s endpoint or waypoint or server referenced which they hold an owner role of and what’s stacked on the endpoint or waypoint
 
-Cancel the node/server/relay… unstacks the definition of the node from the device or definition of the relay from software or and node/relay/server referenced which is a node/relay, or unstacks the definition of the node/server/relay from the node/server/relay from the waypoint or endpoint the node is stacked on, cancelling the device being a node if the device is a node or the software is a relay or the stacked and now unstacked node/server being a node/server unless the reference which was intended to be for a node/server/relay wasn’t to something which is a waypoint or endpoint with a node/server stacked or the node/server stacked on the waypoint or endpoint or device which is a node or software is a relay
+Cancel the node/server/relay… unstacks the definition of the node from the device or definition of the relay from software or node/relay/server referenced which is a node, or unstacks the definition of the node/server/relay from the waypoint or endpoint the node is stacked on, cancelling the device being a node if the device is a node or the software is a relay or the stacked and now unstacked node/server being a node/server unless the reference wasn’t to a waypoint or endpoint with a node/server stacked or the node/server stacked on the waypoint or endpoint or device which is a node or software is a relay
 
 Transportation System Commands
 
