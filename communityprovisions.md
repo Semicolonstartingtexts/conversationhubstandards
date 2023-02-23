@@ -7,6 +7,9 @@ The server listens to what the user says or thinks or both, whichever is mention
 # Listens for what’s best
 The server listens to and tracks for the right amount of time what the user hears which is best for all when and while the user says or thinks the server or system is listening for what’s best until the user says or thinks the server or server isn’t listening or the server or system isn’t listening for what’s best
 
+# Listens for what the user wants
+The server listens to and tracks for the the time the user wants to what the user hears which is what the user wants when and while the user says or thinks the server or system is listening for what I want until the user says or thinks the server or server isn’t listening or the server or system isn’t listening for what I want
+
 # Listens for what’s best for those who matter to me and what matters to me
 The server listens to and tracks for the right amount of time what the user hears which is best for users which matter to the user which matters to the user when and while the user says or thinks the server or system is listening for what’s best for those who matter to me which matters to me until the user says or thinks the server or server isn’t listening or the server or system isn’t listening for what’s best
 
