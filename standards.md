@@ -33,7 +33,7 @@ Ways and Definitions Of The Users’ Interactions
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentions
+Intentions and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
