@@ -25,7 +25,7 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with a waypoint or endpoint or an imbuing enters micro
+Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with an endpoint enters micro and can be used to setup a server or use be used without a server
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
@@ -43,13 +43,15 @@ Joining nodes grows the shared lobby of the joined nodes, unjoining nodes shrink
 
 The servers and the relays and shared lobbies of joined nodes, called rooms, have a limit of 10 users per server, 20 per node, and 40 per room
 
-Suspending the Standards switches a waypoint or endpoint to micro, a lightweight framework for setup and debugging
+Suspending switches a waypoint or endpoint to micro, a lightweight framework for setup and uninstall for suspended endpoints and waypoints or for imbuings and utilized devices to use to create and use abilities and confirmed seeded rules which are treated as confirmed phrases by the server
 
 # Community Provisions
 
-The community branch contains community additions to the Conversation Server Standards, and in the communityprovisions.md file, these are merged in from time to time, there's helpful provisions to add to your server, to use, use an initiation and confirmation or confirmed phrase to add provisions to your server matching the file or update the relevant server provisions to the file
+The community branch contains the expected provision loadout for a server stacked by the  the Conversation Server Standards, found in the communityprovisions.md file, the communityprovisions.md provisions can’t be removed
 
-Found at https://github.com/Semicolonstartingtexts/conversationserverstandards/blob/community/communityprovisions.md
+# Uninstalling
+
+To uninstall, enter micro by suspending the endpoint or waypoint and use the clean uninstall the repository ability
 
 # Questions & Issues
 
@@ -61,6 +63,6 @@ Feel free to fork the repository and send pull requests, crowdsourced a lot for 
 
 # License 
 
-Conversation Server Standards v0.3
+Conversation Server Standards v0.4a35
 
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine
