@@ -356,19 +356,19 @@ Set … messaging confirmation to/as… if starting a system command stacks the 
 
 Sets System Commands
 
-Build a set/loadout with/from… called/named/as… with some number of intentions described between the with/from and called/named/as parts of the phrase saves the phrases as a set with a name for the user when the phrase is given starting a system command
+Build a set/loadout with/from… called/named/as… with some number of intentions described between the with/from and called/named/as parts of the phrase uniquely, in terms of the phrases and matching intentions, saves the phrases as a set with a name for the user when the phrase is given starting a system command
 
 Build an empty set/loadout called/named/as… with a name for the set following, when given starting a system command creates an empty set
 
-Save… as a set/loadout called/named/as… with some number of intentions described between the save and as a set parts of the phrase saves the phrases or if none are, all the user has stacked as a set with a name by the user when the phrase is given starting a system command
+Save… as a set/loadout called/named/as… with some number of intentions described between the save and as a set parts of the phrase uniquely, in terms of the phrases and matching intentions, saves the phrases or if none are, all the user has stacked as a set with a name by the user when the phrase is given starting a system command
 
-Add/save the phrase/phrases… to the set/loadout named/called… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
+Add/save the phrase/phrases… to the set/loadout named/called… uniquely, in terms of the phrases and matching intentions, saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
-Add/save the phrase/phrases… to the set/loadout… saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
+Add/save the phrase/phrases… to the set/loadout… uniquely, in terms of the phrases and matching intentions, saves all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, to the most recently referenced set when the phrase is given starting a system command
 
-Add/save that to the set/loadout… adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
+Add/save that to the set/loadout… uniquely, in terms of the phrases and matching intentions, adds the last heard/noticed described phrase to the most recently referenced set when given starting a system command
 
-Add/save that to the set/loadout named/called… adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
+Add/save that to the set/loadout named/called… uniquely, in terms of the phrases and matching intentions, adds the last heard/noticed described phrase to the set described after named/called when given starting a system command
 
 Remove/delete the phrase/phrases… from the set/loadout named/called… removed all the phrases described which come between the phrase/phrases part of the phrase, or if none are, the most referenced or heard/noticed phrase, from the set named/called part of the phrase to the set which is described after the named/called part of the phrase when the phrase is given starting a system command
 
@@ -378,7 +378,7 @@ Remove/delete that from the set/loadout… removes the last heard/noticed descri
 
 Remove/delete that to the set/loadout named/called… removes the last heard/noticed described phrase from the set described after named/called when given starting a system command
 
-Stack/load/put on/equip the … set/sets/loadout/loadouts… stacks the set or sets described in the phrase or the most recently referenced set if none is on the user when given starting a system command
+Stack/load/put on/equip the … set/sets/loadout/loadouts… uniquely, in terms of the phrases and matching intentions, stacks the set or sets described in the phrase or the most recently referenced set if none is on the user when given starting a system command
 
 Unstack/unload/take off/unequip the set/loadout/sets/loadouts… unstacks the user’s last stacked set or described set or sets in the phrase when given starting a system command
 
