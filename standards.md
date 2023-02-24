@@ -109,7 +109,7 @@ Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Lose the system speech…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Lose the system speech…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -345,6 +345,10 @@ Unstack… if starting a system command unstacks the system speech referred to b
 Unstack… and leave... if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture and leaves in place of the response the intention which follows leave stacked as the unstack and info unstack gestures would when used an even number of times on the same response or focused phrase or word
 
 Lose the system speech… untracks or untracks and unstacks the system speech described as described in the phrase, provided the user has proper authorization to do so, doing so for those the user does have proper authorization to do so for it otherwise, if starting a system command
+
+Clear the representation of… clears the representation of the described system speech in the phrase from users which the user is authorized to and the library shelves, if starting a system command
+
+Clear the library… clears the representations of what’s shelved in the library and the shelves in the library, for what the user is authorized to, if starting a system command, the owners or administrators of the server may clear the whole library
 
 Communication System Commands
 
