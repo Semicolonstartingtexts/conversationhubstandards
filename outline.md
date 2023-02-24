@@ -120,7 +120,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Contact… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
