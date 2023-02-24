@@ -88,7 +88,7 @@ Focus on and apply..., Request… of…, Untrack…, Make a way..., Lose the way
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Lose the system speech… 
 
 Communication System Commands
 
@@ -96,7 +96,7 @@ Send a message to…, Replay the last message…, Reply with…, Set … messagi
 
 Sets System Commands
 
-Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
 
 First Aid System Commands
 
