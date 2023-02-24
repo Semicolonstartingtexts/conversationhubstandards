@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -88,7 +88,7 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…,  Untrack… and leave…, Untrack and unstack... and leave..., Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…,  Untrack… and leave…, Untrack and unstack... and leave..., Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -120,7 +120,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Contact… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
