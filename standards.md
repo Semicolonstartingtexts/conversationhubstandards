@@ -105,11 +105,11 @@ Focus on and apply…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
+Focus on..., Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -266,9 +266,9 @@ While Gesture: Placing the thumb on the farthest knuckle of the forefinger from 
 
 Stack Gesture: Either the gesturing user, mentioned user, mentioned mapping, or mapping the user is in, or all mappings on the server if a provision is mentioned in or implied by the focused phrase of the most recent gesture, stacks on the focused phrase of the most recent focus gesture, apply gesture, either, within the past couple of seconds by touching the forefinger tip to the thumb tip
 
-Unstack Gesture:  Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase or the object, or user, the phrase is stacked on during the process beyond the act of unstacking the system speech, the system speech or system speech stacked on what’s focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system speech focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention which unstacks as the system speech focused by the gesture the next time the gesture is done consecutively
+Unstack Gesture:  Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to middle fingertip to unstacked if stacked, without interacting with the phrase or the object, or user, the phrase is stacked on during the process beyond the act of unstacking the system speech, the system speech or system speech stacked on what’s focused by the focus gesture of the most recent focus, apply, or stack gesture made within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the system speech focused is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention on the gesturing user’s self and comments on relevant users which unstacks as the system speech focused by the gesture the next time the gesture is done consecutively
 
-Info Unstack Gesture: Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase or object the phrase is stacked on during the process beyond the act of unstacking the system speech stacked which is the phrase by and on the user or the referenced user or stacked on the referenced object, the stacked system speech most recently referenced by the info pinky gesture’s answer or the system speech stacked on the referenced object, or user, relevant within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention on the gesturing user’s self which unstacks as the response’s referenced system speech next time the gesture is done consecutively
+Info Unstack Gesture: Hold for a couple of seconds, or if performing the gesture an even number of times consecutively, after speaking or thinking a phrase started during the gesture while holding for at least a couple seconds, the thumb tip to ring fingertip to unstack if stacked, without interacting with the phrase or object the phrase is stacked on during the process beyond the act of unstacking the system speech stacked which is the phrase by and on the user or the referenced user or stacked on the referenced object, the stacked system speech most recently referenced by the info pinky gesture’s answer or the system speech stacked on the referenced object, or user, relevant within the past couple of seconds in the safest, most harmless, most helpful order and way without implying the opposite, every even number of times the gesture is performed consecutively, the response is changed to match a representation of the intention at the time the gesture is done most recently and restacked as an intention on the gesturing user’s self and comments on relevant users which unstacks as the response’s referenced system speech next time the gesture is done consecutively
 
 Utility System Command Gestures
 
@@ -318,8 +318,6 @@ Focus on…, when starting a phrase, also an option is a phrase ending with the 
 
 Request… of… when given starting a system command for any system command which would require the approval or consent of another user, letting the user requested of notice the request, and on an approving response, allows the requesting user to and the requesting user performs the system command, letting the requesting user notice the request was approved and the system command was performed, on a disapproving response, the requesting user notices the request wasn’t approved
 
-Untrack… if starting a system command, stops the tracking of the described system speech
-
 Make a way.../make it a way…  following with a phrase describing a way to be stacked if starting a system command stacks the permitting current mapping the user is in on the way, or permitting role’s self if explicitly described
 
 Lose the way/ways... following with a phrase describing ways or the way to unstack from the described target, if explicitly described, or current mapping the user or other role’s self is in otherwise, if a way or multiple ways match the description, with the user noticing the reason a way or multiple ways weren’t unstacked if there is a reason or are multiple reasons
@@ -342,7 +340,11 @@ Stack… if starting a system command stacks the phrase described as the stackin
 
 Unstack… if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture
 
-Unstack… and leave... if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture and leaves in place of the response the intention which follows leave stacked as the unstack and info unstack gestures would when used an even number of times on the same response or focused phrase or word
+Untrack… if starting a system command, stops the tracking of the described system speech
+
+Unstack… and leave… if starting a system command, unstacks the described system speech from the user mentioned or described, or if none are, the user’s self and the leaves system speech described as a representation of the intention described stacked as an intention on the user’s self and comments on relevant users
+
+Untrack… and leave… if starting a system command, untracks the described system speech tracking for the user and the leaves system speech described as a representation of the intention described stacked as an intention on the user’s self and comments on relevant users
 
 Clear the representation of/lose the system speech… clears the representation of the described system speech in the phrase from users which the user is authorized to and the library shelves, if starting a system command
 
