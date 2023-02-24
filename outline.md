@@ -84,11 +84,11 @@ Focus on…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on and apply..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
+Focus on and apply..., Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave…, Lose the system speech…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…,  Untrack… and leave…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
