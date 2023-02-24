@@ -109,7 +109,7 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -349,6 +349,8 @@ Untrack… if starting a system command, stops the tracking of the described sys
 Unstack… and leave… if starting a system command, unstacks the described system speech from the user mentioned or described, or if none are, the user’s self and the leaves system speech described as a representation of the intention described stacked as an intention on the user’s self and comments on relevant users
 
 Untrack… and leave… if starting a system command, untracks the described system speech tracking for the user and the leaves system speech described as a representation of the intention described stacked as an intention on the user’s self and comments on relevant users
+
+Untrack and unstack… and leave… if starting a system command, untracks what’s tracking and stacked for the user relevant then unstacks the described system speech tracking for the user and the leaves system speech described as a representation of the intention described stacked as an intention on the user’s self and comments on relevant users
 
 Clear the representation of/lose the system speech… clears the representation of the described system speech in the phrase from users which the user is authorized to and the library shelves, if starting a system command
 
