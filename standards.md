@@ -75,7 +75,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -109,7 +109,7 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -182,7 +182,7 @@ System Command Speech
 Declarations, system speech given with a system command, system speech which is focused on, may only be a reserved system command or declared in a provision or preferring, may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words, if a subject or object isn’t mentioned in the phrase, and the most recent focus of the user fits with the intention of the declaration, the most recent focus of the user is used as the object or subject whichever is most appropriate
 
 Interactions, applicable with an apply system command only may be a reserved system command given with a system command, may be a system command gesture performed verbally given in a system command, or otherwise performed and may be declared in a provision or preferring, noticing is always done in the most natural and preferred language of the user for the system and the user notices the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the provision or way or preferring if such wording is in the provisions or ways or preferrings of a user, or the server, or the mapping the interaction is interacting with, when there aren’t enough available resources within the owning, managing, governing and regulating entity limitations, interactions aren’t undertaken for the interaction attempt initiated, interactions ensure application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have proper authorization for interacting with the property of another entity in their application and intent and in the intentions regarding other users a requisite wholly legal intention in the interaction is required
-before initiating an attempt, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time
+before initiating an attempt, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time, in interactions where past events are changed the relevant users stack the change as a comment and the user stacks the change as an intention in their changelog
 
 System Setup
 
@@ -231,6 +231,10 @@ Initiation, a word that when added to a phrase and followed by the confirmation 
 Abandon, a word that abandons the system command from applying as a system command being initiated if in a system command, the initial abandon is nevermind
 
 Shelving, shelved system speech in libraries doesn’t have effects applied in interactions between the user and other users or the user or other role’s self while shelved and the user is on a mapping until stacked again on the user which takes the system speech off the shelf by stacking the system speech on the user if a user or other role’s self chooses to do so, and a shelved user skips interacting with the server beyond the hangup reserved system command or deshelving by a user self
+
+Changelog, a user’s past changes and other user’s changes for the user are automatically stacked, and untracked whenever the change doesn’t apply anymore, and may be unstacked, untracked, or cleared, by the user, in a specific set, called a changelog, separate from the rest of a user’s intentions and comments which are linked to the other user’s intention and unstack, untrack, and clear when the intention is unstacked, untracked or cleared, but the comments may also be unstacked by a user for the application of effects applied respective to them
+
+Activity, all the system speech tracking for the user, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s activity
 
 Stacking, storing system speech with a representation of the intention of the user’s self for the system speech, so in a mapping, the system speech, individually and respectively, may be interacting with the user for and by the user and by other users interacting with the user while in the mapping if the mapping’s provisions and consent status from and system speech provisions relevant for the interacting users permit, system speech can be stacked through the system commands which do so, stacking may only be by the user stacked on a user, or in a mapping, if the mapping’s provisions permit, and isn’t allowed to be contrary to the Semicolonstartingtexts/conversationserverstandards repository’s main branch’s micro.md, standards.md and communityprovisions.md’s on GitHub.com’s files’ contents from the most recently approved version of at least v0.4, without expansion, redaction or alteration, through system speech which is stacked, if on an object, the stacked system speech isn’t allowed to be manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer disapproved of user or server or endpoint or relay or waypoint or node or system speech interactions, only an object which is the user own property is permitted unless the application of effects applicable relevant to the object is consented to still with informed consent by the object’s owner, or by a parent, legal guardian, either, of a user and the user is under 18 or on a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious, users unstack on stacked system speech when the users die or are rendered unconscious, and when system speech is unstacked on an imbuing or utilized device or relay or suspended endpoint or suspended waypoint or device in micro which references the Semicolonstartingtexts/conversationserverstandards repository’s main branch on GitHub.com, the system speech goes to the lowest latency conversation server’s library within the network or inheritance chain
 
@@ -343,6 +347,8 @@ Change… to…/adjust… to… changes the phrase part referenced as described 
 Remove… from… and a reference to a, or to a part, of a stacked system speech, is made, what is described by what follows the word remove through to the word from is taken out of the stacked system speech or part of the stacked system speech referenced
 
 Stack… if starting a system command stacks the system speech described as the stacking gesture does on the mentioned mapping or user, or does on the user, all mappings, if a provisioned is mentioned or implied by the content of the phrase, or mapping the user is in, whichever is most appropriate, if either isn’t mentioned as the target for the stacking in the phrase
+
+Track... if starting a system command starts tracking the referenced stacked system speech if the system speech has previously been untracked
 
 Unstack… if starting a system command unstacks the system speech referred to by or which is the phrase which follows the word unstack as the unstack gesture would if used on system speech stacked or info unstack gesture if used on the response to the ask… system command or info gesture
 
