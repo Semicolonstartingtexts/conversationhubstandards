@@ -298,7 +298,7 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Change … to … mode… starting a system command, sets the server referenced or sever the user is on, to public or private mode, whichever is referenced in the phrase, which if the user is an administrator or owner of the server and the mode isn’t already the one referenced
+Change … to … mode… starting a system command, sets the server, endpoint or waypoint referenced or server, endpoint or waypoint the user is on, to public or private mode, whichever is referenced in the phrase, which if the user is an administrator or owner of the server and the mode isn’t already the one referenced
 
 Set a preferring… following with a phrase describing a preferring to be set if starting a system command stacks the user on the preferring, alternatively, the set a preferring… system command may be a phrase ending in set and the initial confirmation which does or doesn’t begin with set a preferring…
 
