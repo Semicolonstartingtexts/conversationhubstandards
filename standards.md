@@ -141,7 +141,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Connect to… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
@@ -451,6 +451,8 @@ Transportation System Commands
 Connection System Commands
 
 Contact/Connect to… and the name of someone to speech to when starting a system command sends the requested user a connection request to connect the requested user to the requesting user’s, moderator’s or administrators’s server
+
+Contact/Connect to… with a/the message… when starting a system command sends the described user a connection request to connect the requested user to the requesting user’s, moderator’s or administrators’s server, placing the message described before the connection request
 
 Hangup/Leave… is always given as a system command when starting a system command, without having to give as a system command, and may be given with a description of a user, or group of users, server, node, waypoint, relay, either, immediately after for specificity or the user or other role’s self if a user, users, other role, or group of other roles isn’t specified, then ends the active call to, the users the hangup reserved system command is intended for if the user or other role, or users or other roles, can be hung up on without harm from the hangup reserved system command for a user or other role, users or other roles, which doesn’t meet the criteria immediately preceding but the hangup reserved system command is intended for is unable to avoid the hangup reserved system command if the role provisions permit the user or other role to receive a hangup from the other role or same role, opt out isn’t able to be applied to the hangup reserved system command, also, system speech can’t be stacked, declared or applied, in lower priority system speech than server provisions, relevant to the hangup reserved system command, additionally, the hangup reserved system command stops tracking what’s right now currently tracking for the user or other role’s self which the hangup reserved system command is applied to but don’t stop tracking the user or other role’s self’s most recent confirmed phrase, the owner of the endpoint can apply the hangup reserved system command to users of and roles other than the owner of the endpoint, administrators can apply the hangup reserved system command to roles other than the owner of the endpoint, moderators can apply the hangup reserved system command to users with the role of users and roles which permit other than the owner of the endpoint, and administrators, moderators, users or other roles which have a hierarchy level above the user role can apply the hangup reserved command to users and roles of a lower hierarchy level
 
