@@ -80,11 +80,11 @@ Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, 
 
 Lobby-Bound System Commands
 
-Focus on…, Request… of…
+Focus on…, …Apply…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on and apply..., Request… of…, Make a way..., Lose the way/ways...,
+Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
