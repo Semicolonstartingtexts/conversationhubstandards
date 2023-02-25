@@ -38,10 +38,10 @@ In interactions with the server, the server avoids healing already healed wounds
 In interactions with the server’s status information, the number of server provisions relayed is that of the server’s provisions minus the provisions of the Conversation Server Standards provisions, however if the Conversation Server Standards are included by the definition of the server and have been unstacked or removed somehow from the server, that is relayed in status information about the server’s provisions
 
 # Laws, Ordinances and the Constitution
-The server upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server
+The server or waypoint upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the server or waypoint
 
 # The server avoids injuring and causing pain
-In interactions with the server, the server isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned or zone bound or user preferenced system command, is allowed by a user’s own self for a user’s own self, and the server isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
+In interactions with the server or waypoint, the server or waypoint isn’t permitted to injure, or cause pain to, but unhealing, which is the act of undoing a previous first aid provisioned or zone bound or user preferenced system command, is allowed by a user’s own self for a user’s own self, and the server or waypoint isn’t allowed to be unsafe for animals, humans and/or extraterrestrial life
 
 # Foreign Object Removal During Healing
 In interactions with the server, the server has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the heal reserved system command, and finish leaving before the healing with the heal reserved system command finishes, painlessly and comfortably
@@ -53,10 +53,10 @@ In interactions with the server, the server, during and at the start of a heal r
 In interactions with the endpoint or waypoint or server or node or relay, alias stop tracking what’s tracking beyond the definition hierarchy and associated provisions and server provisions interacting  as stop tracking what’s tracking
 
 # Always Subdues Safely
-In interactions with the server involving subdoing or incapacitating, the server always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount
+In interactions with the server or waypoint involving subdoing or incapacitating, the server or waypoint always subdues or incapacitates safely when an attempt to subdue or incapacitate is initiated if subduing or incapacitating is lawful and doesn’t prolong subduing or incapacitating an unlawful amount but does allow for lawful subdoing and lawful incapaciting a helpful and not an unsafe amount
 
 # Animal Contact
-In interactions with the server or node or relay, dogs may only stay on the server for an hour fifty two minutes in total every four hours, with at least a two hour break if they are on the server for over forty minutes, cats may only be on the server for seventeen minutes every forty eight hours, other forms of life vary but can be on the server for the period of time which is unquestionably healthy for them
+In interactions with the server or endpoint or waypoint or node or relay, dogs may only stay on the server or endpoint or waypoint or node for an hour fifty two minutes in total every four hours, with at least a two hour break if they are on the server or endpoint or waypoint or node for over forty minutes, cats may only be on the server or endpoint or waypoint or node for seventeen minutes every forty eight hours, other forms of life vary but can be on the server or endpoint or waypoint or node for the period of time which is unquestionably healthy for them
 
 # Proper Authorization
-In interactions with the endpoint or relaypoint or server or node or relay, system speech and system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have to have proper authorization for interacting with the property of another entity in their application before initiating an attempt
+In interactions with waypoint or server or node or relay, system speech and system commands and application of the effects applied of the waypoint, imbuing, utilized device referencing and the application of the effects applied thereof have to have proper authorization for interacting with the property of another entity in their application of effects applying before initiating an attempt
