@@ -25,7 +25,7 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server or utilized device to reference the endpoint or waypoint or the effects of the endpoint or server stating “the conversationserverstandards repository on GitHub.com extends to the device I own and I’m interacting with interactions with me, and if I’m the owner of the endpoint or server or waypoint, whichever I’m closest to in the inheritance chain, the users connected to the device I own’s interactions with the device while connected to the device,”  that enters micro and can be used to setup a server or be used without a server to run system commands with and confirm, and set what you want and would want to do with set and confirm
+Use an endpoint, waypoint or server or utilized device to reference the endpoint or waypoint or the effects of the endpoint or server stating “the conversationserverstandards repository on GitHub.com extends to the device I own and I’m interacting with interactions with me, and if I’m the owner of the endpoint or server or waypoint, whichever I’m closest to in the inheritance chain, the users connected to the compatible device I own’s interactions with the compatible device while connected to the compatible device,”  that enters micro and can be used to setup a server or be used without a server to run system commands with and confirm, and set what you want and would want to do with set and confirm
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
