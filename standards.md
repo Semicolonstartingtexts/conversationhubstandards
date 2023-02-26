@@ -97,7 +97,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Change … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferrings…, Clear … consent for…
+Change the … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferrings…, Clear … consent for…
 
 Lobby-Bound System Commands
 
@@ -248,7 +248,7 @@ Relaypoint, any attached resource or attached relaypoint or resource which has a
 
 Resource, any device in the network which has been attached which adds to the local and overall availability of memory, storage, network connectivity, computational ability, modes of interactivity, modes of interfacing or power for the server
 
-Clustering, extending the resources and modes of interfacing of a server by attaching to devices, Relaypoints offer direct routes of network connection, and endpoints and nodes send their network activity through the nearest relaypoint, Route attaching happens when you attach a relaypoint which has network connectivity access and cloud attaching is the act of attaching any additional resources for the server, attaching relaypoints allows for more routes to the endpoint, each attaching increases the resources available, memory, storage, or network connectivity, computational ability, modes of interfacing, modes of interactivity and power, allows for an increase of available resources and new functionality locally and overall, making available a lot of local resources makes for higher and enhanced capability and in some cases capacity available in the area and to the server
+Clustering, adding new resources for a server by attaching to devices, and endpoints and network nodes send their network activity through the nearest network node, Route attaching happens when you attach a device which has network connectivity access and cloud attaching is the act of attaching any additional devices and utilize resources for the server, attaching devices with network connectivity allows for more routes to the endpoint and associated backend, each attaching increases the resources available, memory, storage, or network connectivity, computational ability, modes of interfacing, modes of interactivity and power, allows for an increase of available resources locally and overall, making available a lot of local resources makes for higher and enhanced capability and in some cases capacity available in the area and to the server
 
 Extending, extend the server through devices or software allowing for new functionality of the server, and utilizes every mode of interfacing with the device as server interfaces when interacting with a user through the server
 
@@ -298,7 +298,7 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Change … to … mode… starting a system command, sets the server, endpoint or waypoint referenced or server, endpoint or waypoint the user is on, to public or private mode, whichever is referenced in the phrase, which if the user is an administrator or owner of the server and the mode isn’t already the one referenced
+Change the … to … mode… starting a system command, sets the server, endpoint or waypoint referenced or server, endpoint or waypoint the user is on, to public or private mode, whichever is referenced in the phrase, which if the user is an administrator or owner of the server and the mode isn’t already the one referenced
 
 Set a preferring… following with a phrase describing a preferring to be set if starting a system command stacks the user on the preferring, alternatively, the set a preferring… system command may be a phrase ending in set and the initial confirmation which does or doesn’t begin with set a preferring…
 
