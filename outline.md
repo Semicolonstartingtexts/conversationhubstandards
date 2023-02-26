@@ -54,7 +54,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition, Confirmation, Initiation, Abandon, Shelving, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -76,19 +76,19 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
+Change the... To... Mode, Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
 
 Lobby-Bound System Commands
 
-Focus on…, Request… of…
+Focus on…, …Apply…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on..., Request… of…, Untrack…, Make a way..., Lose the way/ways...,
+Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Unstack…, Unstack… and leave… 
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…,  Untrack… and leave…, Untrack and unstack... and leave..., Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -96,7 +96,7 @@ Send a message to…, Replay the last message…, Reply with…, Set … messagi
 
 Sets System Commands
 
-Build a set with/from… called/named/as…, Build an empty set called/named/as…, Save… as a set called/named/as…, Add the phrase/phrases… to the set named/called…, Add the phrase/phrases…, Add that to the set…, Add that to the set named/called…, Remove the phrase/phrases… from the set named/called…, Remove the phrase/phrases…, Remove that from the set…, Remove that to the set named/called…, Stack the … set…, Unstack the set…, Swap sets for the … set…
+Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
 
 First Aid System Commands
 
@@ -120,7 +120,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Contact… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
