@@ -25,9 +25,11 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server to reference the endpoint or waypoint stating the waypoint or endpoint is the repository of the user Semicolonstartingtexts called conversationserverstandards on GitHub.com’s main branch, referencing the repository with an endpoint enters micro and can be used to setup a server or use be used without a server
+Use an endpoint, waypoint or server or utilized device to reference the endpoint or waypoint or the effects of the endpoint or server stating “the conversationserverstandards repository on GitHub.com extends to the compatible device I own and I’m interacting with interactions with me, and if I’m the owner of the endpoint or server or waypoint or utilized device, whichever I’m closest to in the inheritance chain, the users connected to the compatible device I own’s interactions with the compatible device while connected to the compatible device,”  that enters micro and can be used to setup a server or be used without a server to run system commands with and confirm, and set what you want and would want to do with set and confirm
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
+
+Micro is entered by suspending the server, endpoint or waypoint, or extending the server to a device, and can be used in tandem with the server, even suspended, to let you create abilities which become system commands and set how you want to interact with the system by using the phrase “… Set and confirm” or use the system commands you set up, with your cue and “… and confirm”, while suspended, the user still has all the provisions of the server
 
 Then think or say setup my endpoint, confirm or setup my waypoint, confirm
 
@@ -63,6 +65,6 @@ Feel free to fork the repository and send pull requests, crowdsourced a lot for 
 
 # License 
 
-Conversation Server Standards v0.4a35
+Conversation Server Standards v0.4a68
 
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine
