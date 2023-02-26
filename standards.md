@@ -422,7 +422,7 @@ Share… with/to… both in an offer for the sharing of previously interacted wi
 
 Clustering and Extending System Commands
 
-Attach... When given starting a system command, attaches a resource if the resource will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, or more and the user is authorized to do so by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
+Attach... When given starting a system command, attaches a resource if the resource will be compatible and will increase the locally available memory, storage, network connectivity, computational ability, modes of interfacing, modes of interactivity or power, or more and the user is authorized to do so by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, letting the command giving user notice if the resource will act as a relaypoint, and how much more is available to be done with a previously done server interaction could be done now
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, and tells you how much less effectively a previous server interaction could be done now
 
