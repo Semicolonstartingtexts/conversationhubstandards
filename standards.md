@@ -159,9 +159,9 @@ Set my app preferring for semicolon starting SMS texts to…
 
 System Speech
 
-Intentions, the conversation that has been had or being had by a user with a representation of the user intentions for the conversation
+Intentions, the conversation that has been had or being had by a user with a representation of the intention the user had for the conversation
 
-Comments, the conversation that has been had or being had by or on or to the user with a representation of the intention of a user which isn’t the user’s own self and which had the conversation
+Comments, the conversation that has been had or is being had with the user with a representation of the intention of a user which isn’t the user’s own self and which the conversation was had or is had with
 
 Imbuing, stacking on, or tracking conversation or a signifier or multiple signifiers with the representation of an intention or intentions involving an object or objects or otherwise than an object or objects external to the server or endpoint or waypoint or relay and users which have interacted with the server, imbued objects are limited to inheriting and do inherit only from the definition of or ways for general or specific use of the nearest endpoint, if the imbuing server was stacked on an endpoint, or imbuing nearest waypoint or nearest endpoint in the inheritance chain, if the device was imbued through micro and wasn’t imbued on a server stacked on a waypoint or stacked on an endpoint, or network node if the object wasn’t imbued on a server, or nearest waypoint in the inheritance chain, if the object was imbued on a server stacked on a waypoint, they were imbued on through the imbuing unless the imbuing is removed, though the same object may be imbued by different endpoints or waypoints simultaneously
 
