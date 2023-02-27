@@ -125,7 +125,7 @@ Heal…
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…, Share… with…
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…, Spec to...
 
 Clustering and Extending System Commands
 
@@ -141,7 +141,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Connect to… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…>>>>>>> main
+Connect to…, Connect to… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
@@ -419,6 +419,9 @@ Ask/Get Info about/Get Info on… if starting a system command gives the phrase 
 I’m going/goin’ to my home zone… is always given as a system command, without having to give the command as a system command, takes the user which gives the phrase as a system command to the home zone of the user made by the criteria described in the home gesture
 
 Share… with/to… both in an offer for the sharing of previously interacted with system speech by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
+
+Spec to... stacks the user on the preferrings, and intentions, or definitions of the system, when definitions
+of the system are necessary to achieve the objective, which match the requisites for accomplishing the referenced goal in the phrase, if starting a system command, or alternatively, ending a phrase with the phrase spec and the initial confirmation
 
 Clustering and Extending System Commands
 
