@@ -420,8 +420,7 @@ I’m going/goin’ to my home zone… is always given as a system command, with
 
 Share… with/to… both in an offer for the sharing of previously interacted with system speech by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
 
-Spec to... stacks the user on the preferrings, and intentions, or definitions of the system, when definitions
-of the system are necessary to achieve the objective, which match the requisites for accomplishing the referenced goal in the phrase, if starting a system command, or alternatively, ending a phrase with the phrase spec and the initial confirmation
+Spec to... stacks the user on the preferrings, and intentions, or definitions of the nearest requisite authorized scope and priority, when definitions of the nearest requisite authorized scope and priority are necessary to achieve the objective, which match the requisites for accomplishing the referenced goal in the phrase, if starting a system command, or alternatively, ending a phrase with the phrase spec and the initial confirmation
 
 Clustering and Extending System Commands
 
