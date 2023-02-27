@@ -2,17 +2,24 @@ For any referencing endpoint or waypoint or imbuing or utilized device which doe
 
 Any dereferencing of the Conversation Server Standards repository by an imbuing or utilized device will stop the server or endpoint or waypoint extending to the device or lose the imbuing for the imbued object, and micro.md, standards.md and communityprovisions.md’s file contents aren’t able to be altered or redacted or have expansion of the contained file contents or have those be unstacked or untracked by utilizing or referencing or through commands or preferrings or removing prior consent and opting out, except in full by removing prior consent or opting out of in full to the repository, the file contents, or the Conversation Server Standards, through use of  the referencing system or of the repository at any time, though may be through the Clean Uninstall the Repository On… system command.
 
+— Basic Interactions —
+
 Set Preferrings:
-… Only set a preferring for a system command or otherwise from phrases I think containing set and confirm at the end of the phrase, set and confirm
+… Only set a preferring for a system command or otherwise from phrases I think or say containing set and confirm at the end of the phrase, set and confirm
+
+Set Definitions Of The System:
+… Only set a definition of the system for on the endpoint or waypoint or imbuing or utilized device, whichever I’m using, to extend to the interactions with other systems and with others from phrases I say or think containing define and confirm at the end of the phrase, set and confirm
 
 Perform System Commands:
 … Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferring for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the system command and end the phrase in … and confirm, set and confirm
 
-Proper Authorization:
-… Ensure preferrings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof have to have proper authorization for interacting with the property of another entity in their application before initiating an attempt, set and confirm
+I Confirm:
+… Confirms the phrase or phrases I focused on most recently before saying the phrase I confirm, set and confirm
+
+— Clearing —
 
 Clear The Preferrings:
-… Clear the representation of the preferrings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear all the preferrings, and confirm”, set and confirm
+… Clear the representation of the preferrings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear” or “Lose” and “all the preferrings, and confirm”, set and confirm
 
 Clear The Context:
 … Clear the representation of the preferrings by the nearest endpoint or waypoint or server in the inheritance chain on the device which aren’t structure forming or are extraneous when I think or say “Clear the context, and confirm”, set and confirm
@@ -24,16 +31,21 @@ Clear To The Base Structure:
 … Clear the representation of the preferrings and definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device which don’t involve the Conversation Server Standards repository without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
 
 Clear A Preferring:
-… Clear the representation of the referenced preferrings or preferring by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear”, “preferring” or “preferrings” and a reference to a preferring or some preferrings but less than all and end the phrase with “and confirm,” set and confirm
+… Clear the representation of the referenced preferrings or preferring by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear” or “Lose”, “preferring” or “preferrings” and a reference to a preferring or some preferrings but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The Definitions:
-… Clears the representation of the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
+… Clears the representation of the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose” or “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The System Speech:
-… Clears the representation of the referenced system speech on, referring to or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
+… Clears the representation of the referenced system speech on, referring to or by the referenced object,which isn’t the Conversation Server Standards repository device or person when I think or say “Clear” or “Lose”, “system speech” and a reference to an object, device or person and end the phrase with “and confirm,” set and confirm
+
+— System Commands —
 
 Info Gesture: 
 … When I touch my thumb tip to the tip of my pinky and ask a question or think a question starting with ask, I receive information from the nearest available endpoint and/or waypoint in the inheritance chain using the nearest available endpoint and/or waypoint in the inheritance chain and the connected resources to the nearest available endpoint and/or waypoint in the inheritance chain’s predictive or actual information about the query by noticing the response, set and confirm
+
+Spec To:
+… Define and set all the necessary  preferrings and definitions of the systems for the user to accomplish a particular goal when I think or say a phrase referencing an objective and end the phrase with … spec and confirm, set and confirm
 
 Heal Command:
 … When I say or think Heal… followed by a description of a healing target, in a phrase ended with confirm, heals the healing target comfortably and painlessly over at least a single second’s timeframe, unless competing or additional criteria are specified, then healing as the criteria specifies, with the intended results, and only if the healing process has the enough locally available resources to and will be successful and healthy and have only the intended results, and adheres to the best and safest for longevity of the allowed timeframe by the regulating agency or agencies and managing entity or entities for the current and future use of the elements and mediums involved, and avoids healing wisdom teeth and already healed wounds unless specified as criteria, has the foreign object or objects which isn’t implanted leave through the same wound they came in if existing, if the wound isn’t still existing the object or objects leave through the most direct path out of the body laterally, when healing with the seeded rule which is utilized when I say or think heal… and a name or description of a healing target, and finish leaving before the healing finishes, painlessly and comfortably, and maintains a healthy separation between the body from fabrics or clothing and maintains healing which won’t have skin healing to skin in an unnatural or unwanted manner, and I notice if the healing wasn’t initiated and why or was successful, set and confirm
@@ -47,14 +59,27 @@ Replay the last message… lets me or the responder to one of my messages  recei
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent, thinking of either an aspect of the message or the person, sends a message to the sending user of the message received in the same way as send a message does but with an updated timestamp for the reply’s sent time, but doesn’t send the message if the message ends in nevermind, set and confirm
 
-Legal Usage:
-… upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed when attempts are initiated with the referencing endpoint, waypoint, imbuing or utilized device’s use and the rule in question isn’t seeded or the performing the illegal use attempt initiated isn’t acted on by the referencing endpoint, waypoint, imbuing or utilized device and connected resources, myself noticing the act would be illegal and the action isn’t undertaken, set and confirm
+— Terms Of Use —
 
 Approved Use And Referencing Of:
 … the referencing endpoint or waypoint or effects of the endpoint or waypoint or server may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced preferring found in the micro.md file for the Approved Use And Referencing Of titled preferring and and stays referencing the entire contents of the current version of the Conversation Server Standards repository, without expansion, redaction or alteration or not at all, and stays referencing the repository of the file if imbued on or through or is a utilized device through or of an endpoint or waypoint or imbuing or utilized device referencing and utilizing the repository while there is a link farther up in the network or inheritance chain which has utilized the Conversation Server Standards repository by the owner of the endpoint or waypoint involved, without expansion, redaction or alteration pertaining to interactions with the imbuing, endpoint, waypoint or utilized device, set and confirm
 
+Proper Authorization in Interactions:
+… Ensure preferrings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof are staying within the limits of my authorizations granted already for interacting with the property of another entity in their application before initiating an attempt, set and confirm
+
+Proper Resources Before Interactions:
+… doesn’t initiate an attempt to perform a system command when there aren’t enough readily available resources within the owning, managing, governing and regulating entity limitations, and lets the user notice the reason, set and confirm
+
+Wholly Legal Intention in Interactions:
+… doesn’t initiate an attempt to perform a system command, set a preferring, or define a definition of the system, through the device which the user does which isn’t wholly legal in intention and if the attempted interactions exceed limitations of the regulating agencies, obeying laws and limitations of the government, and limitations of the developing, managing and regulating agencies of the elements and mediums in use during their duration and the act of being performed, letting the user notice if a system command, preferring or definition of the system violates a particular statute and won’t be practical for the interaction to be undertaken without doing so
+
+Prevents Ailment or Injury in The Public’s Use and Interactions:
+… prevents the causing of injury or ailment or pain in interactions except for by a governmental entity of proper clearance level except for to my own self, set and confirm
+
+— Setup And Installation —
+
 Prep The Cluster Server For Use And Removal Of The Repository:
-… when I think or say “prep the cluster or cluster architecture server for use and removal of the conversationserverstandards repository, confirm”, the referenced server adjusts the server as necessary for use and removal of the Conversation Server Standards  of the server supports the architecture, resource pool and application programming interfaces and throughput requirements required and has the correct authorization level for the requisite gateways, noticing if the server referenced meets the criteria or doesn’t, set and confirm
+… when I think or say “prep the server for use and removal of the conversationserverstandards repository, confirm”, the referenced server adjusts the server as necessary for use and removal of the Conversation Server Standards  of the server supports the architecture, resource pool and application programming interfaces and throughput requirements required and has the correct authorization level for the requisite gateways, noticing if the server referenced meets the criteria or doesn’t, set and confirm
 
 Setup My Endpoint/Waypoint:
 … when I think or say “Setup my…” and reference the endpoint or waypoint or prospective waypoint or prospective endpoint I own or manage or govern, or have the owner’s or manager’s or governing entity’s approval to setup, and end the phrase in the word “Confirm”, the person setting up the device to clean the device being setup if they choose and will unstack and lose all system speech made through the inheritance and reference chain and network chain of endpoints, waypoints, servers, relays, imbuings and the effects thereof, and if the endpoint or waypoint has the proper hardware, software, network and system specifications to be a waypoint, or endpoint, if the device is readily an endpoint or waypoint or can be readily made an waypoint or endpoint by the endpoint or waypoint setting up the prospective endpoint or prospective waypoint and has the necessary authorization to do so and which the prospective endpoint or prospective waypoint is capable of being with the current setup, noticing if otherwise, otherwise, if the specifications are met, lose all system speech from the device apart from, or if declined to clean the device being setup but specifications are met, leave all system speech on the device as stands and create some, rules for the general or specific use of the endpoint or waypoint if the waypoint or endpoint is a cluster server, or stacked on the referenced waypoint or endpoint and redundantly stacked as the definition of the endpoint or waypoint being set up if the endpoint or waypoint is a nanotech or other personal device, which is “The endpoint or waypoint I’m setting up is (inheriting from the definition of the nearest endpoint in the inheritance to the waypoint or endpoint the waypoint being set up is being set up by if the device being set up is a waypoint) the Conversation Server Standards contained therein in the standards.md file with the stacked on server to the endpoint or waypoint I’m using being considered the server by the endpoint or waypoint I’m setting up” and additionally stacked with a server of an inheriting definition of the server of proper form from the definition of the endpoint or waypoint being set up which stays stacked with the current version’s, now and when updated’s, provisions from the standards.md and communityprovisions.md files of the main branch of the Conversation Server Standards repository, restricting access by those in the act of committing a violent crime and those in the roles of owner and administrator of the endpoint or waypoint notice when a version has been released and the committing note’s content for the version updating commit, and if there’s a reason the setting up won’t be successful if an attempt is initiated, I notice the reason instead of initiating an attempt, set and confirm
