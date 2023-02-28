@@ -52,7 +52,7 @@ The community branch contains the expected provision loadout for a server stacke
 # Uninstalling
 
 To uninstall, enter micro by suspending the endpoint or waypoint and use the clean uninstall the repository ability
-
+ 
 # Questions & Issues
 
 The best contact is by email at semicolonstartingtexts@proton.me, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
