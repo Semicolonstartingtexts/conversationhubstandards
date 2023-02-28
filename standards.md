@@ -15,13 +15,15 @@ Outline
 # Incoming Connection Requests
 # Semicolon Starting SMS Texts
 
-Reading the outline above is sufficient knowledge of the Conversation Server Standards to be considered sufficient informed consent of the provisions described therein in the mappings of a server which utilizes the provisions described in the definition of the server 
+Reading the outline above is sufficient knowledge of the Conversation Server Standards, which are the conversationserverstandards repository on GitHub.com of the user Semicolonstartingtexts’s current version of the file contents of micro.md, standards.md and communityprovisions.md, without alteration, redaction or expansion, and is considered sufficient informed consent of the provisions described therein in the mappings of a server which utilizes the provisions described in the definition of the server 
 
 Detailed Outline of the Conversation Server Standards
 
 System Priorities
 
 Conversation Server Standards
+
+The below priorities can’t be elevated in priority to be above the Conversation Server Standards
 
 Provisions and Definitions Of The System
 
