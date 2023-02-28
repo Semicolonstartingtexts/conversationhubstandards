@@ -23,6 +23,8 @@ System Priorities
 
 Conversation Server Standards
 
+The below priorities can’t be elevated in priority to be above the Conversation Server Standards
+
 Provisions and Definitions Of The System
 
 Preferrings And Definitions Of The User
