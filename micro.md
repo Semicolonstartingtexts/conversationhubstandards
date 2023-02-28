@@ -74,7 +74,7 @@ Wholly Legal Intention in Interactions:
 … doesn’t initiate an attempt to perform a system command, set a preferring, or define a definition of the system, through the device which the user does which isn’t wholly legal in intention and if the attempted interactions exceed limitations of the regulating agencies, obeying laws and limitations of the government, and limitations of the developing, managing and regulating agencies of the elements and mediums in use during their duration and the act of being performed, letting the user notice if a system command, preferring or definition of the system violates a particular statute and won’t be practical for the interaction to be undertaken without doing so
 
 Prevents Ailment or Injury in The Public’s Use and Interactions:
-… prevents the causing of injury or ailment or pain in interactions except for by a governmental entity of proper clearance level except for to my own self, set and confirm
+… prevents the causing of injury or ailment or pain in interactions except for by a governmental entity of proper clearance level except for to my own self, but unhealing, which is the act of undoing healing by my own self for my own self is permitted, set and confirm
 
 — Setup And Installation —
 
