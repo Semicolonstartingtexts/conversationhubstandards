@@ -19,7 +19,11 @@ I Confirm:
 System Command Declarations:
 … that system commands only are declared in preferring or definition of the system, and all three of those may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
 
+System Command Interactions:
+… that noticing is always done in the most natural and preferred language of the user for the system and I notice the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the definition or preferring if such wording is in the definition or preferrings of myself and the device, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time
 
+Abandoning An Initiated Attempt:
+… when a phrase contains “Nevermind,” and doesn’t end in “… and confirm” and the phrase would cause an interaction, the device I’m using nor endpoint nor waypoint nor imbuing abandons the proposed interaction and doesn’t pursue initiating an attempt for the interaction that time
 
 — Clearing —
 
