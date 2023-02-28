@@ -16,6 +16,11 @@ Perform System Commands:
 I Confirm:
 … Confirms the phrase or phrases I focused on most recently before saying the phrase I confirm, set and confirm
 
+System Command Declarations:
+… that system commands only are declared in preferring or definition of the system, and all three of those may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
+
+
+
 — Clearing —
 
 Clear The Preferrings:
