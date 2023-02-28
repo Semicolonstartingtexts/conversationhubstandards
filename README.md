@@ -54,7 +54,7 @@ The community branch contains the expected provision loadout for a server stacke
 # Uninstalling
 
 To uninstall, enter micro by suspending the endpoint or waypoint and use the clean uninstall the repository ability
-
+ 
 # Questions & Issues
 
 The best contact is by email at semicolonstartingtexts@proton.me, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
@@ -65,6 +65,6 @@ Feel free to fork the repository and send pull requests, crowdsourced a lot for 
 
 # License 
 
-Conversation Server Standards v0.4a83
+Conversation Server Standards v0.4a84
 
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine
