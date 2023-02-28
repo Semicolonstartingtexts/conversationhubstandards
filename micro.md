@@ -8,13 +8,22 @@ Set Preferrings:
 … Only set a preferring for a system command or otherwise from phrases I think or say containing set and confirm at the end of the phrase, set and confirm
 
 Set Definitions Of The System:
-… Only set a definition of the system for on the endpoint or waypoint or imbuing or utilized device, whichever I’m using, to extend to the interactions with other systems and with others from phrases I say or think containing define and confirm at the end of the phrase, set and confirm
+… Only set a definition of the system for on the endpoint or waypoint or imbuing or utilized device, whichever I’m using, if I’m the owner or an authorized person by the owner or person authorized to authorize people to define definitions of the system, to extend to the interactions with other systems and with others from phrases I say or think containing define and confirm at the end of the phrase, set and confirm
 
 Perform System Commands:
 … Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferring for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the system command and end the phrase in … and confirm, set and confirm
 
 I Confirm:
 … Confirms the phrase or phrases I focused on most recently before saying the phrase I confirm, set and confirm
+
+System Command Declarations:
+… that system commands only are declared in preferring or definition of the system, and all three of those may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
+
+System Command Interactions:
+… that noticing is always done in the most natural and preferred language of the user for the system and I notice the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the definition or preferring if such wording is in the definition or preferrings of myself and the device, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time
+
+Abandoning An Initiated Attempt:
+… when a phrase contains “Nevermind,” and doesn’t end in “… and confirm” and the phrase would cause an interaction, the device I’m using nor endpoint nor waypoint nor imbuing abandons the proposed interaction and doesn’t pursue initiating an attempt for the interaction that time
 
 — Clearing —
 
@@ -65,7 +74,7 @@ Approved Use And Referencing Of:
 … the referencing endpoint or waypoint or effects of the endpoint or waypoint or server may only be referenced by the owner, managing entity or still approved entity to reference the referencing endpoint or waypoint of the Approved Use And Referencing Of titled rule in the referenced preferring found in the micro.md file for the Approved Use And Referencing Of titled preferring and and stays referencing the entire contents of the current version of the Conversation Server Standards repository, without expansion, redaction or alteration or not at all, and stays referencing the repository of the file if imbued on or through or is a utilized device through or of an endpoint or waypoint or imbuing or utilized device referencing and utilizing the repository while there is a link farther up in the network or inheritance chain which has utilized the Conversation Server Standards repository by the owner of the endpoint or waypoint involved, without expansion, redaction or alteration pertaining to interactions with the imbuing, endpoint, waypoint or utilized device, set and confirm
 
 Proper Authorization in Interactions:
-… Ensure preferrings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the effects thereof are staying within the limits of my authorizations granted already for interacting with the property of another entity in their application before initiating an attempt, set and confirm
+… Ensure preferrings, system commands and application of the effects applied of the waypoint, endpoint, imbuing, utilized device referencing and the application of effects applied out of the effects applicable thereof are staying within the limits of my authorizations granted already for interacting with the property of another entity in their application of effects applied out of the effects applicable, and are also within the limits of the authorized behaviors of the inheritance chain, before initiating an attempt, set and confirm
 
 Proper Resources Before Interactions:
 … doesn’t initiate an attempt to perform a system command when there aren’t enough readily available resources within the owning, managing, governing and regulating entity limitations, and lets the user notice the reason, set and confirm
@@ -74,7 +83,7 @@ Wholly Legal Intention in Interactions:
 … doesn’t initiate an attempt to perform a system command, set a preferring, or define a definition of the system, through the device which the user does which isn’t wholly legal in intention and if the attempted interactions exceed limitations of the regulating agencies, obeying laws and limitations of the government, and limitations of the developing, managing and regulating agencies of the elements and mediums in use during their duration and the act of being performed, letting the user notice if a system command, preferring or definition of the system violates a particular statute and won’t be practical for the interaction to be undertaken without doing so
 
 Prevents Ailment or Injury in The Public’s Use and Interactions:
-… prevents the causing of injury or ailment or pain in interactions except for by a governmental entity of proper clearance level except for to my own self, set and confirm
+… prevents the causing of injury or ailment or pain in interactions except for by a governmental entity of proper clearance level except for to my own self, but unhealing, which is the act of undoing healing by my own self for my own self is permitted, set and confirm
 
 — Setup And Installation —
 
