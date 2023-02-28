@@ -8,7 +8,7 @@ Set Preferrings:
 … Only set a preferring for a system command or otherwise from phrases I think or say containing set and confirm at the end of the phrase, set and confirm
 
 Set Definitions Of The System:
-… Only set a definition of the system for on the endpoint or waypoint or imbuing or utilized device, whichever I’m using, to extend to the interactions with other systems and with others from phrases I say or think containing define and confirm at the end of the phrase, set and confirm
+… Only set a definition of the system for on the endpoint or waypoint or imbuing or utilized device, whichever I’m using, if I’m the owner or an authorized person by the owner or person authorized to authorize people to define definitions of the system, to extend to the interactions with other systems and with others from phrases I say or think containing define and confirm at the end of the phrase, set and confirm
 
 Perform System Commands:
 … Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferring for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say a phrase referencing the system command and end the phrase in … and confirm, set and confirm
