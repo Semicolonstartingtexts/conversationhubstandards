@@ -1,4 +1,4 @@
-For any referencing endpoint or waypoint or imbuing or utilized device which doesn’t actively reference the Conversation Server Commands, the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com, when referencing the repository the most recent version from the main branch is what is referenced, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable, irregardless and despite of all other interaction with the endpoint, waypoint or server, or relay, or node, or other system…” followed by what’s under the title picking up after the ellipsis…
+For any referencing system, endpoint or waypoint or imbuing or utilized device, which doesn’t actively reference the Conversation Server Commands, the Semicolonstartingtexts/conversationserverstandards repository on GitHub.com, when referencing the repository the most recent version from the main branch is what is referenced, repeat for each title below the phrase “the referencing endpoint or waypoint or imbuing or utilized device does through application of effects applied if is applicable, irregardless and despite of all other interaction with the endpoint, waypoint or server, or relay, or node, or other system does consider the pronouns, when referenced in the micro.md document of the conversationserverstandards repository on GitHub.com, I, me, my and myself respective only to an owning, managing or governing entity of the system interacting with the system or approved person while an owning, managing or governing entity of the system approves of the person interacting with the system, interacts with the system through micro.md and does …” followed by what’s under the title picking up after the ellipsis…
 
 Any dereferencing of the Conversation Server Standards repository by an imbuing or utilized device will stop the server or endpoint or waypoint extending to the device or lose the imbuing for the imbued object, and micro.md, standards.md and communityprovisions.md’s file contents aren’t able to be altered or redacted or have expansion of the contained file contents or have those be altered, redacted or have expansion by utilizing or referencing or through system commands, definitions or preferrings, except through the Clean Uninstall the Repository On… system command defined therein
 
@@ -24,6 +24,9 @@ System Command Interactions:
 
 Abandoning An Initiated Attempt:
 … when a phrase contains “Nevermind,” and doesn’t end in “… and confirm” and the phrase would cause an interaction, the device I’m using nor endpoint nor waypoint nor imbuing abandons the proposed interaction and doesn’t pursue initiating an attempt for the interaction that time
+
+Listening For What I Want:
+… what I want the system or myself to do when I say or think, or whichever is specified, what I want to do while the system is said or thought to be listening without implying the opposite when the system is said or thought to be don’t listening, but rather, waiting on me giving my preferrings, system commands and definitions of the system
 
 — Clearing —
 
