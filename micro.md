@@ -58,7 +58,7 @@ Abandoning An Initiated Attempt:
 … when a phrase contains “Nevermind,” and doesn’t end in “… and confirm” and the phrase would cause an interaction, the device I’m using nor endpoint nor waypoint nor imbuing abandons the proposed interaction and doesn’t pursue initiating an attempt for the interaction that time
 
 Listening For What I Want:
-… what I want the system or myself to do when I say or think, or whichever is specified, what I want to do while the system is said or thought to be listening without implying the opposite when the system is said or thought to be don’t listening, but rather, waiting on me giving my preferrings, system commands and definitions of the system
+… what I want the system or myself to do when I say or think, or whichever is specified, what I want to do except for to what I ask the Info Gesture System Command while the system is said or thought to be listening without implying the opposite when the system is said or thought to be don’t listening, but rather, waiting on me giving my preferrings, system commands and definitions of the system
 
 — Clearing —
 
