@@ -63,25 +63,25 @@ Listening For What I Want:
 — Clearing —
 
 Clear The Preferrings:
-… Clear the representation of the preferrings by the nearest endpoint or waypoint or server in the inheritance chain for the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear” or “Lose” and “all the preferrings, and confirm”, set and confirm
+… Clear the representation of the preferrings  on the referenced object when I think or say “Lose” or “Clear”, “all the preferrings” and “and, confirm”, a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, on the referring device, set and confirm
 
 Clear The Context:
-… Clear the representation of the preferrings by the nearest endpoint or waypoint or server in the inheritance chain on the device which aren’t structure forming or are extraneous when I think or say “Clear the context, and confirm”, set and confirm
+… Clear the representation of the preferrings  on the referenced device, or the referring device to the conversationserverstandards repository being used itself, if none is, which aren’t structure forming or are extraneous when I think or say “Clear the context, and confirm”, set and confirm
 
 Clear The Structure:
-… Clear the representation of the preferrings and definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device which don’t involve the Conversation Server Standards repository or a fork thereof preserving the contents of the standards.md, micro.md and communityprovisions.md’s current version from the main branch, without expansion, redaction or alteration, or a fork thereof and are structure forming when I think or say “Clear the structure, and confirm”, set and confirm
+… Clear the representation of the preferrings and definitions on the referenced device, if none is, the referenced device is the referring device to the conversationserverstandards repository being used itself, which don’t involve the conversationserverstandards repository in entirety or a fork thereof preserving the contents of the standards.md, micro.md and communityprovisions.md’s current version from the main branch, without expansion, redaction or alteration, or a fork thereof and are structure forming when I think or say “Clear the structure, and confirm”, set and confirm
 
 Clear To The Base Structure:
-… Clear the representation of the preferrings and definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device which don’t involve the Conversation Server Standards repository without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
+… Clear the representation of the preferrings and definitions on the referenced device, if none is, the device itself is the referenced device, which don’t involve the conversation server repository in entirety without a forking of the repository involved when I think or say “Clear to the base structure, and confirm”, set and confirm
 
 Clear A Preferring:
-… Clear the representation of the referenced preferrings or preferring by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Clear” or “Lose”, “preferring” or “preferrings” and a reference to a preferring or some preferrings but less than all and end the phrase with “and confirm,” set and confirm
+… Clear the representation of the referenced preferrings or preferring on the referenced object on the device when I think or say “Clear” or “Lose”, “preferring” or “preferrings” and a reference to a preferring or some preferrings but less than all and a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, and end the phrase with “and confirm,” set and confirm
 
 Clear The Definitions:
-… Clears the representation of the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose” or “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
+… Clears the representation of the referenced definition or definitions on the referenced object when I think or say “Lose” or “Clear”, “definition” or “definitions”, a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The System Speech:
-… Clears the representation of the referenced system speech on, referring to or by or made through the referenced object, optionally about a topic, which isn’t a direct reference to the conversationserverstandards repository  on GitHub.com in entirety, device when I think or say “Clear” or “Lose”, “system speech” and a reference to an object, device or entity, if there isn’t a referenced object, the referenced object is the device itself, also optionally, there may be a topic  to lose the system speech on, referring to, or made by, on the device referenced, and end the phrase with “and confirm,” set and confirm
+… Clears the representation of the referenced system speech on, referring to or by or made through the referenced object, optionally about a topic, which isn’t a direct reference to the conversationserverstandards repository  on GitHub.com in entirety, device when I think or say “Clear” or “Lose”, “system speech” and a reference to an object, device or entity, if there isn’t a referenced object, the referenced object is the referring device to the conversationserverstandards repository being used itself, also optionally, there may be a topic  to lose the system speech on, referring to, or made by, on the device referenced, and end the phrase with “and confirm,” set and confirm
 
 — System Commands —
 
