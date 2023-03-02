@@ -440,7 +440,7 @@ I’m going/goin’ to my home zone… is always given as a system command, with
 
 Share… with/to… both in an offer for the sharing of previously interacted with system speech by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user
 
-Spec... stacks the user or referenced user or mapping which the provisions permit or system or device on the best and most natural and authentic for the user, and/or unstacks the user, users, system, systems, device, devices, mapping, mappings, of all the maladaptive or impeding or both, system speech the user is authorized to to achieve the objective or objectives mentioned or referenced on the phrase, if starting a system command, or alternatively, ending a phrase with the phrase spec and the initial confirmation
+Spec... stacks the user or referenced user or mapping which the provisions permit or system or device on the best and most natural and authentic for the user, and/or untracks the tracking and tracked of and then, if stacking or stacked on of, unstacks the user, users, system, systems, device, devices, mapping, mappings, of all the maladaptive or impeding or both, system speech the user is authorized to to achieve the objective or objectives mentioned or referenced on the phrase, if starting a system command, or alternatively, ending a phrase with the phrase spec and the initial confirmation
 
 Clustering and Extending System Commands
 
