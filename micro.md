@@ -81,7 +81,7 @@ Clear The Definitions:
 … Clears the representation of the referenced definition or definitions by the nearest endpoint or waypoint or server in the inheritance chain on the device when I think or say “Lose” or “Clear”, “definition” or “definitions” and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
 
 Clear The System Speech:
-… Clears the representation of the referenced system speech on, referring to or by or made through the referenced object, optionally about a topic, which isn’t a direct reference to the conversationserverstandards repository  on GitHub.com in entirety, device when I think or say “Clear” or “Lose”, “system speech” and a reference to an object, device or entity, if there isn’t a referenced object, the referenced object is the device itself, also optionally, there may be a topic  to lose referenced, and end the phrase with “and confirm,” set and confirm
+… Clears the representation of the referenced system speech on, referring to or by or made through the referenced object, optionally about a topic, which isn’t a direct reference to the conversationserverstandards repository  on GitHub.com in entirety, device when I think or say “Clear” or “Lose”, “system speech” and a reference to an object, device or entity, if there isn’t a referenced object, the referenced object is the device itself, also optionally, there may be a topic  to lose the system speech on, referring to, or made by, on the device referenced, and end the phrase with “and confirm,” set and confirm
 
 — System Commands —
 
