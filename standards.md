@@ -448,7 +448,7 @@ Attach... When given starting a system command, attaches a resource if the resou
 
 Unattach... When given starting a system commands, unattaches a resource from the locally available resources to the cluster which the user is authorized to do so with by the resource’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity, and tells you how much less effectively a previous server interaction could be done now
 
-Extend to… when given starting a system command, extends the server to a device or software to do what will be intended to be done by the server by the user which the user is authorized to do so with by the device’s and software’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity and notifies the user if the extending expands functionality of the server and how with a broad overview of new functionality
+Extend to… when given starting a system command, extends the server for an hour to a device or software to do what will be intended to be done by the server by the user which the user is authorized to do so with by the device’s and software’s and the server’s or the endpoint’s or the waypoint’s involved’s owning or managing or governing entity and notifies the user if the extending expands functionality of the server and how with a broad overview of new functionality
 
 Stop/cease extending to/of… when given starting a system command, ceases the servers extending to a devices and software and the server’s or the endpoint’s or the waypoint’s involved’s which the user is authorized to do so with by the device’s or software’s owning or managing or governing entity the server has extended to
 
