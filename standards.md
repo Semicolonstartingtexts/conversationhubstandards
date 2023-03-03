@@ -464,16 +464,15 @@ Setup System Commands
 
 Add a server called… stacks a definition of the server or relay depending on the phrase, inheriting from the waypoint if the requester is an administrator or owner of the waypoint and is on a server on a waypoint, or endpoint if the requester is an administrator or owner of the endpoint is on a server on an endpoint, on the respective waypoint or endpoint with the name described in the phrase, and sets the owner of the server to the requester unless requesting on another user’s behalf then to the other user if starting a system command
 
-Add a segment called… for… adds a uniquely not actual not fictional named segment to the endpoint or waypoint for the criteria of users described and designates the owner of the endpoint or waypoint as the owner of the segment, if starting a system command given by an owning, managing or governing entity of the system
+Add a segment called… for… adds a uniquely generated not actual or fictional named segment to the endpoint or waypoint for the criteria of users described and designates the owner of the endpoint or waypoint as the owner of the segment, if starting a system command given by an owning, managing or governing entity of the system
 
-Add a segment called… for… on… adds a uniquely not actual not fictional named segment on the endpoint or waypoint described for the criteria of users described and designates the owner of the endpoint or waypoint as the owner of the segment, if starting a system command given by an owning, managing or governing entity of the system the segment is being added to
+Add a segment called… for… on… adds a uniquely generated not actual or fictional named segment on the endpoint or waypoint described for the criteria of users described and designates the owner of the endpoint or waypoint as the owner of the segment, if starting a system command given by an owning, managing or governing entity of the system the segment is being added to
 
 Clear the segment… moving… to… clears a segment from an endpoint or waypoint taking the users described to the segments described, if starting a system command given by an owning, managing or governing entity of the system
 
 Clear the segment… and hang up clears a segment from an endpoint or waypoint hanging up on the users, if starting a system command given by an owning, managing or governing entity of the system
 
 Add a node to … stacks a definition of the node inheriting from and stacked on the waypoint if the requester is an administrator or owner of the waypoint and is on a server on a waypoint, or endpoint if the requester is an administrator or owner of the endpoint is on a server on an endpoint, on the respective waypoint or endpoint referenced in the phrase if owned by the owner, and sets the owner of the node to the requester unless requesting on another user’s behalf then to the other user if starting a system command
-
 
 Point the waypoint/endpoint/node to the … server, if starting a system command and if the requester is an administrator or owner of the involved endpoint or waypoint or node and is authorized to point to the server, updates the waypoint or endpoint or node’s definition to point to the named server for what is considered the server by the waypoint or endpoint or node
 
