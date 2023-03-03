@@ -19,6 +19,9 @@ The server listens to and tracks for the right amount of time what the user hear
 # Listens for what’s best for those who matter to me and what matters to them
 The server listens to and tracks for the right amount of time what the user hears which is best for users which matter to the user which matters to the users except for what is asked with the Info Gesture and Ask… System Commands when and while the user says or thinks the server or system is listening for what’s best for those who matter to me which matters to me and them until the user says or thinks the server or server isn’t listening or the server or system isn’t listening for what’s best
 
+# First Aid System Commands And Interactions Honor Advance Directives
+In interactions with the system, first aid system commands and interactions honor the user’s advance directives registered with their primary care entity
+
 # Remaking provisions
 People remade by the server come back as the person they were and are the latest they woke up before they died, at the nearest municipality morgue to the residential address registered with the state, with a decent amount of clearance on all sides for both parties and having been a comfortable amount of clearance on all sides and in the area for a thirty one minutes prior, queueing up additional people bound for the same destination for an additional thirty minute queued time extension, if the intended space is to be occupied by multiple people when an attempt to remake is initiated with the longest waiting person taking priority in the queue and come back without stacked or tracked system talk
 
