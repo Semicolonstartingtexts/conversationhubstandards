@@ -354,6 +354,8 @@ Lose the way/ways... following with a phrase describing ways or the way to unsta
 
 Declaring System Commands
 
+I confirm, by a user without additions to the phrase, at any time after hearing a phrase confirms the phrase for the user as the user’s most recent confirmed phrase
+
 Join… the/those… phrases… if given within a system command combines the phrases referenced as described
 
 Amend… with… if given as a system command and a reference to a stacked system speech phrase is made adds the phrase which is described by what follows the word with to the end of the stacked conversation referenced, if exact wording is given then to the exact words given for the part of the phrase which is intended to be amended
