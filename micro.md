@@ -45,7 +45,7 @@ Set Definitions Of The System:
 … Only set a definition of the system for on the endpoint or waypoint or imbuing or extended to device, whichever I’m using, if I’m the owner or an authorized person by the owner or person authorized to authorize people to define definitions of the system, to extend to the interactions with other systems and with others from phrases I say or think or type containing define and confirm at the end of the phrase, set and confirm
 
 Perform System Commands:
-… Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferring for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say or type a phrase referencing the system command and end the phrase in … and confirm, set and confirm
+… Performs the referenced system command the endpoint or waypoint or server in the inheritance chain has a preferring for or has been provisioned in the standards.md from the Conversation Server Standards repository, when I think or say or type a phrase referencing the system command and end the phrase in … and confirm though when gestures are used, the phrases aren’t required to end in the phrase … and confirm to perform the associated system command, set and confirm
 
 I Confirm:
 … Confirms the phrase or phrases I focused on most recently before saying or thinking or typing the phrase I confirm, set and confirm
