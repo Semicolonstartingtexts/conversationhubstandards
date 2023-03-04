@@ -79,7 +79,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Stacking, Tracking, Mappings
+Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -242,7 +242,9 @@ Changelog, a user’s past changes and other user’s changes for the user are a
 
 Activity, all the system speech which is tracking for the user which is above or below the priority of the Conversation Server Standards but within the authorization of the user to make changes to, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s activity
 
-Mandates, all the system speech which is tracking for the user which is above or below the priority of the Conversation Server Standards and is outside the authorization of the user to make changes to, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s mandates
+Mandates, all the system speech which is tracking for the user which is above or below the priority of the Conversation Server Standards and is outside the authorization of the user to make changes to and is in the interactions of the user and the user’s own self or the user and other users in general, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s mandates
+
+Affect, all the system speech which is tracking for the user which is above or below the priority of the Conversation Server Standards and is outside the authorization of the user to make changes to and is in the interactions of the user and the other users in specific, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s mandates
 
 History, all the user’s previous system command and system speech interactions by the user
 
