@@ -137,7 +137,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
@@ -482,13 +482,13 @@ Allow access to/on/for… for… adjusts the definition of the endpoint, waypoin
 
 Restrict access to/on/for… for… adjusts the definition of the endpoint, waypoint, server or segment or node referenced to restrict specific criteria of users in a way which isn’t inherited if given starting a system command
 
-Set the top-level inherited provisions for… to be… if starting a system command sets the top-level provisions which are inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server in a way which is inherited if starting a system command
+Set the top-level inherited provisions for… to be… if starting a system command sets the top-level provisions which are inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which is inherited if starting a system command
 
 Set the top-level private provisions for… to be… if starting a system command sets the top-level provisions which aren’t inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which isn’t inherited
 
-Adjust the top-level inherited provisions of… to/so… if starting a system command adjust the top-level provisions which are inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which is inherited and meets the criteria specified
+Adjust the top-level inherited provisions of… so/so that/to be/to… if starting a system command adjust the top-level provisions which are inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which is inherited and meets the criteria specified
 
-Adjust the top-level private provisions of… to/so… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which isn’t inherited and meets the criteria specified
+Adjust the top-level private provisions of… so/so that/to be/to… if starting a system command adjust the top-level provisions which aren’t inherited for an endpoint, waypoint or server or segment in the definition of the endpoint, waypoint or server or segment in a way which isn’t inherited and meets the criteria specified
 
 Suspend… and an endpoint or endpoints or waypoint or waypoints, when starting a system command, suspends the definition of the user’s self owned or approved of by the owner to suspend, endpoint or endpoints or or waypoint or waypoints and the server or servers referenced or all servers on an endpoint or waypoint or waypoints or endpoints and cancels the node or nodes stacked on when the endpoint or waypoints is said to be suspended after performing the hangup reserved system command for and on all users on the servers of the endpoint or waypoint or referenced server declining contacting, joining, even currently joined, nodes being joined or joining with the stacked on nodes of the endpoint or waypoints, and connections, both incoming and outgoing, and system commands while a server is being suspended and while a server is suspended and the users active calls ending until the time the server or node is resumed or endpoint or waypoints’ servers and nodes are resumed is which they hold an owner role of the system or systems and also what’s stacked on the endpoint or waypoints or server
 
