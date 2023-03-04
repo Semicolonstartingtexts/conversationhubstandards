@@ -118,7 +118,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
