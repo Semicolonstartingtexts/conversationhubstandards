@@ -240,7 +240,7 @@ Shelving, shelved system speech in libraries doesn’t have effects applied in i
 
 Changelog, a user’s past changes and other user’s changes for the user are automatically stacked, and untracked whenever the change doesn’t apply anymore, and may be unstacked, untracked, or cleared, by the user, in a specific set, called a changelog, separate from the rest of a user’s intentions and comments which are linked to the other user’s intention and unstack, untrack, and clear when the intention is unstacked, untracked or cleared, but the comments may also be unstacked by a user for the application of effects applied respective to them
 
-Activity, all the system speech which is, but aren’t the exact descriptions themselves contained in the Conversation Server Standards, tracking for the user, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s activity
+Activity, all the system speech which is tracking, but aren’t the words contained in the Conversation Server Standards themselves, for the user, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s activity
 
 History, all the user’s previous system command and system speech interactions by the user
 
