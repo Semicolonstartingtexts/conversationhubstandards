@@ -101,7 +101,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Change the … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferrings…, Clear … consent for…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Change the … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, …Adjust/change the… preferring…, Clear … consent for…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 Lobby-Bound System Commands
 
@@ -316,10 +316,9 @@ Set … abandon to/as… if starting a system command stacks the user on a uniqu
 
 Alias… as… if starting a system command sets a preferring for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
 
-Clear … preferrings… if starting a system command clears the preferring or preferrings set by an Alias… as… or a set … confirmation… system command or another preferring which got stacked or tracked which isn’t a consent preferring, unstacking if stacked, depending on what is described in the phrase by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious for the specified user if the user is allowed to
+…Adjust/change the… preferring… following or preceding with a phrase describing a preferring to be adjusted and an adjustment or adjustments for the preferring if starting a system command adjusts the referenced preferring on the user in the way or ways described
 
 Clear … consent…/remove … consent… clears the consent related preferring or preferrings, specifically if mentioned specifically, set by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious for the specified user if the user is allowed to
-
 
 Set... Welcome message to... If given starting a system command, lets users which are taken to the lobby or connect to the lobby, which haven’t heard the welcome message, notice a welcome message from the owner or administrator or moderator of the server
 
