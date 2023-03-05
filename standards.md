@@ -43,13 +43,13 @@ Comments and Definitions Of The User By Other Users
 
 Preferring Hierarchy
 
-Preferrings Of Governing and Regulating Entities Of The System
+Preferrings Of Governing Entities Of The System
 
 Preferrings Of Managing Entities Of The System
 
 Preferrings Of Owning Entities Of The System
 
-Preferrings Of Approved By The Owner For A Role Other Than User
+Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
 
 Preferrings Of The User If The User Isn’t An Above Entity
 
