@@ -27,7 +27,9 @@ The below priorities can’t be elevated in priority to be above the Conversatio
 
 Provisions and Definitions Of The System
 
-Preferrings
+Preferrings by the User
+
+Preferrings by Other Users
 
 System Commands
 
