@@ -8,15 +8,15 @@ The below priorities can’t be elevated in priority to be above the Conversatio
 
 Provisions and Definitions Of The System
 
-Preferrings And Definitions Of The User
+Preferrings
 
 System Commands
 
-Ways and Definitions Of The Users’ Interactions
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentions and Imbuings and Definitions of Property
+Commands and Definitions Of The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
@@ -52,7 +52,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Imbuing, Provisions, Preferrings, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -60,7 +60,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Stacking, Tracking, Mappings
+Preferrings, Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -82,7 +82,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Change the … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, …Adjust/change the… preferring…, Clear … consent for…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Change the … to … mode…, Alias… as…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 Lobby-Bound System Commands
 
@@ -98,7 +98,7 @@ Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend�
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
+Send a message to…, Replay the last message…, Reply with…
 
 Sets System Commands
 
