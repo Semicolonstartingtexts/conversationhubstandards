@@ -41,9 +41,6 @@ Repeat for each title below the phrase “the referencing endpoint or waypoint o
 
 — Basic Interactions —
 
-Set Preferrings:
-… Only set a preferring for a system command or otherwise from phrases I think or say or type containing set and confirm at the end of the phrase, set and confirm
-
 Set Definitions Of The System:
 … Only set a definition of the system for on the endpoint or waypoint or imbuing or extended to device, whichever I’m using, if I’m the owner or an authorized person by the owner or person authorized to authorize people to define definitions of the system, to extend to the interactions with other systems and with others from phrases I say or think or type containing define and confirm at the end of the phrase, set and confirm
 
@@ -67,9 +64,6 @@ Listening To Me Through My Device:
 
 — Clearing —
 
-Clear The Preferrings:
-… Clear the representation of the preferrings  on the referenced object when I think or say or type “Lose” or “Clear”, “all the preferrings” and “and, confirm”, a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, on the referring device, set and confirm
-
 Clear The Context:
 … Clear the representation of the preferrings  on the referenced device, or the referring device to the conversationserverstandards repository being used itself, if none is, which aren’t structure forming or are extraneous when I think or say or type “Clear the context, and confirm”, set and confirm
 
@@ -78,9 +72,6 @@ Clear The Structure:
 
 Clear To The Base Structure:
 … Clear the representation of the preferrings and definitions on the referenced device, if none is, the device itself is the referenced device, which don’t involve the conversation server repository in entirety without a forking of the repository involved when I think or say or type “Clear to the base structure, and confirm”, set and confirm
-
-Clear A Preferring:
-… Clear the representation of the referenced preferrings or preferring on the referenced object on the device when I think or say or type “Clear” or “Lose”, “preferring” or “preferrings” and a reference to a preferring or some preferrings but less than all and a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, and end the phrase with “and confirm,” set and confirm
 
 Clear The Definitions:
 … Clears the representation of the referenced definition or definitions on the referenced object when I think or say or type “Lose” or “Clear”, “definition” or “definitions”, a reference to an object, if none is referenced, the referring device to the conversationserverstandards repository being used itself is the referenced object, and a reference to a definition or some definitions but less than all and end the phrase with “and confirm,” set and confirm
