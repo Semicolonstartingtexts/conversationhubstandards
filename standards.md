@@ -35,11 +35,25 @@ Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A 
 
 Confirmed Phrase and Confirmed Phrases
 
-Commands and Definitions Of The User and Imbuings and Definitions of Property
+Commands and Definitions Of The User By The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
-Comments
+Comments and Definitions Of The User By Other Users
+
+Preferring Hierarchy
+
+Preferrings Of Governing and Regulating Entities Of The System
+
+Preferrings Of Managing Entities Of The System
+
+Preferrings Of Owning Entities Of The System
+
+Preferrings Of Approved By The Owner For A Role Other Than User
+
+Preferrings Of The User If The User Isn’t An Above Entity
+
+Preferrings Of The Other Users If The Other User Isn’t An Above Entity
 
 Role Hierarchy
 
@@ -191,6 +205,10 @@ Interactions, applicable with an apply system command only may be a reserved sys
 before initiating an attempt, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time, in interactions where past events are changed the relevant users stack the change as a comment and the user stacks the change as an intention in their changelog
 
 System Setup
+
+Inheriting, referring to the definition of the system of a system in the definition of the system of the system
+
+Managing Entity, the entity the inheriting system is  inheriting from in the inheritance chain for the definition of the system
 
 Preferrings, representations of how the user prefers to be interacted with tracked automatically by the system or by the user’s own self or other users and are changed naturally and only by the user’s own self through explicit and implicit consideration and expression, never system commands
 
