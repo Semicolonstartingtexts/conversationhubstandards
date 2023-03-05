@@ -51,7 +51,13 @@ Preferrings Of Owning Entities Of The System
 
 Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
 
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
+
 Preferrings Of The User If The User Isn’t An Above Entity
+
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User
+
+Preferrings Of The Current Family, Current Friends And Current Significant Other Of The User
 
 Preferrings Of The Other Users If The Other User Isn’t An Above Entity
 
