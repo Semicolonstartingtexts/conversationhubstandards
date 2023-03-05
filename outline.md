@@ -16,11 +16,31 @@ Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A 
 
 Confirmed Phrase and Confirmed Phrases
 
-Commands and Definitions Of The User and Imbuings and Definitions of Property
+Commands and Definitions Of The User By The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
-Comments
+Comments and Definitions Of The User By Other Users
+
+Preferring Hierarchy
+
+Preferrings Of Governing Entities Of The System
+
+Preferrings Of Managing Entities Of The System
+
+Preferrings Of Owning Entities Of The System
+
+Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
+
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
+
+Preferrings Of The User If The User Isn’t An Above Entity
+
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User
+
+Preferrings Of The Current Family, Current Friends And Current Significant Other Of The User
+
+Preferrings Of The Other Users If The Other User Isn’t An Above Entity
 
 Role Hierarchy
 
@@ -35,8 +55,6 @@ Owner of the Relay of the Server
 Administrator
 
 Moderator
-
-Stoplead
 
 User
 
@@ -118,7 +136,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Clear the segment… moving… to…, Clear the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
