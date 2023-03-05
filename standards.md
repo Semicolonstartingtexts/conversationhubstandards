@@ -35,7 +35,7 @@ Ways and Definitions Of The Users’ Interactions On A Mapping
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentions and Definitions Of The User and Imbuings and Definitions of Property
+commands and Definitions Of The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
@@ -71,7 +71,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Imbuing, Provisions, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+commands, Comments, Imbuing, Provisions, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -165,7 +165,7 @@ System Speech
 
 System speech may be in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
 
-Intentions, the conversation that has been had or being had by a user with a representation of the intention the user had for the conversation, may be stacked on the user with by ending the phrase with the word set followed by the user’s confirmation
+Commands, the conversation that has been had or being had by a user with a representation of the intention the user had for the conversation, may be stacked on the user with by ending the phrase with the word set followed by the user’s confirmation
 
 Comments, the conversation that has been had or is being had with the user with a representation of the intention of a user which isn’t the user’s own self and which the conversation was had or is had with
 
@@ -177,7 +177,7 @@ Ways, the stacked conversation which convincingly limits or enhances any user wh
 
 Confirmed Phrase and Confirmed Phrases, the most recent phrase made by a user which aren’t stacked and have been confirmed by a user in the user interactions for the user and users relevant to the interaction if the mapping’s provisions permit, a user is always stacked on the most recent confirmed phrase by the user for the user unless explicitly or generally unstacked, and what the confirmed phrase refers to within the user’s scope of authorization
 
-Sets, groups of stacked intentions for the user which can be swapped out in full, have phrases added to and removed from, built from specific phrases, or stacked and unstacked as a whole
+Sets, groups of stacked commands for the user which can be swapped out in full, have phrases added to and removed from, built from specific phrases, or stacked and unstacked as a whole
 
 Definitions, any phrase which references an endpoint or waypoint or server or node or relay specifically, directly or indirectly, or the effects of an endpoint or waypoint or server, definitions of users’ interactions are only able to be stacked on zones and moderators when made by roles other than owners and administrators of the server, endpoint or waypoint, and can be defined and stacked relevant to their needed scope’s system speech category’s provisioned proper stacking mappings, systems, or the user if the user matches with the role, if the user is lacking in proper authorization requisite to stack the definition, the user notices if the user is be defining through the system and defining and stacking isn’t attempt initiated, for their purpose by ending a phrase with the word define followed by the user’s confirmation
 
@@ -238,7 +238,7 @@ Abandon, a word that abandons the system command from applying as a system comma
 
 Shelving, shelved system speech in libraries doesn’t have effects applied in interactions between the user and other users or the user or other role’s self while shelved and the user is on a mapping until stacked again on the user which takes the system speech off the shelf by stacking the system speech on the user if a user or other role’s self chooses to do so, and a shelved user skips interacting with the server beyond the hangup reserved system command or deshelving by a user self
 
-Changelog, a user’s past changes and other user’s changes for the user are automatically stacked, and untracked whenever the change doesn’t apply anymore, and may be unstacked, untracked, or cleared, by the user, in a specific set, called a changelog, separate from the rest of a user’s intentions and comments which are linked to the other user’s intention and unstack, untrack, and clear when the intention is unstacked, untracked or cleared, but the comments may also be unstacked by a user for the application of effects applied respective to them
+Changelog, a user’s past changes and other user’s changes for the user are automatically stacked, and untracked whenever the change doesn’t apply anymore, and may be unstacked, untracked, or cleared, by the user, in a specific set, called a changelog, separate from the rest of a user’s commands and comments which are linked to the other user’s intention and unstack, untrack, and clear when the intention is unstacked, untracked or cleared, but the comments may also be unstacked by a user for the application of effects applied respective to them
 
 Activity, all the system speech which is tracking for the user which is above or below the priority of the Conversation Server Standards but within the authorization of the user to make changes to, in terms of the user’s interactions with themselves and the other users interacting with the user, are automatically stacked and unstacked in a specific set of system speech called the user’s activity
 
