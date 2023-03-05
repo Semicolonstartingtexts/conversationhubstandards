@@ -27,15 +27,15 @@ The below priorities can’t be elevated in priority to be above the Conversatio
 
 Provisions and Definitions Of The System
 
-Preferrings And Definitions Of The User
+Preferrings
 
 System Commands
 
-Ways and Definitions Of The Users’ Interactions
+Ways and Definitions Of The Users’ Interactions On A Mapping
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentions and Imbuings and Definitions of Property
+Intentions and Definitions Of The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
@@ -101,7 +101,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Change the … to … mode…, Set a preferring…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, …Adjust/change the… preferring…, Clear … consent for…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Change the … to … mode…, Alias… as…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 Lobby-Bound System Commands
 
@@ -117,7 +117,7 @@ Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend�
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
+Send a message to…, Replay the last message…, Reply with…
 
 Sets System Commands
 
@@ -173,7 +173,7 @@ Imbuing, stacking on, or tracking conversation or a signifier or multiple signif
 
 Provisions, the conversation which governs the interactions between the users of the system and the system, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator or owner of the system
 
-Preferrings, representations of the user’s own intentions of how the server’s, endpoint, waypoint, node, relay or the user’s own self’s interacts with the user’s own self, set and stacked only by the user and only on the user, or on a mapping, if the mapping’s provisions permit, preferrings, can’t be unstacked or cleared except for consent preferrings by a user’s own self or those which have the legal right to sign any legal contract regarding the user and must be adjusted or changed to be changed by the system unless otherwise preferringed by a user’s own self and never adjusted, changed, unstacked or cleared or set for the user by other users than a user’s own self and are changed naturally and only by the user’s own self through explicit and implicit consideration and expression when stacked on or set by a user on their own self
+Preferrings, representations of the user’s own intentions of how the server’s, endpoint, waypoint, node, relay or the user’s own self’s interacts with the user’s own self or other users, tracked automatically, never stacked on other than a mapping, if the mapping’s provisions permit, and are changed naturally and only by the user’s own self through explicit and implicit consideration and expression
 
 Ways, the stacked conversation which convincingly limits or enhances any user which is in the zone’s interactions with the other users which are in the zone the user in, may only be stacked on mappings and roles which permit ways to be stacked, and aren’t allowed to be intending to the source of physically harm, hurt, injury, pain, decline in health or overabundance of health beyond a user preferred threshold defaulting to a threshold of comfort ensured, to render unconscious, comatose, deceased or to suppress or limit the consciousness of, a user, or enhance or limit in such a way as to be hindering of the conscious independence of a user, or the limit the ability to communicate independently and to do so without alteration from the intended independently generated intent for the user’s own communication being the message communicated through whichever medium the message is communicated
 
@@ -252,7 +252,7 @@ Stacking, safely storing system speech with a representation of the intention of
 
 Tracking, the application of effects applying and interacting at the current moment in the interactions of a user with the user in a mapping with the user, the system speech, to be system speech, with the provisions and the application of effects applicable applying as the provisions permit for system speech, to be stacked or otherwise and the effects applicable from the system speech when and where and to whomever the effects are applicable permitted to be applying application of effects applicable in interactions with others interacting with a user in and out of a mapping and the user interacting with the user’s self in and out of a mapping, individually and respectively with the application of effects applicable from system speech staying individual and respective and applicable for others affected when application of effects applicable isn’t unlawful still, and isn’t allowed to be contrary to the Semicolonstartingtexts/conversationserverstandards repository’s main branch’s micro.md, standards.md and communityprovisions.md’s on GitHub.com’s files’ contents from the current version of the repository, without expansion, redaction or alteration, through system speech which is tracked, when referencing the repository without referencing a specific branch, the main branch is referenced, or may be by others which consent still and for whomever interacting with the application of effects applicable isn’t unlawful to have the application of effects applicable applying to themselves and the affected interactions of theirs, and if the application of effects applicable is with an object, the interacting application of effects applicable aren’t allowed to be manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer disapproved of user or server or endpoint or relay or waypoint or node or system speech interactions, and in intention and in focus
 
-Mappings, networks of users with preferring and/or ways able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned or zone bound or user preferred system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned or zone bound or user preferred system commands which the server provisions allow
+Mappings, networks of users with preferrings and/or ways able to be stacked on the mapping or by users in the mapping when and how server provisions permit created through the permitting reserved or server provisioned or zone bound or user preferred system commands or provisions, with users interactions between or with through the server restricted to permitted reserved or server provisioned or zone bound or user preferred system commands which the server provisions allow
 
 Relaypoint, any attached resource or attached relaypoint or resource which has a direct route by way of network connectivity to the endpoint and associated backend
 
@@ -308,32 +308,15 @@ Undesignate… as a… stops the user described after the word undesignate but b
 
 Interfacing System Commands
 
-Change the … to … mode… starting a system command, sets the server referenced or server the user is on if none is referenced, to public or private mode, whichever of the two is described, if the user is an administrator or owner of the server and the mode isn’t already the one referenced
-
-Set a preferring… following with a phrase describing a preferring to be set if starting a system command stacks the user on the preferring, alternatively, the set a preferring… system command may be a phrase ending in set and the initial confirmation which does or doesn’t begin with set a preferring…
-
-Set … initiation to/as… if starting a system command, stacks the user on a unique preferring for a custom initiation unstacking previously stacked initiation preferrings for a word or phrase to be used as the user’s initiation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
-
-Set … confirmation to/as… if starting a system command stacks the user on a unique preferring for a custom confirmation, unstacking previously stacked confirmation preferrings for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
-
-Set … abandon to/as… if starting a system command stacks the user on a unique preferring for a custom abandon, unstacking previously stacked abandon preferrings for a word or phrase to be used as the user specified’s abandon for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
-
-Alias… as… if starting a system command sets a preferring for a word or phrase to refer to another phrase or word, specifically what follows Alias until as to what follows the word as in the phrase
-
-…Adjust/change the… preferring… following or preceding with a phrase describing a preferring to be adjusted and an adjustment or adjustments for the preferring if starting a system command adjusts the referenced preferring on the user in the way or ways described
-
-Clear … consent…/remove … consent… clears the consent related preferring or preferrings, specifically if mentioned specifically, set by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious for the specified user if the user is allowed to
+Change the … to … mode… starting a system command, sets the server referenced or server the user is on if none is referenced, to public or private mode, whichever of the two is described, if the user is an administrator or owner of the server and the mode isn’t already the one referencedy
 
 Set... Welcome message to... If given starting a system command, lets users which are taken to the lobby or connect to the lobby, which haven’t heard the welcome message, notice a welcome message from the owner or administrator or moderator of the server
 
 Set... Welcome message for... To... If given starting a system command, lets users which are taken to the lobby or connect to the lobby, which haven’t heard the welcome message and meet the mentioned criteria, notice a welcome message from the owner or administrator or moderator of the server
 
-
 Clear welcome messages/clear all welcome messages... If given starting a system command, clears all welcome messages
 
-
 Clear welcome message for... If given starting a system command, clears a particular referenced welcome message by the phrase or multiple referenced welcome messages by the phrase
-
 
 Lobby-Bound System Commands
 
@@ -399,8 +382,6 @@ Replay the last message… when given as a system command, lets the user notice 
 
 Reply with… and a message to reply with ending in send and a second or more of a pause after receiving a message sent through the system but thinking of either an aspect of the message or the person, sends a message to the sending user of the message received’s own self in the same way as the send a message to system command but with an updated timestamp for the reply’s sent time, but doesn’t send the message if the message ends in the user’s abandon
 
-Set … messaging confirmation to/as… if starting a system command stacks the user on a unique preferring for a custom send a message and reply with reserved system command confirmation, unstacking previously stacked confirmation preferrings for a word or phrase to be used as the user specified’s confirmation for giving a system command by the user, or by a parent, legal guardian, either, for a user and the user is under 18 or by a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious if the user is allowed to
-
 Sets System Commands
 
 Build a set/loadout with/from… called/named/as… with some number of intentions described between the with/from and called/named/as parts of the phrase uniquely, in terms of the system speech and matching intentions, saves the system speech as a set with a name for the user when the phrase is given starting a system command
@@ -455,7 +436,7 @@ Extend to… when given starting a system command, extends the server for an hou
 
 Stop/cease extending to/of… when given starting a system command, ceases the servers extending to a devices and software and the server’s or the endpoint’s or the waypoint’s involved’s which the user is authorized to do so with by the device’s or software’s owning or managing or governing entity the server has extended to
 
-Generate system commands for/which/to/that/with… for/which/that/to/with… when given starting a system command, generates system commands as preferrings stacked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
+Generate system commands for/which/to/that/with… for/which/that/to/with… when given starting a system command, generates system commands as preferrings tracked on the user initiating the system command matching the criteria specified for the manufacturer, regulating agency, contractual obligation, licensing, publisher, owning entity, managing entity, user and developer approved user interactions asked for in the generate system commands for… for/which/that… system command, using the node of interactivity specified in the generate system commands for… for/which/that… system command, which the server has been extended to if and while the server is extended to the node of interactivity
 
 Setup System Commands
 
@@ -531,11 +512,11 @@ Initial Consent System Commands
 
 Consent System Commands
 
-I consent/Opt-in/Yes/Yeah/Okay/I’m down/I’m up for/Sure/I agree/I accept if in response to an offer for an application of effects applicable will have the server consider consent is given and the I consent system command has been given, without having to give a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, all consent is stacked as preferrings when opting in
+I consent/Opt-in/Yes/Yeah/Okay/I’m down/I’m up for/Sure/I agree/I accept if in response to an offer for an application of effects applicable will have the system consider consent is given and the I consent system command has been given, without having to give a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
 
-Opt in to/opt back in to/I consent to/… followed by something you have revoked consent to or can consent to in regards to the application of a specific set of effects applicable, will have the server consider consent is given for the application of a specific set of effects applicable, consent can only be given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, all consent is stacked as preferrings when opting in
+Opt in to/opt back in to/I consent to/… followed by something you have revoked consent to or can consent to in regards to the application of a specific set of effects applicable, will have the system consider consent is given for the application of a specific set of effects applicable, consent can only be given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
 
-Opt out of/I revoke consent for/I revoke prior consent to/I revoke prior consent for… followed by something you have, or can consent to regarding the server, will revoke prior consent given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, relevant consent is unstacked when opting out, then the opt out for the consent is stacked as a preferring, to opt out of the Conversation Server Standards or community provisions or micro is to opt out of the containing repository’s use in full
+Opt out of/I revoke consent for/I revoke prior consent to/I revoke prior consent for… followed by something you have, or can consent to regarding the system, will revoke prior consent given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of effects applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, to opt out of the Conversation Server Standards or community provisions or micro is to opt out of the containing repository’s use in full
 
 Connection & Joining Requests
 
