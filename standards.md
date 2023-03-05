@@ -165,7 +165,7 @@ System Speech
 
 System speech may be in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition or have shared definitions to the phrase’s words
 
-Intentions, the conversation that has been had or being had by a user with a representation of the intention the user had for the conversation
+Intentions, the conversation that has been had or being had by a user with a representation of the intention the user had for the conversation, may be stacked on the user with by ending the phrase with the word set followed by the user’s confirmation
 
 Comments, the conversation that has been had or is being had with the user with a representation of the intention of a user which isn’t the user’s own self and which the conversation was had or is had with
 
