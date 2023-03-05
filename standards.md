@@ -131,7 +131,7 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
@@ -391,6 +391,8 @@ Unstack… and leave… if starting a system command, unstacks the described sys
 Untrack… and leave… if starting a system command, untracks the described system speech tracking for the user and the leaves system speech described as a representation of the intention, stored by the system in the system, described stacked as a command on the user’s self and comments on relevant users
 
 Untrack and unstack… and leave… if starting a system command, untracks what’s tracking and stacked for the user relevant then unstacks the described system speech tracking for the user and the leaves system speech described as a representation of the intention, stored by the system in the system, described stacked as an intention on the user’s self and comments on relevant users
+
+Clean up… followed by a reference to some system speech, if starting a system command, does the best for the user and other users, most authentic and natural choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, clear the representation of…, adjust… system commands as options for cleaning the user of the unwanted system speech on the user or referenced user, system, or mapping, if the mapping provisions permit stacking or tracking system speech on the mapping
 
 Clear the representation of/lose the system speech… clears the representation stored by the system in the system of the described system speech in the phrase from users which the user is authorized to and the library shelves, after the user confirms their intention to do so with a prompted noticing of the categories of system speech which will be cleared and amounts abandoning the system command’s interaction if the user declines at the prompt or performing the clearing upon approval, if starting a system command
 
