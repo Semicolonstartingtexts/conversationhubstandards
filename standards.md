@@ -191,7 +191,7 @@ Imbuing, stacking on, or tracking, conversation or a signifier or multiple signi
 
 Provisions, the definitions of the users’ interactions with the system, stacks ubiquitously on the mappings and stays updated and consistent when changes occur to the provision on any of the mappings and may restrict which users are options for the connecting to the server or being connected to by the server or a user on the server and when the users may be connected, may be stacked, changed and unstacked only by an administrator or owner of the system
 
-Tenets, the definitions of the zone and the system’s interactions with the zone
+Tenets, the definitions of the zone and the definitions of the system’s interactions with the zone
 
 Ways, the definitions of the users’ interactions on the zone which convincingly limits or enhances any user which is in the zone’s interactions with the other users which are in the zone the user in, may only be stacked on mappings and roles which permit ways to be stacked, and aren’t allowed to be intending to the source of physically harm, hurt, injury, pain, decline in health or overabundance of health beyond a user preferred threshold defaulting to a threshold of comfort ensured, to render unconscious, comatose, deceased or to suppress or limit the consciousness of, a user, or enhance or limit in such a way as to be hindering of the conscious independence of a user, or the limit the ability to communicate independently and to do so without alteration from the intended independently generated intent for the user’s own communication being the message communicated through whichever medium the message is communicated
 
