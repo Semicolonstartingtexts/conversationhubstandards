@@ -43,7 +43,7 @@ Comments and Definitions Of The User By Other Users
 
 Preferring Hierarchy
 
-Preferrings Of Governing and Regulating Entities Of The System
+Preferrings Of Governing Entities Of The System
 
 Preferrings Of Managing Entities Of The System
 
