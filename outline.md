@@ -112,7 +112,7 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
