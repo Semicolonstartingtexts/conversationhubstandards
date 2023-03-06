@@ -2,21 +2,45 @@ Detailed Outline of the Conversation Server Standards
 
 System Priorities
 
-Provisions
+Conversation Server Standards
+
+The below priorities can’t be elevated in priority to be above the Conversation Server Standards
+
+Provisions and Definitions Of The System
+
+Preferrings
 
 System Commands
 
-Preferencings
-
-Ways
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone
 
 Confirmed Phrase and Confirmed Phrases
 
-Intentions
+Commands and Definitions Of The User By The User and Imbuings and Definitions of Property
 
 Semicolon Starting SMS Texts
 
-Comments
+Comments and Definitions Of The User By Other Users
+
+Preferring Hierarchy
+
+Preferrings Of Governing Entities Of The System
+
+Preferrings Of Managing Entities Of The System
+
+Preferrings Of Owning Entities Of The System
+
+Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
+
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
+
+Preferrings Of The User If The User Isn’t An Above Entity
+
+Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User
+
+Preferrings Of The Current Family, Current Friends And Current Significant Other Of The User
+
+Preferrings Of The Other Users If The Other User Isn’t An Above Entity
 
 Role Hierarchy
 
@@ -46,7 +70,7 @@ Relay or Node
 
 System Speech
 
-Intentions, Comments, Imbuing, Provisions, Preferencings, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 System Command Speech
 
@@ -54,7 +78,7 @@ Declarations, Interactions
 
 System Setup
 
-Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay,, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Stacking, Tracking, Mappings
+Preferrings, Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -76,7 +100,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Interfacing System Commands
 
-Change the... To... Mode, Set a preferencing…, Set … initiation to/as…, Set … confirmation to…, Set... abandon to/as..., Alias… as…, Clear … preferencings…, Clear … consent for…
+Change the … to … mode…, Alias… as…, Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 Lobby-Bound System Commands
 
@@ -88,11 +112,11 @@ Focus on..., …Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
-Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…,  Untrack… and leave…, Untrack and unstack... and leave..., Clear the representation of…, Clear the library…
+Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clear the representation of…, Clear the library…
 
 Communication System Commands
 
-Send a message to…, Replay the last message…, Reply with…, Set … messaging confirmation to/as…
+Send a message to…, Replay the last message…, Reply with…
 
 Sets System Commands
 
@@ -104,15 +128,15 @@ Heal…
 
 Utility System Commands
 
-Deshelve…, Ask…, I’m going to my home zone…, Share… with…, Spec to...
+Deshelve…, Ask…, I’m going to my home zone…, Share… with…, Spec...
 
 Clustering and Extending System Commands
 
-Attach…, Unattach from…, Utilize…, Stop extending to…, Generate system commands which… for…
+Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system commands which… for…
 
 Setup System Commands
 
-... Setup... Phone/Device As A Waypoint?, ... Setup... Phone/Device As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions to/so…, Adjust the top-level private provisions to/so…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Clear the segment… moving… to…, Clear the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
@@ -120,7 +144,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Contact… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Connect to… with a/the message…, Hangup/Leave…, Join with…, Unjoin from…
 
 Initial Consent System Commands
 
@@ -134,4 +158,4 @@ Connection Requests
 
 Semicolon Starting SMS Texts
 
-Set my app preferencing for semicolon starting SMS texts to…
+Set my app preferring for semicolon starting SMS texts to…
