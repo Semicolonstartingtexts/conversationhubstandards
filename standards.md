@@ -23,7 +23,7 @@ System Priorities
 
 Conversation Server Standards
 
-The below priorities within the system priorities aren't to be elevated in priority to be above the Conversation Server Standards in terms of the system priorities
+The above priorities within the system priorities are elevated in priority below  the below priorities in terms of the system priorities
 
 Provisions and Definitions Of The System
 
