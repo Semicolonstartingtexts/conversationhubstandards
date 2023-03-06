@@ -104,11 +104,11 @@ Change the … to … mode…, Alias… as…, Set ... welcome message to..., Se
 
 Lobby-Bound System Commands
 
-Focus on…, …Command…/…Apply…, Request… of…
+Focus on…, … Command…/… Commands…/… Apply…, Request… of…
 
 Zone-Bound System Commands
 
-Focus on..., …Command…/…Apply…, Request… of…, Make a way..., Lose the way/ways...,
+Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make a way..., Lose the way/ways...,
 
 Declaring System Commands
 
