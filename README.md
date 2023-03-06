@@ -25,7 +25,7 @@ Reading the outline above is sufficient knowledge of the Conversation Server Sta
 
 # Instructions
 
-Use an endpoint, waypoint or server or utilized device to reference the endpoint or waypoint or the effects of the endpoint or server stating “the conversationserverstandards repository on GitHub.com extends to the compatible device I own and I’m interacting with interactions with me, and if I’m the owner of the endpoint or server or waypoint or utilized device, whichever I’m closest to in the inheritance chain, the users connected to the compatible device I own’s interactions with the compatible device while connected to the compatible device,”  that enters micro and can be used to setup a server or be used without a server to run system commands with and confirm, and set what you want and would want to do with set and confirm
+Use an endpoint, waypoint or server or utilized device to reference the endpoint or waypoint or the effects of the endpoint or server stating “the conversationserverstandards repository on GitHub.com extends to the compatible device I own and I’m interacting with’s interactions with me, and if I’m the owner of the endpoint or server or waypoint or utilized device, whichever I’m closest to in the inheritance chain, the users connected to the compatible device I own’s interactions with the compatible device while connected to the compatible device,”  that enters micro and can be used to setup a server or be used without a server to run system commands with and confirm, and set what you want and would want to do with set and confirm
 
 Endpoints are devices which are part of the server’s network despite use of the server, waypoints are device which inherit from the network and can provision and be the base of servers
 
@@ -54,7 +54,7 @@ The community branch contains the expected provision loadout for a server stacke
 # Uninstalling
 
 To uninstall, enter micro by suspending the endpoint or waypoint and use the clean uninstall the repository ability
-
+ 
 # Questions & Issues
 
 The best contact is by email at semicolonstartingtexts@proton.me, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
@@ -65,6 +65,6 @@ Feel free to fork the repository and send pull requests, crowdsourced a lot for 
 
 # License 
 
-Conversation Server Standards v0.4a68
+Conversation Server Standards v0.5a1
 
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine
