@@ -155,7 +155,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Clear the segment… moving… to…, Clear the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Cancel the segment… moving… to…, Cancel the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
@@ -494,9 +494,9 @@ Add a segment called… for… on… adds a uniquely generated not actual or fic
 
 Generate a new segment name… followed by a reference to a segment described in the rest of the phrase without the confirmation, to generate a new not actual or fictional name for the segment, or without one, for the current segment, if the user holds an owner role of the segment, if starting a system command
 
-Clear the segment… moving… to… clears a segment from an endpoint or waypoint taking the users described to the segments described, if starting a system command given by an owning, managing or governing entity of the system
+Cancel the segment… moving… to… cancel a segment from an endpoint or waypoint taking the users described to the segments described, if starting a system command given by an owning, managing or governing entity of the system
 
-Clear the segment… and hang up the segment… clears a segment from an endpoint or waypoint hanging up on the users, if starting a system command given by an owning, managing or governing entity of the system
+Cancel the segment… and hang up the segment… cancel a segment from an endpoint or waypoint hanging up on the users, if starting a system command given by an owning, managing or governing entity of the system
 
 Add a node to … stacks a definition of the node inheriting from and stacked on the waypoint if the requester is an administrator or owner of the waypoint and is on a server on a waypoint, or endpoint if the requester is an administrator or owner of the endpoint is on a server on an endpoint, on the respective waypoint or endpoint referenced in the phrase if owned by the owner, and sets the owner of the node to the requester unless requesting on another user’s behalf then to the other user if starting a system command
 
