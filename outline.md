@@ -78,7 +78,7 @@ Declarations, Interactions
 
 System Setup
 
-Preferrings, Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Warding, Free, Stacking, Tracking, Mappings
+Preferrings, Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Free, Stacking, Tracking, Mappings
 
 System Mappings
 
