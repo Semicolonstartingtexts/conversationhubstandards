@@ -131,7 +131,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
+Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
@@ -389,6 +389,8 @@ Change… to…/adjust… to… changes the phrase part referenced as described 
 Remove… from… and a reference to a, or to a part, of a stacked system speech, is made, what is described by what follows the word remove through to the word from is taken out of the stacked system speech or part of the stacked system speech referenced
 
 Stack… if starting a system command stacks the system speech described as the stacking gesture does on the mentioned mapping or user, or does on the user, all mappings, if a provisioned is mentioned or implied by the content of the phrase, or mapping the user is in, whichever is most appropriate, if either isn’t mentioned as the target for the stacking in the phrase
+
+Offer… options… if starting a system command, adjusts a phrase to offer additional options for a verb or adjective or adverb in the phrase, in the form, word or not word or word and not word, for the verbs, adjectives and adverbs
 
 Track... if starting a system command starts tracking the referenced stacked system speech if the system speech has previously been stopped tracking
 
