@@ -112,7 +112,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Stop tracking…, Stop tracking… and leave…, Stop tracking… and leave…, Untrack and unstack… and leave…, Clean up…, Clean up… and adjust…
+Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
