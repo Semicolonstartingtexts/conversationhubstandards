@@ -388,7 +388,7 @@ Remove… from… and a reference to a, or to a part, of a stacked system speech
 
 Stack… if starting a system command stacks the system speech described as the stacking gesture does on the mentioned mapping or user, or does on the user, all mappings, if a provisioned is mentioned or implied by the content of the phrase, or mapping the user is in, whichever is most appropriate, if either isn’t mentioned as the target for the stacking in the phrase
 
-Offer… options… if starting a system command, adjusts a phrase to offer additional options for a verb or adjective or adverb in the phrase, in the form, word or not word or word and not word, for the verbs, adjectives and adverbs
+Offer… options… if starting a system command, adjusts a phrase to offer additional options for a verb or adjective or adverb in the phrase, in the form, word or not word or word and not word, for the verbs, adjectives and adverbs for the best one of the verbs or adjectives or adverbs in the phrase for the user’s preferrings and intention at the time, or given criteria, if criteria is given
 
 Track... if starting a system command starts tracking the referenced stacked system speech if the system speech has previously been stopped tracking
 
