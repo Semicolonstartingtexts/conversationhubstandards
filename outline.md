@@ -86,7 +86,7 @@ Zone, Lobby, Library
 
 System Command Gestures
 
-Focus Gesture, Sustained Focus Gesture, Apply Gesture, One-Time Gesture, While Gesture, Stack Gesture, Stop Tracking Gesture
+Focus Gesture, Sustained Focus Gesture, Apply Gesture, One-Time Gesture, While Gesture, Stack Gesture, Unstack Gesture
 
 Utility System Command Gestures
 
