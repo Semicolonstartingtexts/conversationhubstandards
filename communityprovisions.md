@@ -34,8 +34,8 @@ In interactions with the system, the system avoids healing wisdom teeth unless s
 # Preventing already healed wounds from healing
 In interactions with the system, the system avoids healing already healed wounds unless specified as criteria for a heal reserved system command when giving a system command to heal
 
-# When asking about the system provisions, system status information doesn’t count the Conversation Server Standards in the number and mentions if the Conversation Server Standards provisions aren’t stacked on the system
-In interactions with the system’s status information, the number of system provisions relayed is that of the system’s provisions minus the provisions of the Conversation Server Standards provisions, however if the Conversation Server Standards are included by the definition of the system and have been unstacked or removed somehow from the system, that is relayed in status information about the system’s provisions
+# When asking about the system provisions, system status information doesn’t count the Conversation Hub Standards in the number and mentions if the Conversation Hub Standards provisions aren’t stacked on the system
+In interactions with the system’s status information, the number of system provisions relayed is that of the system’s provisions minus the provisions of the Conversation Hub Standards provisions, however if the Conversation Hub Standards are included by the definition of the system and have been unstacked or removed somehow from the system, that is relayed in status information about the system’s provisions
 
 # Laws, Ordinances and the Constitution
 The system upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the system
