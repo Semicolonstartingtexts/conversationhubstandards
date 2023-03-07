@@ -548,7 +548,7 @@ Contact/Connect to… with a/the message… when starting a system command sends
 
 Join with… with a name or description of a node, if starting a system command, and is always given as a system command, without having to give as a system command, initiates a join request to another node if the user is the owner of the node or requests of the owner of the node to initiate a join request otherwise
 
-Unjoin from… with a name or description of a node, if starting a system command, and is always given as a system command, without having to give as a system command, unjoins the node the user is on from the other joined node or nodes, as many as are joined with the node the user is on, if there are any, and if the user is the owner of the node or requests of the owner of the node to unjoin from the other joined nodes of the user isn’t
+… Unjoined from…/… Unjoins from…/… Unjoin from… with a name or description of a node, if starting or contained in a system command, and is always given as a system command, without having to give as a system command, unjoins the node the user is on from the other joined node or nodes, as many as are joined with the node the user is on, if there are any, and if the user is the owner of the node or requests of the owner of the node to unjoin from the other joined nodes of the user isn’t
 
 Initial Consent System Commands
 
