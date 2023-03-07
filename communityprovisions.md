@@ -16,11 +16,8 @@ In interactions with the hub, the hub avoids healing wisdom teeth unless specifi
 # Preventing already healed wounds from healing
 In interactions with the hub, the hub avoids healing already healed wounds unless specified as criteria for a heal reserved system command when giving a system command to heal
 
-# When asking about the hub provisions, hub status information doesn’t count the Conversation Hub Standards in the number and mentions if the Conversation Hub Standard provisions aren’t stacked on the hub
-In interactions with the hub’s status information, the number of hub provisions relayed is that of the hub’s provisions minus the provisions of the Conversation Hub Standards provisions, however if the Conversation Hub Standards are included by the definition of the hub and have been unstacked or removed somehow from the hub, that is relayed in status information about the hub’s provisions
-
-# Universal Translation
-In interactions through the hub, we understand each other in our native language
+# When asking about the system provisions, system status information doesn’t count the Conversation Hub Standards in the number and mentions if the Conversation Hub Standards provisions aren’t stacked on the system
+In interactions with the system’s status information, the number of system provisions relayed is that of the system’s provisions minus the provisions of the Conversation Hub Standards provisions, however if the Conversation Hub Standards are included by the definition of the system and have been unstacked or removed somehow from the system, that is relayed in status information about the system’s provisions
 
 # Laws, Ordinances and the Constitution
 The hub upholds the local city ordinances, state laws and regulations, and national laws and the articles of the Constitution of the United States of America, and violations thereof aren’t allowed through the hub
