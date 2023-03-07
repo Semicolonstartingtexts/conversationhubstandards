@@ -131,7 +131,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
+Secure…, Free…, … I confirm…,Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
@@ -370,11 +370,9 @@ Declaring System Commands
 
 Secure… followed by a reference to stacked system speech, when starting a system command, secures the referenced system speech
 
-Ward… followed by a reference to a zone, system, own property of a user, user if the user consents or is consented by a user which has the legal right to consent for the user, or a concept relative to the user to ward
-
 Free… followed by a reference to secured system speech, when starting a system command, ceases the referenced secured system speech being secured
 
-I confirm, by a user without additions to the phrase, at any time after hearing a phrase confirms the phrase for the user as the user’s most recent confirmed phrase
+… I confirm…, at the end of a phrase is always confirmed, if communicated while focusing on system speech, confirms the system speech, otherwise is a phrase starting with the phrase I confirm… becomes a confirmed phrase for the user as the user’s most recent confirmed phrase
 
 Join… the/those… phrases… if given within a system command combines the phrases referenced as described
 
