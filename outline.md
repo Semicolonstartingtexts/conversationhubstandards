@@ -136,7 +136,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Clear the segment… moving… to…, Clear the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Cancel the segment… moving… to…, Cancel the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the node…
 
 Transportation System Commands
 
