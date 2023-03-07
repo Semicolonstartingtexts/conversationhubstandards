@@ -388,7 +388,7 @@ Remove… from… and a reference to a, or to a part, of a stacked system speech
 
 Stack… if starting a system command stacks the system speech described as the stacking gesture does on the mentioned mapping or user, or does on the user, all mappings, if a provisioned is mentioned or implied by the content of the phrase, or mapping the user is in, whichever is most appropriate, if either isn’t mentioned as the target for the stacking in the phrase
 
-Offer… options… if starting a system command, adjusts a phrase to offer additional options for a verb or adjective or adverb in the phrase, in the form, word or not word or word and not word, for the verbs, adjectives and adverbs for the best one of the verbs or adjectives or adverbs in the phrase for the user’s preferrings and intention at the time, or given criteria, if criteria is given
+Offer… options… if starting a system command, adjusts a phrase to offer additional options for a verb or adjective or adverb in the phrase, in the form, word or not word or may word or may not word or may word and not word or word and not word, whichever is best and healthiest to include for the verbs, adjectives and adverbs for the best one of the verbs or adjectives or adverbs in the phrase for the user’s preferrings and intention at the time, or given criteria, if criteria is given
 
 Track... if starting a system command starts tracking the referenced stacked system speech if the system speech has previously been stopped tracking
 
@@ -404,7 +404,7 @@ Stop tracking and unstack… and leave… if starting a system command, stops tr
 
 Clean up… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave… system commands as options for cleaning the user of the unwanted system speech as dictated by the described criteria in the phrase, otherwise by the user’s preferrings, on the user according to the users wants or referenced user or referenced users according to the referenced user or referenced users wants, system if authorized to
 
-Clean up… and adjust… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust… system commands as options for cleaning the user of the unwanted system speech on the user according to what’s best or whatever specific criteria is described in the phrase for the user if there isn’t a referenced user or users, or referenced user or referenced users if there is, according to what’s best the referenced user or referenced users, system if authorized to
+Clean up… and adjust… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust…, offer… options… system commands as options for cleaning the user of the unwanted system speech on the user according to what’s best and healthiest or whatever specific criteria is described in the phrase for the user if there isn’t a referenced user or users, or referenced user or referenced users if there is, according to what’s best the referenced user or referenced users, system if authorized to
 
 Communication System Commands
 
