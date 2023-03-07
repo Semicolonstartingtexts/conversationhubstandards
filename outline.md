@@ -86,7 +86,7 @@ Zone, Lobby, Library
 
 System Command Gestures
 
-Focus Gesture, Sustained Focus Gesture, Apply Gesture, One-Time Gesture, While Gesture, Stack Gesture, Unstack Gesture
+Focus Gesture, Sustained Focus Gesture, Apply Gesture, One-Time Gesture, While Gesture, Stack Gesture, Stop Tracking Gesture
 
 Utility System Command Gestures
 
@@ -112,7 +112,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clean up… and adjust…
+Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Stop tracking…, Stop tracking… and leave…, Stop tracking… and leave…, Untrack and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
