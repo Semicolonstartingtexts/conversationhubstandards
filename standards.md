@@ -131,7 +131,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clear the representation of…, Clear the library…
+Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Track..., Unstack…, Untrack…, Unstack… and leave…, Untrack… and leave…, Untrack and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
@@ -402,11 +402,9 @@ Untrack… and leave… if starting a system command, untracks the described sys
 
 Untrack and unstack… and leave… if starting a system command, untracks what’s tracking and stacked for the user relevant then unstacks the described system speech tracking for the user and the leaves system speech described as a representation of the intention, stored by the system in the system, described stacked as an intention on the user’s self and comments on relevant users
 
-Clean up… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, clear the representation of… system commands as options for cleaning the user of the unwanted system speech on the user according to the users wants or referenced user or referenced users according to the referenced user or referenced users wants, system if authorized to
+Clean up… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust…system commands as options for cleaning the user of the unwanted system speech on the user according to the users wants or referenced user or referenced users according to the referenced user or referenced users wants, system if authorized to
 
-Clear the representation of/lose the system speech… clears the representation stored by the system in the system of the described system speech in the phrase from users which the user is authorized to and the library shelves, after the user confirms their intention to do so with a prompted noticing of the categories of system speech which will be cleared and amounts abandoning the system command’s interaction if the user declines at the prompt or performing the clearing upon approval, if starting a system command
-
-Clear the library… clears the representations stored by the system in the system of what’s shelved in the library and the shelves in the library, for what the user is authorized to, if starting a system command, the owners or administrators of the server may clear the whole library, the prompt noticed by the user before clearing asks the user if there sure they would like to clear the library  abandoning the system command’s interaction if the user declines or performing the clearing of the library, if starting a system command
+Clean up… and adjust… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust… system commands as options for cleaning the user of the unwanted system speech on the user according to what’s best for the user if there isn’t a referenced user or users, or referenced user or referenced users if there is, according to what’s best the referenced user or referenced users, system if authorized to
 
 Communication System Commands
 
