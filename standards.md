@@ -15,7 +15,7 @@ Outline
 # Incoming Connection Requests
 # Semicolon Starting SMS Texts
 
-Reading the outline above is sufficient knowledge of the Conversation Server Standards, which are the conversationserverstandards repository on GitHub.com of the user Semicolonstartingtexts’s current version of the file contents of micro.md, standards.md and communityprovisions.md, without alteration, redaction or expansion, and is considered sufficient informed consent of the provisions described therein in the mappings of a server which has the provisions extended to described in the definition of the server 
+Reading the outline above is sufficient knowledge of the Conversation Server Standards, which are the conversationserverstandards repository on GitHub.com of the user Semicolonstartingtexts’s current version published on the main branch through a git commit of the file contents of micro.md, standards.md and communityprovisions.md, without alteration, redaction or expansion, and is considered sufficient informed consent of the provisions described therein in the mappings of a server which has the provisions extended to described in the definition of the server 
 
 Detailed Outline of the Conversation Server Standards
 
