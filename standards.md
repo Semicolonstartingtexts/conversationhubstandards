@@ -405,6 +405,8 @@ Clean up… followed by a reference to some system speech, if starting a system 
 
 Clean up… and adjust… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust…, offer… options… system commands as options for cleaning the user of the unwanted system speech on the user according to what’s best and healthiest or whatever specific criteria is described in the phrase for the user if there isn’t a referenced user or users, or referenced user or referenced users if there is, according to what’s best the referenced user or referenced users, system if authorized to
 
+Clear... Clears described system speech from the partial correlating register if there’s correlating system speech, if given as a system command by the owner of the system
+
 Communication System Commands
 
 Thinking the phrases send a message to…, replay the last message…, set my messaging confirmation… or reply with… if the user will give the reserved system command through the hub for each of the appropriate context is met and the send a message provision of the hub, has been consented to in any current or previous form whether connected or disconnected from the hub, the default messaging confirmation is “Send and confirm”
