@@ -297,9 +297,9 @@ Lobby, a network in which the application of effects applied in the interactions
 
 Library, the zone where unstacked, stacked system speech gets shelved in the respective library for safe keeping and keeping safe from, without application of effects applied in interactions with the system speech shelved, while shelved, until the system speech is stacked again or deshelved, and to be shelved, as a user or other role, being shelved lets the user notice the user’s been shelved and needs to deshelve or hangup and skips interacting with the other mappings of the hub beyond the send a message… and reply with… reserved system commands or deshelving by a user and the user is unstacked on the user’s stacked system speech, additionally, the users in the library interacting with the user and the users don’t have application of effects applied from the user’s in the library’s stacked system speech in interactions with the user by the user and other users in the library while in the library and the user’s and users’ in the library’s semicolon starting SMS texts for the involved recipients of the semicolon starting SMS texts while in the library
 
-Defined System Command Gestures
+Reserved Defined System Command Gestures
 
-Focus Gesture: The user tapping the second knuckle back from the tip of the user’s forefinger with the user’s thumb tip two times, focus on, if a defined system gesture was performed by the user within the past couple of seconds, the focused intention of the user’s most recent defined system command gesture, otherwise, defines system speech, of the appropriate system speech category and contents, referred to as the focus of the user’s most recent defined system command gesture, which is the representation of the user’s most recent focused intention before the user performed the focus gesture, until user performs another focus gesture or a few seconds go by without performing a defined system command gesture
+Focus Gesture: The user tapping the second knuckle back from the tip of the user’s forefinger with the user’s thumb tip two times, focus on, if a defined system gesture was performed by the user within the past couple of seconds, the focused intention of the user’s most recent defined system command gesture, otherwise, defines system speech, of the appropriate system speech category and contents, referred to as the focus of the user’s most recent defined system command, which is the representation of the user’s most recent focused intention before the user performed the focus gesture, until user performs another focus gesture or a few seconds go by without performing a defined system command
 
 Sustained Focus Gesture: The user holding their knucled the second knuckle back from the tip of the user’s forefinger to the user’s thumb tip focuses on, as system speech of the appropriate system speech category and contents, which is the representation of what the intent intended of the user, while the user is doing the sustained focus gesture that time, which is referred to after as the focused intention of the user’s most recent defined system command gesture
 
@@ -328,10 +328,11 @@ Share & Accept Gestures:  An extended open palm with a description of what to sh
 
 Meaning System Commands Gestures:
 
-Point To Gesture: Tapping the thumb tip of the user to index finger of the user points to the noticed by the user meaning in the focus of the most recent gesture of the user
+Point To Gesture: Tapping the thumb tip of the user to index finger of the user points to the
+meaning which was the intended focus of the user most recently or the meaning which was referenced by the focused intention of the most recent defined system command
 
 Sustained Point To Gesture:
-Holding the thumb tip of the user to the index finger of the user focuses on and points to the noticed by the user meaning in the focus of the most recent gesture of the user
+Holding the thumb tip of the user to the index finger of the user focuses on and points to the noticed by the user meaning in the focus of the most recent defined system command of the user
 
 Enact Gesture: The tritip, touching thumb tip of the user to index finger tip of the user to middle finger tip of the user together enacts the pointed to meaning of the most recent focus of the most recent gesture of the user
 
@@ -356,7 +357,7 @@ Listen Meaningfully To Myself and Others Gesture: Hold out only the index, ring,
 
 Listen From The Meaning Dictionary Of The Communicating User Gesture: Hold out only the pinky to listen for meanings from the communicating user’s meaning dictionaries
 
-Reserved System Commands
+Reserved Defined System Commands
 
 Administrative System Commands
 
@@ -437,16 +438,6 @@ Stop tracking and unstack… and leave… if starting a system command, stops tr
 Clean up… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave… system commands as options for cleaning the user of the unwanted system speech as dictated by the described criteria in the phrase, otherwise by the user’s preferrings, on the user according to the users wants or referenced user or referenced users according to the referenced user or referenced users wants, system if authorized to
 
 Clean up… and adjust… followed by a reference to some system speech, if starting a system command, does the best for the user and other users choice of mix of the untrack…, unstack… unstack and leave…, untrack and leave…, unstack and untrack… and leave…, adjust…, offer… options… system commands as options for cleaning the user of the unwanted system speech on the user according to what’s best and healthiest or whatever specific criteria is described in the phrase for the user if there isn’t a referenced user or users, or referenced user or referenced users if there is, according to what’s best the referenced user or referenced users, system if authorized to
-
-Meaning System Commands:
-Point the focus to/Point... To... That/what... Means... if starting a system command, points the described focus to a described meaning
-... Points to... If contained in a system command, points the described focus to a described meaning
-Enact...
-I don’t know what... Means.../Dereference the pointer for...
-Repeal the meaning and the results of storing...
-Store the focus as a meaning...
-Listen for meanings in...
-Stop listening for meanings in...
 
 Communication System Commands
 
