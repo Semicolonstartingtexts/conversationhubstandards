@@ -1,8 +1,8 @@
-Detailed Outline of the Conversation Server Standards
+Detailed Outline of the Conversation Hub Standards
 
 System Priorities
 
-Conversation Server Standards
+Conversation Hub Standards
 
 The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
@@ -48,9 +48,9 @@ Owner of the Endpoint
 
 Owner of the Waypoint of the Endpoint
 
-Owner of the Server of the Endpoint or Waypoint
+Owner of the Hub of the Endpoint or Waypoint
 
-Owner of the Relay of the Server
+Owner of the Relay of the Hub
 
 Administrator
 
@@ -64,9 +64,9 @@ Endpoint
 
 Waypoint
 
-Server
+Hub
 
-Relay or Node
+Relay or Lobby
 
 System Speech
 
@@ -78,7 +78,7 @@ Declarations, Interactions
 
 System Setup
 
-Preferrings, Server Provisions, User, Owner, Administrator, Moderator, Endpoint, Node, Joining, Waypoint, Relay, Server, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Free, Stacking, Tracking, Mappings
+Preferrings, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, Lobby, Joining, Waypoint, Relay, Hub, Definition Of The System, Confirmation, Initiation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Free, Stacking, Tracking, Mappings
 
 System Mappings
 
@@ -112,7 +112,7 @@ Focus on..., … Command…/… Commands…/… Apply…, Request… of…, Make
 
 Declaring System Commands
 
-Secure…, Free…, Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
+Secure…, Free…, … I confirm…,Join… the/those… phrases…, Change… to say…, Amend… With…, Prepend… To…, Add… that… to…, Remove… from…, Stack..., Offer… options…, Track..., Unstack…, Stop tracking…, Unstack… and leave…, Stop tracking… and leave…, Stop tracking and unstack… and leave…, Clean up…, Clean up… and adjust…
 
 Communication System Commands
 
@@ -136,7 +136,7 @@ Attach…, Unattach from…, Extend to…, Stop extending to…, Generate system
 
 Setup System Commands
 
-... Setup... Phone As A Waypoint?, ... Setup... Phone As A Node?, ... Point To... Supported Web Address As A Relay?, Add a server called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Cancel the segment… moving… to…, Cancel the segment… and hang up the segment…, Point the waypoint/endpoint/node to the … server, Lose the … server/relay/node/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the node…
+... Setup... Phone As A Waypoint?, ... Setup... Phone As A Lobby?, ... Point To... Supported Web Address As A Relay?, Add a hub called…, Add a segment called… for…, Add a segment called… for… on…, Generate a new segment name…, Cancel the segment… moving… to…, Cancel the segment… and hang up the segment…, Point the waypoint/endpoint/lobby to the … hub, Lose the … hub/relay/lobby/waypoint, Allow access to/on/for… for…, Restrict access to/on/for… for…, Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…, Suspend…, Resume the…, Cancel the lobby…
 
 Transportation System Commands
 
