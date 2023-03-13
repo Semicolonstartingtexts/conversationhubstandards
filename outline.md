@@ -144,7 +144,7 @@ Transportation System Commands
 
 Connection System Commands
 
-Connect to…, Connect to… with a/the message…, ...Hangup/Leave…, Join with…, Unjoin from…
+Connect to…, Connect to… with a/the message…, ...Hangup/Leave…, Join with…, Disjoint from…
 
 Initial Consent System Commands
 
